@@ -1,0 +1,56 @@
+# Backend dependencies — pinned versions
+fastapi==0.115.6
+uvicorn[standard]==0.34.0
+pydantic==2.10.4
+pydantic-settings==2.7.1
+python-multipart==0.0.20
+aiofiles==24.1.0
+httpx==0.28.1
+redis[hiredis]==5.2.1
+sse-starlette==2.2.1
+
+# ML / NLP
+torch==2.5.1
+transformers==4.47.1
+sentence-transformers==3.3.1
+bertopic==0.16.4
+hdbscan==0.8.40
+umap-learn==0.5.7
+scikit-learn==1.6.1
+langdetect==1.0.9
+pycld3==0.22
+
+# Data handling
+pandas==2.2.3
+openpyxl==3.1.5
+xlrd==2.0.1
+numpy==1.26.4
+
+# Export
+reportlab==4.2.5
+weasyprint==63.1
+
+# Observability
+opentelemetry-api==1.29.0
+opentelemetry-sdk==1.29.0
+opentelemetry-instrumentation-fastapi==0.50b0
+opentelemetry-exporter-otlp==1.29.0
+prometheus-client==0.21.1
+prometheus-fastapi-instrumentator==7.0.2
+structlog==24.4.0
+
+# Security
+python-jose[cryptography]==3.3.0
+slowapi==0.1.9
+
+# Testing
+pytest==8.3.4
+pytest-asyncio==0.25.0
+pytest-cov==6.0.0
+httpx==0.28.1
+
+# Utilities
+python-dotenv==1.0.1
+tenacity==9.0.0
+sentencepiece==0.2.0
+protobuf==5.29.3

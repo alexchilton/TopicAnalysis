@@ -1,0 +1,501 @@
+id,text,source,timestamp,rating
+0550d633e0fc,Worst customer service I've ever encountered. Score: 1/5.,app_store,2024-01-01T13:02:00,1
+173ef1403ddb,El servicio al cliente fue increíblemente útil.,support_ticket,2024-01-01T22:34:00,4
+e6b5dff85469,Ich liebe dieses Produkt! Bester Kauf den ich je gemacht habe.,support_ticket,2024-01-01T05:44:00,5
+1a1d71db74d0,カスタマーサービスが非常に親切で助かりました。 スコア: 5/10。,app_store,2024-01-02T19:16:00,5
+e5668ef2ba52,Functional product. Does what it says. Overall rating: 3/5.,survey,2024-01-02T21:14:00,3
+d2ab38a62733,"Standard service, met expectations but didn't exceed them.",twitter,2024-01-02T11:10:00,3
+1e7e92790b1b,Qualité médiocre. Cassé après deux semaines d'utilisation.,email,2024-01-03T19:40:00,1
+1dfe556ae589,"The new feature update is amazing, exactly what I needed.",app_store,2024-01-03T01:14:00,5
+96a99d0e0c89,Excellent value for money. Exceeded my expectations. Overall rating: 5/5.,chat,2024-01-03T08:08:00,5
+7b11f298ec63,Average experience. Delivery was on time.,web_form,2024-01-04T04:32:00,3
+f88afbed6282,Average experience. Delivery was on time.,play_store,2024-01-04T13:38:00,3
+e897b47af36f,Very satisfied with the experience. Highly recommend!,play_store,2024-01-04T00:43:00,5
+a23f0c3ca118,Really impressed with the build quality and design. Score: 5/5.,chat,2024-01-05T09:53:00,4
+dabb18cc10d7,El producto funciona como se describe. Nada especial.,play_store,2024-01-05T15:01:00,3
+c5236a2867ef,Customer service was incredibly helpful and resolved my issue quickly. Overall rating: 5/5.,email,2024-01-06T21:30:00,5
+89d5feeb2dbe,製品は説明通りに動作します。特別なものはありません。,twitter,2024-01-06T12:42:00,3
+bc23021bfd04,Excellent value for money. Exceeded my expectations. Overall rating: 4/5.,app_store,2024-01-06T22:40:00,4
+606cc9cf0904,Das Produkt funktioniert wie beschrieben. Nichts Besonderes.,web_form,2024-01-07T08:42:00,3
+8296a3f28b29,Schlechte Qualität. Nach zwei Wochen kaputt gegangen.,support_ticket,2024-01-07T15:51:00,1
+3a739e818bfc,The team went above and beyond to help me. Outstanding!,play_store,2024-01-07T23:03:00,4
+670c149d339a,Das Produkt kam beschädigt an und der Support war nutzlos. Note: 2/10.,web_form,2024-01-08T05:17:00,1
+54e348820065,"Ausgezeichnete Qualität, schneller Versand. Sehr empfehlenswert! Bewertung: 4/5.",web_form,2024-01-08T13:31:00,4
+5327d77f7b35,Product works as described. Nothing special.,web_form,2024-01-08T08:59:00,3
+3393cd2932cc,Qualité médiocre. Cassé après deux semaines d'utilisation.,chat,2024-01-09T15:09:00,1
+b927e7bdc05f,El producto funciona como se describe. Nada especial.,web_form,2024-01-09T01:03:00,3
+888b9177995c,Average experience. Delivery was on time. Overall rating: 3/5.,app_store,2024-01-10T18:15:00,3
+d81bdf9f2357,Mala calidad. Se rompió después de dos semanas.,twitter,2024-01-10T06:42:00,2
+da135c9331b5,"Excellente qualité, livraison rapide. Je recommande vivement !",web_form,2024-01-10T02:00:00,4
+8fd0b472807f,El servicio al cliente fue increíblemente útil.,chat,2024-01-11T02:56:00,5
+92af5b48a7c7,"Ausgezeichnete Qualität, schneller Versand. Sehr empfehlenswert!",app_store,2024-01-11T20:33:00,5
+b2c2c0cc6bbb,Product works as described. Nothing special.,email,2024-01-11T23:35:00,3
+b634861b9043,Le produit est arrivé endommagé et le support était inutile.,web_form,2024-01-12T08:32:00,1
+1d1538f28fd5,Very satisfied with the experience. Highly recommend! Overall rating: 5/5.,support_ticket,2024-01-12T23:28:00,4
+86c5d6ce1088,Ich liebe dieses Produkt! Bester Kauf den ich je gemacht habe.,email,2024-01-12T11:37:00,5
+a0a53f1616dd,Absolutely love this product! Best purchase I've made.,chat,2024-01-13T06:43:00,4
+778d0f82ac8f,Das Produkt funktioniert wie beschrieben. Nichts Besonderes.,chat,2024-01-13T23:09:00,3
+fb224973241b,It's okay for the price point. Nothing to complain about.,chat,2024-01-13T13:51:00,3
+4ec684fa590c,Product works as described. Nothing special.,web_form,2024-01-14T07:12:00,3
+e800bce99714,Das Produkt funktioniert wie beschrieben. Nichts Besonderes. Note: 3/10.,survey,2024-01-14T02:49:00,3
+343d312dd42b,Schreckliche Erfahrung. 3 Wochen gewartet ohne Ergebnis.,survey,2024-01-15T03:56:00,2
+36f59b9ff17f,"Excelente calidad, envío rápido. Definitivamente pediré de nuevo.",play_store,2024-01-15T10:27:00,5
+b0d51f1b0512,J'adore ce produit ! Le meilleur achat que j'ai fait.,chat,2024-01-15T17:43:00,5
+aae9126e971c,"Excellente qualité, livraison rapide. Je recommande vivement !",play_store,2024-01-16T21:54:00,5
+e8dc1b963a6f,Worst customer service I've ever encountered.,support_ticket,2024-01-16T06:26:00,2
+46e6d7b29beb,Der Kundenservice war unglaublich hilfreich. Note: 5/10.,chat,2024-01-16T14:43:00,5
+f7c6833d7219,Not worth the price. Very disappointing quality. Overall rating: 2/5.,app_store,2024-01-17T04:01:00,2
+c531f9434103,Expérience terrible. J'ai attendu 3 semaines pour rien.,chat,2024-01-17T20:36:00,2
+163491235d98,Absolutely love this product! Best purchase I've made.,support_ticket,2024-01-17T03:49:00,4
+a259a173d317,Expérience moyenne. Livraison à temps. Note: 3/5.,twitter,2024-01-18T14:42:00,3
+f400e865ee2f,El producto funciona como se describe. Nada especial.,survey,2024-01-18T15:28:00,3
+a6f2276573c5,El producto funciona como se describe. Nada especial. Calificación: 3/10.,play_store,2024-01-19T10:20:00,3
+51757444a3b3,Le service client était incroyablement utile et efficace. Évaluation: 5/10.,support_ticket,2024-01-19T01:13:00,5
+7d35f60f1579,Expérience moyenne. Livraison à temps.,support_ticket,2024-01-19T11:19:00,3
+bf1be5d15e60,Really impressed with the build quality and design. Would rate 5/10.,app_store,2024-01-20T04:39:00,5
+54063714b971,Really impressed with the build quality and design. Overall rating: 5/5.,twitter,2024-01-20T14:20:00,5
+9a502b79557d,Das Produkt funktioniert wie beschrieben. Nichts Besonderes.,app_store,2024-01-20T15:01:00,3
+8a0b4fdaa6c3,Qualité médiocre. Cassé après deux semaines d'utilisation. Note: 1/5.,chat,2024-01-21T19:09:00,2
+140d1db71e91,Experiencia terrible. Esperé 3 semanas sin resultado.,twitter,2024-01-21T08:49:00,1
+9975ccf52bc0,It's okay for the price point. Nothing to complain about. Would rate 3/10.,play_store,2024-01-21T22:12:00,3
+bc467cbf5958,Terrible experience. Waited 3 weeks for delivery that never came.,app_store,2024-01-22T18:50:00,2
+a0336571974a,Not worth the price. Very disappointing quality. Would rate 2/10.,web_form,2024-01-22T11:40:00,2
+c3f31a575d3d,"Excelente calidad, envío rápido. Definitivamente pediré de nuevo.",web_form,2024-01-22T17:49:00,5
+90c35decddb2,Experiencia promedio. La entrega fue puntual.,web_form,2024-01-23T02:17:00,3
+94e74a08a7bf,"Excellente qualité, livraison rapide. Je recommande vivement ! Note: 5/5.",survey,2024-01-23T11:51:00,5
+dfe9e2a10c94,Expérience moyenne. Livraison à temps.,play_store,2024-01-24T16:12:00,3
+b6fb94eb1892,Très satisfait de l'expérience. Hautement recommandé !,app_store,2024-01-24T15:28:00,4
+c8b70629ff7e,"Excellente qualité, livraison rapide. Je recommande vivement !",twitter,2024-01-24T11:30:00,5
+01f86c46c244,Very satisfied with the experience. Highly recommend! Overall rating: 4/5.,email,2024-01-25T23:34:00,4
+f56d52e51b18,Worst customer service I've ever encountered.,chat,2024-01-25T06:18:00,1
+dfd3e9757cbc,Le service client était incroyablement utile et efficace. Évaluation: 4/10.,app_store,2024-01-25T03:55:00,5
+4d976b6f6a88,Absolutely love this product! Best purchase I've made. Would rate 5/10.,app_store,2024-01-26T15:04:00,4
+bf4450bf2dd7,製品は説明通りに動作します。特別なものはありません。,support_ticket,2024-01-26T03:35:00,3
+a1099b2043a5,The team went above and beyond to help me. Outstanding!,play_store,2024-01-26T19:03:00,4
+6539bc5b1089,"The new feature update is amazing, exactly what I needed. Would rate 4/10.",web_form,2024-01-27T14:44:00,5
+733c121b417e,Très satisfait de l'expérience. Hautement recommandé ! Évaluation: 4/10.,chat,2024-01-27T03:34:00,4
+ac1cca4b7bc4,Average experience. Delivery was on time.,survey,2024-01-28T19:47:00,3
+2060c03dd652,The team went above and beyond to help me. Outstanding!,web_form,2024-01-28T16:34:00,5
+24c8a0d9693f,"Ausgezeichnete Qualität, schneller Versand. Sehr empfehlenswert!",play_store,2024-01-28T08:01:00,4
+f4867eaece55,Expérience moyenne. Livraison à temps.,web_form,2024-01-29T05:30:00,3
+3c19c87c4a10,"Standard service, met expectations but didn't exceed them.",support_ticket,2024-01-29T15:22:00,3
+ed52a1a6d205,Schreckliche Erfahrung. 3 Wochen gewartet ohne Ergebnis.,support_ticket,2024-01-29T15:18:00,2
+4f7928992601,Customer service was incredibly helpful and resolved my issue quickly.,app_store,2024-01-30T12:55:00,5
+f198df0da3a0,Muy satisfecho con la experiencia. ¡Lo recomiendo!,survey,2024-01-30T01:13:00,4
+dc1b9aa72d14,J'adore ce produit ! Le meilleur achat que j'ai fait. Note: 4/5.,play_store,2024-01-30T17:26:00,4
+40946150cc51,"Great quality, fast shipping. Will definitely order again.",survey,2024-01-31T22:18:00,5
+2beccf55e2df,Functional product. Does what it says. Would rate 3/10.,survey,2024-01-31T13:21:00,3
+dd7733e046a7,Schlechte Qualität. Nach zwei Wochen kaputt gegangen.,email,2024-01-31T15:55:00,2
+0843fb436b8d,Muy satisfecho con la experiencia. ¡Lo recomiendo!,chat,2024-02-01T10:55:00,4
+75baf2ad5cf2,J'adore ce produit ! Le meilleur achat que j'ai fait.,support_ticket,2024-02-01T15:45:00,5
+b78ef5099494,Excellent value for money. Exceeded my expectations.,web_form,2024-02-02T14:06:00,4
+6d6a2a6b90f8,Le service client était incroyablement utile et efficace. Note: 5/5.,support_ticket,2024-02-02T10:54:00,5
+5ad7a5d5d629,Product works as described. Nothing special. Would rate 3/10.,play_store,2024-02-02T03:48:00,3
+628981826b8b,製品が破損して届きました。サポートも役に立ちませんでした。,twitter,2024-02-03T01:18:00,2
+82d9e7af73b4,El servicio al cliente fue increíblemente útil. Calificación: 4/10.,chat,2024-02-03T18:09:00,5
+4d93ae3dd21c,Très satisfait de l'expérience. Hautement recommandé !,email,2024-02-03T21:34:00,4
+b676359c603a,製品は説明通りに動作します。特別なものはありません。,survey,2024-02-04T13:44:00,3
+b70f2085da3e,Really impressed with the build quality and design. Score: 5/5.,support_ticket,2024-02-04T09:01:00,5
+5d084a7ecc0b,J'adore ce produit ! Le meilleur achat que j'ai fait.,survey,2024-02-04T23:31:00,4
+32678c956496,Very satisfied with the experience. Highly recommend!,email,2024-02-05T23:49:00,4
+50250461bc18,Excellent value for money. Exceeded my expectations.,survey,2024-02-05T02:58:00,5
+2cfe16ffcac1,Excellent value for money. Exceeded my expectations.,email,2024-02-06T08:53:00,5
+64b362a374c5,It's okay for the price point. Nothing to complain about.,email,2024-02-06T14:04:00,3
+f8cf2040bdc3,Das Produkt funktioniert wie beschrieben. Nichts Besonderes. Bewertung: 3/5.,survey,2024-02-06T14:23:00,3
+c5a4102c0ec3,Absolutely love this product! Best purchase I've made.,chat,2024-02-07T17:20:00,4
+e02fb7dcd6c1,"Standard service, met expectations but didn't exceed them. Would rate 3/10.",chat,2024-02-07T03:06:00,3
+d847a34ad2a9,Très satisfait de l'expérience. Hautement recommandé !,support_ticket,2024-02-07T23:09:00,4
+9c53a13f87f4,ひどい経験でした。3週間待っても届きませんでした。 スコア: 1/10。,twitter,2024-02-08T07:54:00,2
+2fdecc6a7d5e,カスタマーサービスが非常に親切で助かりました。 スコア: 5/10。,chat,2024-02-08T02:42:00,4
+c5ccf0df4480,Average experience. Delivery was on time.,chat,2024-02-08T06:04:00,3
+6c260231024c,Absolutely love this product! Best purchase I've made. Overall rating: 4/5.,app_store,2024-02-09T03:42:00,4
+c542220e734d,"Excellente qualité, livraison rapide. Je recommande vivement ! Évaluation: 5/10.",play_store,2024-02-09T16:07:00,5
+18138fbc57b6,El producto funciona como se describe. Nada especial.,app_store,2024-02-09T07:39:00,3
+075c6e01e4f8,Misleading product description. Nothing like advertised.,play_store,2024-02-10T13:43:00,2
+b9c98afc431e,"Great quality, fast shipping. Will definitely order again. Score: 5/5.",web_form,2024-02-10T16:18:00,5
+20b0b9cb0def,Functional product. Does what it says.,web_form,2024-02-11T06:27:00,3
+ebfecc937650,The team went above and beyond to help me. Outstanding!,twitter,2024-02-11T10:27:00,5
+ac1a64402be9,Expérience moyenne. Livraison à temps. Note: 3/5.,twitter,2024-02-11T23:47:00,3
+9cbd8bbf44e9,"Excelente calidad, envío rápido. Definitivamente pediré de nuevo.",support_ticket,2024-02-12T13:22:00,4
+9c56d6667025,Poor quality materials. Broke after two weeks of use. Would rate 1/10.,play_store,2024-02-12T17:23:00,1
+5c1d11a5dd01,Das Produkt funktioniert wie beschrieben. Nichts Besonderes.,survey,2024-02-12T21:53:00,3
+18ff62b0b951,"Excellente qualité, livraison rapide. Je recommande vivement !",email,2024-02-13T05:55:00,5
+8c7784e2e007,¡Me encanta este producto! La mejor compra que he hecho. Calificación: 4/10.,twitter,2024-02-13T10:10:00,5
+f7115d9153c8,El producto funciona como se describe. Nada especial.,app_store,2024-02-13T04:10:00,3
+d68d8f0b4219,Really impressed with the build quality and design.,play_store,2024-02-14T06:48:00,5
+a49854c53956,Très satisfait de l'expérience. Hautement recommandé !,chat,2024-02-14T09:02:00,5
+c4d95d92ddee,"The new feature update is amazing, exactly what I needed.",twitter,2024-02-15T08:18:00,4
+389f5a9171f1,"Great quality, fast shipping. Will definitely order again.",twitter,2024-02-15T22:14:00,4
+021d3dbea95a,Product works as described. Nothing special.,twitter,2024-02-15T02:55:00,3
+ce92f5aa1131,Terrible experience. Waited 3 weeks for delivery that never came.,web_form,2024-02-16T10:10:00,1
+247d1dd5de5a,The team went above and beyond to help me. Outstanding!,support_ticket,2024-02-16T16:05:00,5
+04dc02158007,J'adore ce produit ! Le meilleur achat que j'ai fait.,chat,2024-02-16T03:33:00,5
+b4413ca52dda,Das Produkt kam beschädigt an und der Support war nutzlos. Bewertung: 2/5.,play_store,2024-02-17T19:09:00,2
+a05c3f9d5e29,Muy satisfecho con la experiencia. ¡Lo recomiendo!,twitter,2024-02-17T18:41:00,5
+b9a9d3e33dc0,Very satisfied with the experience. Highly recommend!,twitter,2024-02-17T18:03:00,4
+fed9888473f7,Excellent value for money. Exceeded my expectations.,play_store,2024-02-18T02:41:00,5
+2ca433075686,素晴らしい品質です。強くお勧めします！,chat,2024-02-18T14:58:00,5
+ac04fd57afc3,カスタマーサービスが非常に親切で助かりました。 評価: 5/5。,web_form,2024-02-18T07:45:00,5
+da14a011772e,カスタマーサービスが非常に親切で助かりました。,app_store,2024-02-19T10:43:00,5
+1cdd5b8c0c40,Muy satisfecho con la experiencia. ¡Lo recomiendo! Puntuación: 4/5.,support_ticket,2024-02-19T11:19:00,4
+8da171ee35f4,Excellent value for money. Exceeded my expectations.,play_store,2024-02-20T21:44:00,5
+5d5d109b06c0,"The new feature update is amazing, exactly what I needed.",chat,2024-02-20T15:12:00,4
+42101be2f892,Ich liebe dieses Produkt! Bester Kauf den ich je gemacht habe.,app_store,2024-02-20T17:53:00,5
+aee5fd8241b0,"Great quality, fast shipping. Will definitely order again.",email,2024-02-21T19:51:00,5
+9720c191019c,Le service client était incroyablement utile et efficace.,web_form,2024-02-21T19:18:00,4
+bf2323afae55,Der Kundenservice war unglaublich hilfreich.,web_form,2024-02-21T06:23:00,5
+dd7462f688fe,Experiencia promedio. La entrega fue puntual.,email,2024-02-22T06:51:00,3
+a14a777be24b,Schlechte Qualität. Nach zwei Wochen kaputt gegangen.,play_store,2024-02-22T22:54:00,1
+d5c68a8124fe,Functional product. Does what it says. Would rate 3/10.,app_store,2024-02-22T11:59:00,3
+063783a4c96d,The team went above and beyond to help me. Outstanding!,app_store,2024-02-23T11:14:00,5
+eb64c0add977,El producto funciona como se describe. Nada especial. Calificación: 3/10.,app_store,2024-02-23T14:39:00,3
+23566e75a4a4,Schlechte Qualität. Nach zwei Wochen kaputt gegangen.,support_ticket,2024-02-24T19:33:00,2
+5f69f5c7df59,Poor quality materials. Broke after two weeks of use.,play_store,2024-02-24T19:29:00,2
+302e4e5e6d4e,Poor quality materials. Broke after two weeks of use.,app_store,2024-02-24T09:27:00,1
+169f965e3cb6,Terrible experience. Waited 3 weeks for delivery that never came.,app_store,2024-02-25T11:04:00,2
+73c9f76a8afa,Excellent value for money. Exceeded my expectations. Would rate 4/10.,play_store,2024-02-25T07:46:00,5
+7e3b9ab6df95,El servicio al cliente fue increíblemente útil.,web_form,2024-02-25T21:29:00,4
+ac10cdfed3bd,Très satisfait de l'expérience. Hautement recommandé ! Note: 4/5.,survey,2024-02-26T10:59:00,5
+aa424db54c37,Le produit est arrivé endommagé et le support était inutile. Note: 2/5.,support_ticket,2024-02-26T11:27:00,2
+66bf64e93e6c,Misleading product description. Nothing like advertised.,play_store,2024-02-26T16:17:00,1
+77ec32f577db,製品が破損して届きました。サポートも役に立ちませんでした。,play_store,2024-02-27T10:06:00,2
+b79aac27202a,El peor servicio al cliente que he experimentado. Puntuación: 2/5.,twitter,2024-02-27T23:55:00,2
+6caaf83f597c,Le produit est arrivé endommagé et le support était inutile. Note: 2/5.,web_form,2024-02-27T04:54:00,1
+526d8f64594d,"Excellente qualité, livraison rapide. Je recommande vivement !",email,2024-02-28T18:02:00,5
+d508b22b559b,Qualité médiocre. Cassé après deux semaines d'utilisation. Évaluation: 2/10.,app_store,2024-02-28T07:07:00,2
+7679a8a35fc1,製品が破損して届きました。サポートも役に立ちませんでした。 スコア: 2/10。,web_form,2024-02-29T22:58:00,1
+bc36cbb607e6,"Great quality, fast shipping. Will definitely order again.",twitter,2024-02-29T14:05:00,5
+ae2f775d7121,Worst customer service I've ever encountered.,email,2024-02-29T22:45:00,1
+2c27fcd963d8,"Great quality, fast shipping. Will definitely order again. Score: 5/5.",web_form,2024-03-01T18:23:00,4
+ab62a3f12541,Really impressed with the build quality and design.,play_store,2024-03-01T13:52:00,4
+e5a8841b80fc,Not worth the price. Very disappointing quality. Score: 1/5.,play_store,2024-03-01T01:53:00,2
+126ea062cbd8,"The new feature update is amazing, exactly what I needed.",survey,2024-03-02T16:57:00,4
+d0d07e36a0b8,カスタマーサービスが非常に親切で助かりました。 評価: 5/5。,twitter,2024-03-02T05:42:00,4
+4aeee428251e,素晴らしい品質です。強くお勧めします！ スコア: 4/10。,survey,2024-03-02T20:34:00,5
+4e085be965de,Schreckliche Erfahrung. 3 Wochen gewartet ohne Ergebnis. Note: 1/10.,web_form,2024-03-03T13:30:00,2
+dc35614e7f48,Not worth the price. Very disappointing quality.,email,2024-03-03T11:25:00,1
+6391048b938d,Worst customer service I've ever encountered.,app_store,2024-03-03T04:06:00,2
+614860c7bc7f,Average experience. Delivery was on time.,twitter,2024-03-04T18:46:00,3
+0ba94e4aae2c,El peor servicio al cliente que he experimentado.,play_store,2024-03-04T15:01:00,2
+2cd21a3b6407,It's okay for the price point. Nothing to complain about. Would rate 3/10.,play_store,2024-03-05T17:00:00,3
+a7771b767fca,Expérience moyenne. Livraison à temps.,chat,2024-03-05T12:03:00,3
+6626e8341b30,"Excelente calidad, envío rápido. Definitivamente pediré de nuevo.",play_store,2024-03-05T19:43:00,4
+d67316930082,Expérience terrible. J'ai attendu 3 semaines pour rien.,email,2024-03-06T11:48:00,2
+7d73508b37a0,The software crashes constantly. Very frustrating.,web_form,2024-03-06T15:33:00,1
+a6ca4b5e29b7,Experiencia terrible. Esperé 3 semanas sin resultado.,survey,2024-03-06T19:47:00,2
+4a8db1e38a00,Product arrived damaged and customer support was unhelpful.,support_ticket,2024-03-07T21:07:00,1
+a9c8ba0f3417,Poor quality materials. Broke after two weeks of use.,email,2024-03-07T18:30:00,1
+f2affdb0a287,Functional product. Does what it says.,app_store,2024-03-07T03:12:00,3
+5f9d2ff7ec45,Poor quality materials. Broke after two weeks of use.,web_form,2024-03-08T19:58:00,1
+a63a8fffc3ed,El peor servicio al cliente que he experimentado.,web_form,2024-03-08T10:11:00,2
+5399e5852a49,Schlechte Qualität. Nach zwei Wochen kaputt gegangen.,web_form,2024-03-09T22:16:00,1
+bdfb9dacf3d3,Worst customer service I've ever encountered.,web_form,2024-03-09T22:13:00,2
+361d4fb8d236,ひどい経験でした。3週間待っても届きませんでした。 評価: 2/5。,survey,2024-03-09T09:02:00,2
+9acdae4d45dd,Expérience moyenne. Livraison à temps. Note: 3/5.,chat,2024-03-10T19:47:00,3
+2d110d201206,Experiencia terrible. Esperé 3 semanas sin resultado. Puntuación: 2/5.,email,2024-03-10T21:49:00,1
+50076c00863c,ひどい経験でした。3週間待っても届きませんでした。,survey,2024-03-10T06:48:00,2
+2b666b3d4da8,製品が破損して届きました。サポートも役に立ちませんでした。,app_store,2024-03-11T07:34:00,2
+2ece8489ed9b,Product works as described. Nothing special.,web_form,2024-03-11T12:50:00,3
+4b4d830d2a88,Functional product. Does what it says.,web_form,2024-03-11T10:18:00,3
+59b23f162bdd,Average experience. Delivery was on time.,web_form,2024-03-12T10:10:00,3
+ec5cbb02072a,Very satisfied with the experience. Highly recommend!,support_ticket,2024-03-12T06:11:00,5
+01805b045f78,Le service client était incroyablement utile et efficace.,chat,2024-03-13T15:20:00,4
+49386ec69c94,Worst customer service I've ever encountered.,app_store,2024-03-13T09:37:00,2
+656f19b49e10,Terrible experience. Waited 3 weeks for delivery that never came.,survey,2024-03-13T05:25:00,2
+f32ecdbf3bf2,The software crashes constantly. Very frustrating.,twitter,2024-03-14T14:47:00,2
+9b0946c02e90,Das Produkt funktioniert wie beschrieben. Nichts Besonderes.,play_store,2024-03-14T21:48:00,3
+22705c465bbf,¡Me encanta este producto! La mejor compra que he hecho.,email,2024-03-14T16:12:00,4
+d936f17c9fe1,Average experience. Delivery was on time.,web_form,2024-03-15T15:05:00,3
+11cd45dc8595,Absolutely love this product! Best purchase I've made.,survey,2024-03-15T21:51:00,4
+a426493fdb35,Poor quality materials. Broke after two weeks of use.,twitter,2024-03-15T01:27:00,1
+54f59417dfaf,"Standard service, met expectations but didn't exceed them. Score: 3/5.",support_ticket,2024-03-16T23:41:00,3
+8807cfab33fa,ひどい経験でした。3週間待っても届きませんでした。,email,2024-03-16T21:42:00,1
+9599268f98b3,El servicio al cliente fue increíblemente útil.,app_store,2024-03-16T07:53:00,4
+b32102273fab,Expérience terrible. J'ai attendu 3 semaines pour rien.,web_form,2024-03-17T07:15:00,1
+db01f92bc44d,製品が破損して届きました。サポートも役に立ちませんでした。 評価: 1/5。,app_store,2024-03-17T02:06:00,1
+5b83380eb993,Misleading product description. Nothing like advertised. Score: 1/5.,twitter,2024-03-18T09:14:00,1
+5f23203cfaf4,Poor quality materials. Broke after two weeks of use.,email,2024-03-18T08:03:00,2
+12101320cd4f,The team went above and beyond to help me. Outstanding!,support_ticket,2024-03-18T10:44:00,5
+81e1839285f2,Misleading product description. Nothing like advertised. Would rate 2/10.,support_ticket,2024-03-19T01:35:00,1
+413b7c7fe009,Not worth the price. Very disappointing quality.,twitter,2024-03-19T14:54:00,1
+1733d7255f2c,Absolutely love this product! Best purchase I've made.,chat,2024-03-19T06:51:00,5
+1cc03469e91f,Product works as described. Nothing special. Overall rating: 3/5.,chat,2024-03-20T22:38:00,3
+545d0bb313e0,Expérience terrible. J'ai attendu 3 semaines pour rien.,survey,2024-03-20T20:22:00,2
+9217d6bb48e9,Terrible experience. Waited 3 weeks for delivery that never came.,twitter,2024-03-20T23:30:00,2
+d5cec0823ea3,Poor quality materials. Broke after two weeks of use.,support_ticket,2024-03-21T00:16:00,1
+5c8873f259db,"The new feature update is amazing, exactly what I needed.",twitter,2024-03-21T20:43:00,5
+73d70d5125b3,Experiencia promedio. La entrega fue puntual.,twitter,2024-03-22T23:50:00,3
+c2e558b70544,Product arrived damaged and customer support was unhelpful.,app_store,2024-03-22T02:52:00,2
+bd26ada51971,¡Me encanta este producto! La mejor compra que he hecho.,web_form,2024-03-22T00:13:00,5
+e564a7c66c93,Qualité médiocre. Cassé après deux semaines d'utilisation.,app_store,2024-03-23T21:31:00,2
+72db904b73ab,"Excelente calidad, envío rápido. Definitivamente pediré de nuevo.",support_ticket,2024-03-23T09:01:00,4
+f3ec3339069f,El producto funciona como se describe. Nada especial. Calificación: 3/10.,support_ticket,2024-03-23T02:23:00,3
+26eff9c842d7,Product works as described. Nothing special.,app_store,2024-03-24T20:48:00,3
+dc1d6ba29517,El producto llegó dañado y el soporte no ayudó.,play_store,2024-03-24T22:10:00,2
+e7aa1ef201a2,Terrible experience. Waited 3 weeks for delivery that never came.,chat,2024-03-24T01:14:00,2
+d0b623ad00a5,Very satisfied with the experience. Highly recommend!,app_store,2024-03-25T18:42:00,4
+3ae049d27d41,"Great quality, fast shipping. Will definitely order again.",support_ticket,2024-03-25T22:52:00,4
+89d0c21beda2,The team went above and beyond to help me. Outstanding!,support_ticket,2024-03-25T17:21:00,4
+a375efd736b8,製品が破損して届きました。サポートも役に立ちませんでした。 スコア: 1/10。,survey,2024-03-26T10:01:00,2
+d18ac8e50ba5,El peor servicio al cliente que he experimentado.,support_ticket,2024-03-26T21:37:00,2
+e5cedce66157,Le produit fonctionne comme décrit. Rien de spécial. Évaluation: 3/10.,play_store,2024-03-27T11:06:00,3
+e7f1427704dc,Le produit est arrivé endommagé et le support était inutile. Évaluation: 2/10.,play_store,2024-03-27T03:01:00,1
+b74a85c0071c,Expérience terrible. J'ai attendu 3 semaines pour rien. Note: 2/5.,email,2024-03-27T18:33:00,1
+b867a1a840c4,Really impressed with the build quality and design. Would rate 4/10.,play_store,2024-03-28T09:30:00,5
+404c92898c7e,Expérience moyenne. Livraison à temps.,play_store,2024-03-28T06:29:00,3
+be88c46c038e,The team went above and beyond to help me. Outstanding!,twitter,2024-03-28T10:28:00,5
+18b023c1103a,Experiencia terrible. Esperé 3 semanas sin resultado.,twitter,2024-03-29T05:25:00,2
+b6a80b36aae3,Expérience moyenne. Livraison à temps.,play_store,2024-03-29T12:23:00,3
+86a1de9c3563,El peor servicio al cliente que he experimentado.,survey,2024-03-29T06:28:00,2
+887449793d2d,Worst customer service I've ever encountered. Overall rating: 2/5.,web_form,2024-03-30T14:38:00,2
+b693dcc2f5c9,Expérience terrible. J'ai attendu 3 semaines pour rien.,play_store,2024-03-30T17:38:00,1
+fdb477af36db,Product arrived damaged and customer support was unhelpful.,support_ticket,2024-03-31T20:43:00,2
+fa057f188161,"The new feature update is amazing, exactly what I needed.",chat,2024-03-31T16:35:00,5
+f42ca40c1391,Qualité médiocre. Cassé après deux semaines d'utilisation.,app_store,2024-03-31T04:22:00,1
+a34f61b66c0b,製品が破損して届きました。サポートも役に立ちませんでした。 スコア: 2/10。,chat,2024-04-01T14:50:00,2
+aa21d354df9f,Misleading product description. Nothing like advertised.,play_store,2024-04-01T09:02:00,2
+4c24c3d87472,Le produit est arrivé endommagé et le support était inutile.,email,2024-04-01T23:15:00,2
+4e19280e0617,製品が破損して届きました。サポートも役に立ちませんでした。,email,2024-04-02T20:11:00,2
+bc4c02db08a7,El servicio al cliente fue increíblemente útil.,app_store,2024-04-02T13:24:00,4
+f3846d7596d4,Le produit est arrivé endommagé et le support était inutile.,twitter,2024-04-02T17:11:00,1
+fb30ab40f582,Misleading product description. Nothing like advertised.,support_ticket,2024-04-03T20:20:00,1
+3cb99c3724bd,Schlechte Qualität. Nach zwei Wochen kaputt gegangen. Note: 1/10.,survey,2024-04-03T03:15:00,1
+5b4e15892a35,The app is full of bugs. Each update makes it worse.,support_ticket,2024-04-03T04:36:00,1
+cf9df54106d4,Experiencia terrible. Esperé 3 semanas sin resultado.,email,2024-04-04T15:18:00,2
+4fe1947761d1,Experiencia promedio. La entrega fue puntual.,chat,2024-04-04T15:08:00,3
+9d053f2d608c,Misleading product description. Nothing like advertised.,app_store,2024-04-05T02:36:00,2
+81f76698d94e,Very satisfied with the experience. Highly recommend! Score: 5/5.,twitter,2024-04-05T03:17:00,4
+322d70094e7b,製品が破損して届きました。サポートも役に立ちませんでした。,chat,2024-04-05T20:48:00,1
+7f607caac54a,Terrible experience. Waited 3 weeks for delivery that never came.,chat,2024-04-06T03:49:00,2
+dc80149104c9,Experiencia promedio. La entrega fue puntual. Puntuación: 3/5.,survey,2024-04-06T18:22:00,3
+dff2acdd415b,Functional product. Does what it says. Overall rating: 3/5.,email,2024-04-06T08:55:00,3
+ba2038d093d8,"The new feature update is amazing, exactly what I needed.",web_form,2024-04-07T21:25:00,4
+ab8d1e151121,Terrible experience. Waited 3 weeks for delivery that never came.,survey,2024-04-07T02:25:00,2
+f584e5b57190,Product works as described. Nothing special.,web_form,2024-04-07T23:05:00,3
+59b356c778b5,"Standard service, met expectations but didn't exceed them.",twitter,2024-04-08T15:17:00,3
+6a4150e88d00,Misleading product description. Nothing like advertised.,app_store,2024-04-08T21:48:00,1
+c8ea06ef9bce,Das Produkt kam beschädigt an und der Support war nutzlos. Bewertung: 2/5.,email,2024-04-09T13:12:00,1
+91d27827fe8f,Das Produkt funktioniert wie beschrieben. Nichts Besonderes.,twitter,2024-04-09T08:05:00,3
+2e25ae4c6ca2,Poor quality materials. Broke after two weeks of use.,play_store,2024-04-09T02:45:00,1
+02f843e52619,Poor quality materials. Broke after two weeks of use.,app_store,2024-04-10T14:00:00,1
+a57a13fde7c1,Average experience. Delivery was on time.,play_store,2024-04-10T07:24:00,3
+5ab13cadd7a8,Das Produkt kam beschädigt an und der Support war nutzlos.,email,2024-04-10T04:41:00,1
+1ad7a81621b8,Not worth the price. Very disappointing quality.,email,2024-04-11T20:47:00,2
+f3a9c5b14225,Product works as described. Nothing special. Would rate 3/10.,email,2024-04-11T10:50:00,3
+fcc9d208c2ca,Worst customer service I've ever encountered.,survey,2024-04-11T22:01:00,1
+580e6abb0f9b,Product arrived damaged and customer support was unhelpful.,support_ticket,2024-04-12T07:31:00,1
+2e7f346e325c,El producto llegó dañado y el soporte no ayudó.,support_ticket,2024-04-12T10:08:00,2
+271077900307,Misleading product description. Nothing like advertised.,play_store,2024-04-12T02:01:00,2
+ff393310ba05,ひどい経験でした。3週間待っても届きませんでした。,support_ticket,2024-04-13T20:45:00,2
+73d3b30c0681,El servicio al cliente fue increíblemente útil. Puntuación: 5/5.,support_ticket,2024-04-13T17:20:00,4
+cb138b5884f9,Le produit est arrivé endommagé et le support était inutile. Évaluation: 2/10.,app_store,2024-04-14T19:38:00,1
+28c3aea3ee75,J'adore ce produit ! Le meilleur achat que j'ai fait. Évaluation: 5/10.,survey,2024-04-14T04:47:00,4
+75df13da99b3,Terrible experience. Waited 3 weeks for delivery that never came. Score: 2/5.,web_form,2024-04-14T11:03:00,2
+10f96758c1a8,Qualité médiocre. Cassé après deux semaines d'utilisation.,app_store,2024-04-15T03:14:00,1
+03c96e160bc7,The app is full of bugs. Each update makes it worse.,app_store,2024-04-15T05:59:00,1
+9a1f59c27bab,Not worth the price. Very disappointing quality. Score: 2/5.,app_store,2024-04-15T21:57:00,1
+a9015f11104c,製品は説明通りに動作します。特別なものはありません。 スコア: 3/10。,web_form,2024-04-16T02:35:00,3
+12741663077a,Mala calidad. Se rompió después de dos semanas.,twitter,2024-04-16T07:29:00,1
+14100a5c8d69,Experiencia terrible. Esperé 3 semanas sin resultado. Calificación: 1/10.,app_store,2024-04-16T20:53:00,1
+69252e0bbf8d,It's okay for the price point. Nothing to complain about. Overall rating: 3/5.,survey,2024-04-17T04:45:00,3
+501c386ac0cc,Das Produkt funktioniert wie beschrieben. Nichts Besonderes.,play_store,2024-04-17T11:29:00,3
+76dc7fa1c3b5,Product arrived damaged and customer support was unhelpful.,survey,2024-04-18T04:15:00,2
+2cd63c85fdfb,It's okay for the price point. Nothing to complain about.,play_store,2024-04-18T08:14:00,3
+e09a987e999c,El producto funciona como se describe. Nada especial. Calificación: 3/10.,twitter,2024-04-18T03:34:00,3
+d2db59bbc719,Terrible experience. Waited 3 weeks for delivery that never came. Would rate 1/10.,chat,2024-04-19T04:05:00,2
+b7c8cfe17f76,Expérience terrible. J'ai attendu 3 semaines pour rien.,support_ticket,2024-04-19T05:01:00,1
+0d98b2509fdb,"Great quality, fast shipping. Will definitely order again. Overall rating: 4/5.",play_store,2024-04-19T12:23:00,5
+afb29e245af2,Really impressed with the build quality and design.,twitter,2024-04-20T02:57:00,4
+a92617a33970,Functional product. Does what it says.,web_form,2024-04-20T23:25:00,3
+f01979c7e3dd,Poor quality materials. Broke after two weeks of use.,web_form,2024-04-20T08:17:00,1
+9ee8188eec34,Mala calidad. Se rompió después de dos semanas.,app_store,2024-04-21T17:30:00,2
+4d25d21b5d54,Poor quality materials. Broke after two weeks of use.,app_store,2024-04-21T17:50:00,2
+68cec6a195e0,Expérience terrible. J'ai attendu 3 semaines pour rien.,support_ticket,2024-04-21T16:20:00,1
+62a6a3ef328b,¡Me encanta este producto! La mejor compra que he hecho.,web_form,2024-04-22T08:03:00,5
+9db15c8adf74,Average experience. Delivery was on time. Would rate 3/10.,chat,2024-04-22T05:11:00,3
+ddd461ac0e83,It's okay for the price point. Nothing to complain about.,chat,2024-04-23T18:09:00,3
+a8995de033da,Product arrived damaged and customer support was unhelpful. Overall rating: 1/5.,chat,2024-04-23T10:58:00,2
+cf0609c1cfcb,ひどい経験でした。3週間待っても届きませんでした。 スコア: 1/10。,support_ticket,2024-04-23T02:23:00,2
+0b46244aad20,The software crashes constantly. Very frustrating.,web_form,2024-04-24T13:50:00,1
+973f981ca8ee,Mala calidad. Se rompió después de dos semanas. Calificación: 2/10.,app_store,2024-04-24T04:11:00,1
+a7fcf4aa8eb4,Poor quality materials. Broke after two weeks of use.,web_form,2024-04-24T03:59:00,2
+bc6817c71804,Not worth the price. Very disappointing quality. Overall rating: 2/5.,chat,2024-04-25T08:13:00,2
+eecc004d8f5d,Product arrived damaged and customer support was unhelpful. Would rate 2/10.,support_ticket,2024-04-25T15:56:00,2
+822bd418d317,"The new feature update is amazing, exactly what I needed. Overall rating: 4/5.",play_store,2024-04-25T10:16:00,4
+5a608e492af1,Terrible experience. Waited 3 weeks for delivery that never came.,web_form,2024-04-26T02:21:00,2
+2e2078c0d315,"Standard service, met expectations but didn't exceed them. Overall rating: 3/5.",survey,2024-04-26T13:44:00,3
+9992b76025c3,Misleading product description. Nothing like advertised. Overall rating: 1/5.,web_form,2024-04-27T09:52:00,1
+9b9167666561,Very satisfied with the experience. Highly recommend!,play_store,2024-04-27T15:54:00,5
+cacc430f759e,Schreckliche Erfahrung. 3 Wochen gewartet ohne Ergebnis. Note: 1/10.,web_form,2024-04-27T11:11:00,2
+4d2f814dbaa1,Worst customer service I've ever encountered.,play_store,2024-04-28T04:48:00,2
+f494ca790f4b,Functional product. Does what it says. Score: 3/5.,web_form,2024-04-28T21:55:00,3
+15b6dbaade39,Product arrived damaged and customer support was unhelpful.,email,2024-04-28T16:51:00,2
+d2d7176a11e3,製品が破損して届きました。サポートも役に立ちませんでした。,support_ticket,2024-04-29T04:02:00,2
+a50f1450851b,Das Produkt kam beschädigt an und der Support war nutzlos.,play_store,2024-04-29T08:20:00,2
+e1e0d4d62c30,Mala calidad. Se rompió después de dos semanas.,support_ticket,2024-04-29T00:50:00,2
+40efc5eb438f,¡Me encanta este producto! La mejor compra que he hecho.,play_store,2024-04-30T18:49:00,5
+8242512ea8e0,"Standard service, met expectations but didn't exceed them.",email,2024-04-30T15:02:00,3
+50d18a94c572,Muy satisfecho con la experiencia. ¡Lo recomiendo! Calificación: 5/10.,twitter,2024-04-30T08:57:00,4
+7d217031f852,It's okay for the price point. Nothing to complain about.,play_store,2024-05-01T22:43:00,3
+48b0b5be77e4,Expérience terrible. J'ai attendu 3 semaines pour rien. Évaluation: 1/10.,support_ticket,2024-05-01T06:58:00,2
+ea09df97e12f,El producto funciona como se describe. Nada especial. Puntuación: 3/5.,chat,2024-05-02T06:56:00,3
+1d220675c4a0,Excellent value for money. Exceeded my expectations.,web_form,2024-05-02T08:23:00,5
+c61f1802c573,Misleading product description. Nothing like advertised.,web_form,2024-05-02T05:55:00,2
+5cddb2374982,Schlechte Qualität. Nach zwei Wochen kaputt gegangen.,app_store,2024-05-03T02:18:00,1
+33af4f2edc2b,Experiencia terrible. Esperé 3 semanas sin resultado.,chat,2024-05-03T20:14:00,2
+c9cd5f4f05f3,Schlechte Qualität. Nach zwei Wochen kaputt gegangen. Bewertung: 1/5.,survey,2024-05-03T08:38:00,2
+c52d31c416e8,Das Produkt funktioniert wie beschrieben. Nichts Besonderes. Bewertung: 3/5.,twitter,2024-05-04T00:32:00,3
+2730ef05e7fa,Not worth the price. Very disappointing quality.,survey,2024-05-04T20:20:00,2
+10165b116545,Experiencia terrible. Esperé 3 semanas sin resultado.,twitter,2024-05-04T19:25:00,1
+5fb507265130,ひどい経験でした。3週間待っても届きませんでした。,app_store,2024-05-05T12:24:00,2
+623e6a443af5,Misleading product description. Nothing like advertised.,survey,2024-05-05T21:22:00,1
+c87974c8b9a9,Very satisfied with the experience. Highly recommend!,email,2024-05-05T17:48:00,5
+9d1cbde7fbf4,Very satisfied with the experience. Highly recommend!,survey,2024-05-06T10:23:00,5
+7cf995866844,Functional product. Does what it says.,web_form,2024-05-06T19:04:00,3
+250d6266ed15,It's okay for the price point. Nothing to complain about.,chat,2024-05-07T04:08:00,3
+843d41f74d2d,Das Produkt funktioniert wie beschrieben. Nichts Besonderes. Note: 3/10.,twitter,2024-05-07T20:11:00,3
+0f21bc3ec57b,"Great quality, fast shipping. Will definitely order again.",play_store,2024-05-07T05:31:00,4
+7d02a4ee50ef,Misleading product description. Nothing like advertised.,chat,2024-05-08T01:34:00,1
+170b42fb7a19,Le produit fonctionne comme décrit. Rien de spécial. Évaluation: 3/10.,play_store,2024-05-08T09:08:00,3
+ff7859d5527c,Der Kundenservice war unglaublich hilfreich.,twitter,2024-05-08T14:46:00,5
+061fdaedff5f,カスタマーサービスが非常に親切で助かりました。,support_ticket,2024-05-09T05:58:00,4
+1891677b908a,この製品が大好きです！最高の買い物でした。,email,2024-05-09T18:32:00,4
+0647b75ffb0c,Expérience terrible. J'ai attendu 3 semaines pour rien.,app_store,2024-05-09T08:49:00,1
+150aa21654f3,Terrible experience. Waited 3 weeks for delivery that never came.,survey,2024-05-10T12:07:00,1
+aa3faf994758,J'adore ce produit ! Le meilleur achat que j'ai fait.,survey,2024-05-10T21:06:00,4
+1aa8fb020790,Functional product. Does what it says. Overall rating: 3/5.,survey,2024-05-11T19:12:00,3
+150dcc6d227d,Product arrived damaged and customer support was unhelpful.,web_form,2024-05-11T06:44:00,1
+8d7976b8ccfa,J'adore ce produit ! Le meilleur achat que j'ai fait.,email,2024-05-11T21:31:00,4
+6f858c35935c,Worst customer service I've ever encountered.,survey,2024-05-12T14:18:00,1
+848dcd163944,Absolutely love this product! Best purchase I've made.,twitter,2024-05-12T11:51:00,5
+bd84f35ea401,J'adore ce produit ! Le meilleur achat que j'ai fait. Évaluation: 4/10.,survey,2024-05-12T14:39:00,4
+1f2d3e7e9212,"Standard service, met expectations but didn't exceed them.",support_ticket,2024-05-13T14:17:00,3
+b7b60593dd21,Le produit est arrivé endommagé et le support était inutile. Évaluation: 1/10.,web_form,2024-05-13T18:30:00,2
+e0323f0ac8cb,El producto funciona como se describe. Nada especial.,support_ticket,2024-05-13T15:07:00,3
+fa31b2965135,J'adore ce produit ! Le meilleur achat que j'ai fait.,chat,2024-05-14T21:33:00,5
+7c7942ffd19b,Très satisfait de l'expérience. Hautement recommandé !,support_ticket,2024-05-14T21:41:00,4
+5d5374f10b70,素晴らしい品質です。強くお勧めします！,email,2024-05-15T15:55:00,4
+bace1e085071,Very satisfied with the experience. Highly recommend! Overall rating: 4/5.,web_form,2024-05-15T02:29:00,5
+bcb499bcc7aa,Product works as described. Nothing special.,app_store,2024-05-15T23:41:00,3
+8f2c98d4218a,¡Me encanta este producto! La mejor compra que he hecho.,survey,2024-05-16T19:39:00,4
+c6ffab859e8f,Product works as described. Nothing special.,web_form,2024-05-16T14:21:00,3
+065b8c632edd,Le service client était incroyablement utile et efficace. Note: 5/5.,email,2024-05-16T01:57:00,5
+33be87d724fd,Expérience moyenne. Livraison à temps. Évaluation: 3/10.,chat,2024-05-17T06:29:00,3
+6be00bdb9004,Functional product. Does what it says. Would rate 3/10.,app_store,2024-05-17T00:33:00,3
+8caf1b96d74f,Le produit fonctionne comme décrit. Rien de spécial.,email,2024-05-17T05:46:00,3
+18434f96b724,Mala calidad. Se rompió después de dos semanas.,chat,2024-05-18T12:26:00,2
+1e772c657344,製品は説明通りに動作します。特別なものはありません。,survey,2024-05-18T04:26:00,3
+14e97151cbb4,"Excelente calidad, envío rápido. Definitivamente pediré de nuevo.",email,2024-05-18T21:08:00,5
+ac485b5e58b9,Experiencia promedio. La entrega fue puntual.,support_ticket,2024-05-19T17:18:00,3
+3590608515ea,Absolutely love this product! Best purchase I've made. Overall rating: 4/5.,survey,2024-05-19T01:44:00,4
+d5dc0e77691e,"The new feature update is amazing, exactly what I needed.",chat,2024-05-20T17:24:00,5
+e62786e9542c,It's okay for the price point. Nothing to complain about.,survey,2024-05-20T01:00:00,3
+f471d8302e37,製品は説明通りに動作します。特別なものはありません。,chat,2024-05-20T17:47:00,3
+36a7285498a9,この製品が大好きです！最高の買い物でした。 評価: 4/5。,survey,2024-05-21T13:17:00,4
+a6216310aa51,Not worth the price. Very disappointing quality.,email,2024-05-21T04:02:00,1
+5780155cd18a,Experiencia promedio. La entrega fue puntual.,twitter,2024-05-21T18:35:00,3
+3771c1095a70,素晴らしい品質です。強くお勧めします！ 評価: 4/5。,chat,2024-05-22T11:14:00,5
+11acc24032cd,Really impressed with the build quality and design.,play_store,2024-05-22T20:00:00,5
+d9cb669457ef,El servicio al cliente fue increíblemente útil.,twitter,2024-05-22T21:56:00,5
+8af6fe2e3d27,"Excelente calidad, envío rápido. Definitivamente pediré de nuevo. Puntuación: 5/5.",chat,2024-05-23T09:57:00,5
+b933d6cd797e,Functional product. Does what it says.,chat,2024-05-23T20:04:00,3
+8bb6d99a448e,"Standard service, met expectations but didn't exceed them.",email,2024-05-24T02:47:00,3
+490f5a8625ac,Terrible experience. Waited 3 weeks for delivery that never came. Would rate 1/10.,web_form,2024-05-24T13:24:00,2
+421bb398eafd,Customer service was incredibly helpful and resolved my issue quickly.,play_store,2024-05-24T20:46:00,4
+5057dad31f32,"Excelente calidad, envío rápido. Definitivamente pediré de nuevo.",play_store,2024-05-25T09:38:00,5
+121990128874,Ich liebe dieses Produkt! Bester Kauf den ich je gemacht habe.,email,2024-05-25T17:14:00,5
+07f58e9bb0df,It's okay for the price point. Nothing to complain about.,email,2024-05-25T00:35:00,3
+a933cf020589,¡Me encanta este producto! La mejor compra que he hecho.,twitter,2024-05-26T23:47:00,4
+8ad329d31baa,Das Produkt funktioniert wie beschrieben. Nichts Besonderes. Bewertung: 3/5.,app_store,2024-05-26T05:42:00,3
+4dd9b74f599f,Customer service was incredibly helpful and resolved my issue quickly. Overall rating: 5/5.,chat,2024-05-26T21:41:00,4
+c91e26498430,ひどい経験でした。3週間待っても届きませんでした。,survey,2024-05-27T10:39:00,2
+d12cc8db5170,製品は説明通りに動作します。特別なものはありません。 スコア: 3/10。,twitter,2024-05-27T11:08:00,3
+43bbef2f1e6f,Très satisfait de l'expérience. Hautement recommandé !,play_store,2024-05-27T05:41:00,5
+7773474acd14,Product works as described. Nothing special.,app_store,2024-05-28T00:54:00,3
+72702c18d353,Experiencia promedio. La entrega fue puntual.,support_ticket,2024-05-28T04:23:00,3
+d739055b9726,¡Me encanta este producto! La mejor compra que he hecho.,chat,2024-05-29T16:00:00,4
+a82b33b2364b,"Great quality, fast shipping. Will definitely order again.",app_store,2024-05-29T15:22:00,4
+c4627cd85c9c,"The new feature update is amazing, exactly what I needed. Would rate 4/10.",app_store,2024-05-29T14:56:00,4
+1f60c6d4d727,素晴らしい品質です。強くお勧めします！,email,2024-05-30T23:16:00,5
+072c5c1d6a13,J'adore ce produit ! Le meilleur achat que j'ai fait.,chat,2024-05-30T12:58:00,5
+242fc15d6ffa,"Standard service, met expectations but didn't exceed them.",email,2024-05-30T00:32:00,3
+1517985d27df,"Excelente calidad, envío rápido. Definitivamente pediré de nuevo. Puntuación: 4/5.",support_ticket,2024-05-31T21:14:00,5
+df95218b0d2d,"The new feature update is amazing, exactly what I needed.",support_ticket,2024-05-31T20:53:00,4
+9900e7759b57,El servicio al cliente fue increíblemente útil. Puntuación: 4/5.,email,2024-05-31T08:59:00,5
+ae3d97b9d8ad,Expérience moyenne. Livraison à temps.,web_form,2024-06-01T06:28:00,3
+e300c723cbf5,"Great quality, fast shipping. Will definitely order again.",survey,2024-06-01T05:39:00,4
+d1a826c685e2,El producto funciona como se describe. Nada especial. Puntuación: 3/5.,support_ticket,2024-06-02T06:33:00,3
+e1219697ba88,素晴らしい品質です。強くお勧めします！ 評価: 4/5。,app_store,2024-06-02T19:34:00,5
+1e4649494e8a,The team went above and beyond to help me. Outstanding! Score: 5/5.,play_store,2024-06-02T23:58:00,5
+59e70c5d398c,J'adore ce produit ! Le meilleur achat que j'ai fait. Note: 5/5.,app_store,2024-06-03T22:47:00,4
+110dc92921a9,Excellent value for money. Exceeded my expectations.,support_ticket,2024-06-03T03:09:00,5
+1851486dcfa2,It's okay for the price point. Nothing to complain about.,chat,2024-06-03T21:25:00,3
+b4904ca108e9,Muy satisfecho con la experiencia. ¡Lo recomiendo! Puntuación: 5/5.,chat,2024-06-04T21:07:00,5
+d1cabaaad146,"Excelente calidad, envío rápido. Definitivamente pediré de nuevo.",app_store,2024-06-04T19:44:00,4
+ef3746b1d1a2,Product works as described. Nothing special.,support_ticket,2024-06-04T15:59:00,3
+c24c6da72f48,Absolutely love this product! Best purchase I've made.,survey,2024-06-05T12:39:00,4
+687f221e3dee,Poor quality materials. Broke after two weeks of use.,chat,2024-06-05T16:18:00,1
+3e9ebfbbb39b,Expérience terrible. J'ai attendu 3 semaines pour rien. Évaluation: 1/10.,support_ticket,2024-06-05T12:22:00,1
+72c13722c41e,J'adore ce produit ! Le meilleur achat que j'ai fait.,twitter,2024-06-06T17:18:00,5
+fd59306b1ae1,カスタマーサービスが非常に親切で助かりました。,survey,2024-06-06T18:00:00,4
+a28b9b5eccb8,"Excelente calidad, envío rápido. Definitivamente pediré de nuevo.",survey,2024-06-07T03:51:00,5
+079f3bc59e94,El producto funciona como se describe. Nada especial.,web_form,2024-06-07T14:43:00,3
+0db2c1f911b2,"The new feature update is amazing, exactly what I needed.",twitter,2024-06-07T07:51:00,5
+7ae50654b135,Very satisfied with the experience. Highly recommend! Overall rating: 4/5.,email,2024-06-08T17:59:00,5
+7a3807dc2020,Der Kundenservice war unglaublich hilfreich. Bewertung: 4/5.,survey,2024-06-08T23:15:00,4
+a5de481553b5,Excellent value for money. Exceeded my expectations. Score: 4/5.,app_store,2024-06-08T21:31:00,4
+57787a914331,Very satisfied with the experience. Highly recommend!,support_ticket,2024-06-09T16:17:00,4
+ee556d2224d9,Très satisfait de l'expérience. Hautement recommandé !,twitter,2024-06-09T01:32:00,5
+b4dc9d0bd3d9,Really impressed with the build quality and design.,chat,2024-06-09T00:00:00,5
+878c2117c4d9,"Excelente calidad, envío rápido. Definitivamente pediré de nuevo. Calificación: 5/10.",twitter,2024-06-10T19:21:00,4
+86dbaa244266,Excellent value for money. Exceeded my expectations.,web_form,2024-06-10T12:17:00,4
+7e548aa56f4d,Le produit fonctionne comme décrit. Rien de spécial.,support_ticket,2024-06-11T07:35:00,3
+8ea6dfdaac77,この製品が大好きです！最高の買い物でした。,support_ticket,2024-06-11T00:11:00,5
+d9475fac1fae,Das Produkt funktioniert wie beschrieben. Nichts Besonderes.,app_store,2024-06-11T09:16:00,3
+a13566e1668a,Worst customer service I've ever encountered.,web_form,2024-06-12T20:06:00,2
+ace332d6c3b8,"Excelente calidad, envío rápido. Definitivamente pediré de nuevo.",twitter,2024-06-12T13:07:00,4
+a0e253c884d2,It's okay for the price point. Nothing to complain about.,web_form,2024-06-12T15:49:00,3
+ff25c26bfd16,The software crashes constantly. Very frustrating.,twitter,2024-06-13T20:51:00,2
+4e3f46de5fbd,Average experience. Delivery was on time.,survey,2024-06-13T10:20:00,3
+124c46968421,Excellent value for money. Exceeded my expectations.,support_ticket,2024-06-13T16:28:00,4
+e4df0d9d1acb,Average experience. Delivery was on time.,play_store,2024-06-14T23:44:00,3
+5c0ef4a958e7,Really impressed with the build quality and design.,support_ticket,2024-06-14T00:49:00,4
+465dd702ec31,The team went above and beyond to help me. Outstanding!,survey,2024-06-14T07:47:00,5
+996ee71a2644,Ich liebe dieses Produkt! Bester Kauf den ich je gemacht habe. Note: 5/10.,survey,2024-06-15T17:59:00,5
+ebcd9c32c2a6,Le produit fonctionne comme décrit. Rien de spécial.,support_ticket,2024-06-15T14:40:00,3
+a8393d640f33,Customer service was incredibly helpful and resolved my issue quickly.,survey,2024-06-16T11:26:00,4
+2a1ba35ee8cd,El servicio al cliente fue increíblemente útil.,app_store,2024-06-16T15:34:00,5
+a1e0925b2831,"Excellente qualité, livraison rapide. Je recommande vivement !",twitter,2024-06-16T00:35:00,4
+c8cae4d4ad37,Average experience. Delivery was on time. Would rate 3/10.,chat,2024-06-17T02:27:00,3
+1bdaadfd3324,Mala calidad. Se rompió después de dos semanas.,email,2024-06-17T02:11:00,1
+dda4878e3eac,Mala calidad. Se rompió después de dos semanas.,twitter,2024-06-17T15:12:00,1
+10b1d9086a4a,El servicio al cliente fue increíblemente útil.,email,2024-06-18T09:17:00,5
+edc3a7cdd2a3,Really impressed with the build quality and design. Would rate 5/10.,app_store,2024-06-18T14:44:00,5
+c856ddf1fe22,製品は説明通りに動作します。特別なものはありません。 評価: 3/5。,survey,2024-06-18T06:57:00,3
+4f90d45e5c9f,Le service client était incroyablement utile et efficace.,app_store,2024-06-19T14:15:00,4
+f05290b914ca,Poor quality materials. Broke after two weeks of use.,twitter,2024-06-19T21:19:00,1
+0d7a07c75daa,El producto llegó dañado y el soporte no ayudó. Puntuación: 1/5.,play_store,2024-06-20T21:13:00,2
+69152cbaec4f,Very satisfied with the experience. Highly recommend!,chat,2024-06-20T12:50:00,4
+d444eb504b6a,Qualité médiocre. Cassé après deux semaines d'utilisation.,play_store,2024-06-20T11:49:00,1
+9c980249696d,"Excellente qualité, livraison rapide. Je recommande vivement !",app_store,2024-06-21T20:03:00,5
+4f9e1eeea954,Le produit est arrivé endommagé et le support était inutile.,twitter,2024-06-21T10:35:00,1
+c96542d7c843,"Great quality, fast shipping. Will definitely order again. Score: 4/5.",web_form,2024-06-21T09:34:00,4
+027765270430,Really impressed with the build quality and design. Would rate 4/10.,survey,2024-06-22T09:52:00,5
+6121ca8f872b,Muy satisfecho con la experiencia. ¡Lo recomiendo!,twitter,2024-06-22T00:39:00,4
+07c2908a3633,Qualité médiocre. Cassé après deux semaines d'utilisation.,web_form,2024-06-22T06:33:00,2
+e9efb0b27602,¡Me encanta este producto! La mejor compra que he hecho. Puntuación: 4/5.,play_store,2024-06-23T01:12:00,5
+5ea983b64b10,Muy satisfecho con la experiencia. ¡Lo recomiendo!,survey,2024-06-23T16:39:00,4
+162c104bcfa7,J'adore ce produit ! Le meilleur achat que j'ai fait.,web_form,2024-06-23T06:41:00,4
+a8e091488caa,Functional product. Does what it says.,twitter,2024-06-24T13:52:00,3
+ebd01bcb41d3,"Excellente qualité, livraison rapide. Je recommande vivement ! Note: 4/5.",chat,2024-06-24T17:24:00,4
+3ae192e2c3ae,ひどい経験でした。3週間待っても届きませんでした。,twitter,2024-06-25T20:36:00,2
+54729aa27653,Average experience. Delivery was on time.,email,2024-06-25T16:21:00,3
+cac2f6371e53,Experiencia promedio. La entrega fue puntual.,support_ticket,2024-06-25T13:48:00,3
+761cbb4a85d5,Worst customer service I've ever encountered.,support_ticket,2024-06-26T14:28:00,1
+188492cb059b,El producto funciona como se describe. Nada especial.,survey,2024-06-26T09:00:00,3
+5fe5909e7053,It's okay for the price point. Nothing to complain about.,email,2024-06-26T16:35:00,3
+8623f34647f1,Very satisfied with the experience. Highly recommend!,chat,2024-06-27T18:15:00,5
+443844832f8a,"The new feature update is amazing, exactly what I needed.",web_form,2024-06-27T23:20:00,4
+fcfcc04a776a,Le produit fonctionne comme décrit. Rien de spécial.,support_ticket,2024-06-27T09:02:00,3
+1676a3c79ef9,"Standard service, met expectations but didn't exceed them.",chat,2024-06-28T03:55:00,3
+d1d26b71afe9,"Excelente calidad, envío rápido. Definitivamente pediré de nuevo.",chat,2024-06-28T04:20:00,4

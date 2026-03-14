@@ -1,0 +1,3502 @@
+[
+  {
+    "id": "0550d633e0fc",
+    "text": "Worst customer service I've ever encountered. Score: 1/5.",
+    "source": "app_store",
+    "timestamp": "2024-01-01T13:02:00",
+    "rating": 1
+  },
+  {
+    "id": "173ef1403ddb",
+    "text": "El servicio al cliente fue increíblemente útil.",
+    "source": "support_ticket",
+    "timestamp": "2024-01-01T22:34:00",
+    "rating": 4
+  },
+  {
+    "id": "e6b5dff85469",
+    "text": "Ich liebe dieses Produkt! Bester Kauf den ich je gemacht habe.",
+    "source": "support_ticket",
+    "timestamp": "2024-01-01T05:44:00",
+    "rating": 5
+  },
+  {
+    "id": "1a1d71db74d0",
+    "text": "カスタマーサービスが非常に親切で助かりました。 スコア: 5/10。",
+    "source": "app_store",
+    "timestamp": "2024-01-02T19:16:00",
+    "rating": 5
+  },
+  {
+    "id": "e5668ef2ba52",
+    "text": "Functional product. Does what it says. Overall rating: 3/5.",
+    "source": "survey",
+    "timestamp": "2024-01-02T21:14:00",
+    "rating": 3
+  },
+  {
+    "id": "d2ab38a62733",
+    "text": "Standard service, met expectations but didn't exceed them.",
+    "source": "twitter",
+    "timestamp": "2024-01-02T11:10:00",
+    "rating": 3
+  },
+  {
+    "id": "1e7e92790b1b",
+    "text": "Qualité médiocre. Cassé après deux semaines d'utilisation.",
+    "source": "email",
+    "timestamp": "2024-01-03T19:40:00",
+    "rating": 1
+  },
+  {
+    "id": "1dfe556ae589",
+    "text": "The new feature update is amazing, exactly what I needed.",
+    "source": "app_store",
+    "timestamp": "2024-01-03T01:14:00",
+    "rating": 5
+  },
+  {
+    "id": "96a99d0e0c89",
+    "text": "Excellent value for money. Exceeded my expectations. Overall rating: 5/5.",
+    "source": "chat",
+    "timestamp": "2024-01-03T08:08:00",
+    "rating": 5
+  },
+  {
+    "id": "7b11f298ec63",
+    "text": "Average experience. Delivery was on time.",
+    "source": "web_form",
+    "timestamp": "2024-01-04T04:32:00",
+    "rating": 3
+  },
+  {
+    "id": "f88afbed6282",
+    "text": "Average experience. Delivery was on time.",
+    "source": "play_store",
+    "timestamp": "2024-01-04T13:38:00",
+    "rating": 3
+  },
+  {
+    "id": "e897b47af36f",
+    "text": "Very satisfied with the experience. Highly recommend!",
+    "source": "play_store",
+    "timestamp": "2024-01-04T00:43:00",
+    "rating": 5
+  },
+  {
+    "id": "a23f0c3ca118",
+    "text": "Really impressed with the build quality and design. Score: 5/5.",
+    "source": "chat",
+    "timestamp": "2024-01-05T09:53:00",
+    "rating": 4
+  },
+  {
+    "id": "dabb18cc10d7",
+    "text": "El producto funciona como se describe. Nada especial.",
+    "source": "play_store",
+    "timestamp": "2024-01-05T15:01:00",
+    "rating": 3
+  },
+  {
+    "id": "c5236a2867ef",
+    "text": "Customer service was incredibly helpful and resolved my issue quickly. Overall rating: 5/5.",
+    "source": "email",
+    "timestamp": "2024-01-06T21:30:00",
+    "rating": 5
+  },
+  {
+    "id": "89d5feeb2dbe",
+    "text": "製品は説明通りに動作します。特別なものはありません。",
+    "source": "twitter",
+    "timestamp": "2024-01-06T12:42:00",
+    "rating": 3
+  },
+  {
+    "id": "bc23021bfd04",
+    "text": "Excellent value for money. Exceeded my expectations. Overall rating: 4/5.",
+    "source": "app_store",
+    "timestamp": "2024-01-06T22:40:00",
+    "rating": 4
+  },
+  {
+    "id": "606cc9cf0904",
+    "text": "Das Produkt funktioniert wie beschrieben. Nichts Besonderes.",
+    "source": "web_form",
+    "timestamp": "2024-01-07T08:42:00",
+    "rating": 3
+  },
+  {
+    "id": "8296a3f28b29",
+    "text": "Schlechte Qualität. Nach zwei Wochen kaputt gegangen.",
+    "source": "support_ticket",
+    "timestamp": "2024-01-07T15:51:00",
+    "rating": 1
+  },
+  {
+    "id": "3a739e818bfc",
+    "text": "The team went above and beyond to help me. Outstanding!",
+    "source": "play_store",
+    "timestamp": "2024-01-07T23:03:00",
+    "rating": 4
+  },
+  {
+    "id": "670c149d339a",
+    "text": "Das Produkt kam beschädigt an und der Support war nutzlos. Note: 2/10.",
+    "source": "web_form",
+    "timestamp": "2024-01-08T05:17:00",
+    "rating": 1
+  },
+  {
+    "id": "54e348820065",
+    "text": "Ausgezeichnete Qualität, schneller Versand. Sehr empfehlenswert! Bewertung: 4/5.",
+    "source": "web_form",
+    "timestamp": "2024-01-08T13:31:00",
+    "rating": 4
+  },
+  {
+    "id": "5327d77f7b35",
+    "text": "Product works as described. Nothing special.",
+    "source": "web_form",
+    "timestamp": "2024-01-08T08:59:00",
+    "rating": 3
+  },
+  {
+    "id": "3393cd2932cc",
+    "text": "Qualité médiocre. Cassé après deux semaines d'utilisation.",
+    "source": "chat",
+    "timestamp": "2024-01-09T15:09:00",
+    "rating": 1
+  },
+  {
+    "id": "b927e7bdc05f",
+    "text": "El producto funciona como se describe. Nada especial.",
+    "source": "web_form",
+    "timestamp": "2024-01-09T01:03:00",
+    "rating": 3
+  },
+  {
+    "id": "888b9177995c",
+    "text": "Average experience. Delivery was on time. Overall rating: 3/5.",
+    "source": "app_store",
+    "timestamp": "2024-01-10T18:15:00",
+    "rating": 3
+  },
+  {
+    "id": "d81bdf9f2357",
+    "text": "Mala calidad. Se rompió después de dos semanas.",
+    "source": "twitter",
+    "timestamp": "2024-01-10T06:42:00",
+    "rating": 2
+  },
+  {
+    "id": "da135c9331b5",
+    "text": "Excellente qualité, livraison rapide. Je recommande vivement !",
+    "source": "web_form",
+    "timestamp": "2024-01-10T02:00:00",
+    "rating": 4
+  },
+  {
+    "id": "8fd0b472807f",
+    "text": "El servicio al cliente fue increíblemente útil.",
+    "source": "chat",
+    "timestamp": "2024-01-11T02:56:00",
+    "rating": 5
+  },
+  {
+    "id": "92af5b48a7c7",
+    "text": "Ausgezeichnete Qualität, schneller Versand. Sehr empfehlenswert!",
+    "source": "app_store",
+    "timestamp": "2024-01-11T20:33:00",
+    "rating": 5
+  },
+  {
+    "id": "b2c2c0cc6bbb",
+    "text": "Product works as described. Nothing special.",
+    "source": "email",
+    "timestamp": "2024-01-11T23:35:00",
+    "rating": 3
+  },
+  {
+    "id": "b634861b9043",
+    "text": "Le produit est arrivé endommagé et le support était inutile.",
+    "source": "web_form",
+    "timestamp": "2024-01-12T08:32:00",
+    "rating": 1
+  },
+  {
+    "id": "1d1538f28fd5",
+    "text": "Very satisfied with the experience. Highly recommend! Overall rating: 5/5.",
+    "source": "support_ticket",
+    "timestamp": "2024-01-12T23:28:00",
+    "rating": 4
+  },
+  {
+    "id": "86c5d6ce1088",
+    "text": "Ich liebe dieses Produkt! Bester Kauf den ich je gemacht habe.",
+    "source": "email",
+    "timestamp": "2024-01-12T11:37:00",
+    "rating": 5
+  },
+  {
+    "id": "a0a53f1616dd",
+    "text": "Absolutely love this product! Best purchase I've made.",
+    "source": "chat",
+    "timestamp": "2024-01-13T06:43:00",
+    "rating": 4
+  },
+  {
+    "id": "778d0f82ac8f",
+    "text": "Das Produkt funktioniert wie beschrieben. Nichts Besonderes.",
+    "source": "chat",
+    "timestamp": "2024-01-13T23:09:00",
+    "rating": 3
+  },
+  {
+    "id": "fb224973241b",
+    "text": "It's okay for the price point. Nothing to complain about.",
+    "source": "chat",
+    "timestamp": "2024-01-13T13:51:00",
+    "rating": 3
+  },
+  {
+    "id": "4ec684fa590c",
+    "text": "Product works as described. Nothing special.",
+    "source": "web_form",
+    "timestamp": "2024-01-14T07:12:00",
+    "rating": 3
+  },
+  {
+    "id": "e800bce99714",
+    "text": "Das Produkt funktioniert wie beschrieben. Nichts Besonderes. Note: 3/10.",
+    "source": "survey",
+    "timestamp": "2024-01-14T02:49:00",
+    "rating": 3
+  },
+  {
+    "id": "343d312dd42b",
+    "text": "Schreckliche Erfahrung. 3 Wochen gewartet ohne Ergebnis.",
+    "source": "survey",
+    "timestamp": "2024-01-15T03:56:00",
+    "rating": 2
+  },
+  {
+    "id": "36f59b9ff17f",
+    "text": "Excelente calidad, envío rápido. Definitivamente pediré de nuevo.",
+    "source": "play_store",
+    "timestamp": "2024-01-15T10:27:00",
+    "rating": 5
+  },
+  {
+    "id": "b0d51f1b0512",
+    "text": "J'adore ce produit ! Le meilleur achat que j'ai fait.",
+    "source": "chat",
+    "timestamp": "2024-01-15T17:43:00",
+    "rating": 5
+  },
+  {
+    "id": "aae9126e971c",
+    "text": "Excellente qualité, livraison rapide. Je recommande vivement !",
+    "source": "play_store",
+    "timestamp": "2024-01-16T21:54:00",
+    "rating": 5
+  },
+  {
+    "id": "e8dc1b963a6f",
+    "text": "Worst customer service I've ever encountered.",
+    "source": "support_ticket",
+    "timestamp": "2024-01-16T06:26:00",
+    "rating": 2
+  },
+  {
+    "id": "46e6d7b29beb",
+    "text": "Der Kundenservice war unglaublich hilfreich. Note: 5/10.",
+    "source": "chat",
+    "timestamp": "2024-01-16T14:43:00",
+    "rating": 5
+  },
+  {
+    "id": "f7c6833d7219",
+    "text": "Not worth the price. Very disappointing quality. Overall rating: 2/5.",
+    "source": "app_store",
+    "timestamp": "2024-01-17T04:01:00",
+    "rating": 2
+  },
+  {
+    "id": "c531f9434103",
+    "text": "Expérience terrible. J'ai attendu 3 semaines pour rien.",
+    "source": "chat",
+    "timestamp": "2024-01-17T20:36:00",
+    "rating": 2
+  },
+  {
+    "id": "163491235d98",
+    "text": "Absolutely love this product! Best purchase I've made.",
+    "source": "support_ticket",
+    "timestamp": "2024-01-17T03:49:00",
+    "rating": 4
+  },
+  {
+    "id": "a259a173d317",
+    "text": "Expérience moyenne. Livraison à temps. Note: 3/5.",
+    "source": "twitter",
+    "timestamp": "2024-01-18T14:42:00",
+    "rating": 3
+  },
+  {
+    "id": "f400e865ee2f",
+    "text": "El producto funciona como se describe. Nada especial.",
+    "source": "survey",
+    "timestamp": "2024-01-18T15:28:00",
+    "rating": 3
+  },
+  {
+    "id": "a6f2276573c5",
+    "text": "El producto funciona como se describe. Nada especial. Calificación: 3/10.",
+    "source": "play_store",
+    "timestamp": "2024-01-19T10:20:00",
+    "rating": 3
+  },
+  {
+    "id": "51757444a3b3",
+    "text": "Le service client était incroyablement utile et efficace. Évaluation: 5/10.",
+    "source": "support_ticket",
+    "timestamp": "2024-01-19T01:13:00",
+    "rating": 5
+  },
+  {
+    "id": "7d35f60f1579",
+    "text": "Expérience moyenne. Livraison à temps.",
+    "source": "support_ticket",
+    "timestamp": "2024-01-19T11:19:00",
+    "rating": 3
+  },
+  {
+    "id": "bf1be5d15e60",
+    "text": "Really impressed with the build quality and design. Would rate 5/10.",
+    "source": "app_store",
+    "timestamp": "2024-01-20T04:39:00",
+    "rating": 5
+  },
+  {
+    "id": "54063714b971",
+    "text": "Really impressed with the build quality and design. Overall rating: 5/5.",
+    "source": "twitter",
+    "timestamp": "2024-01-20T14:20:00",
+    "rating": 5
+  },
+  {
+    "id": "9a502b79557d",
+    "text": "Das Produkt funktioniert wie beschrieben. Nichts Besonderes.",
+    "source": "app_store",
+    "timestamp": "2024-01-20T15:01:00",
+    "rating": 3
+  },
+  {
+    "id": "8a0b4fdaa6c3",
+    "text": "Qualité médiocre. Cassé après deux semaines d'utilisation. Note: 1/5.",
+    "source": "chat",
+    "timestamp": "2024-01-21T19:09:00",
+    "rating": 2
+  },
+  {
+    "id": "140d1db71e91",
+    "text": "Experiencia terrible. Esperé 3 semanas sin resultado.",
+    "source": "twitter",
+    "timestamp": "2024-01-21T08:49:00",
+    "rating": 1
+  },
+  {
+    "id": "9975ccf52bc0",
+    "text": "It's okay for the price point. Nothing to complain about. Would rate 3/10.",
+    "source": "play_store",
+    "timestamp": "2024-01-21T22:12:00",
+    "rating": 3
+  },
+  {
+    "id": "bc467cbf5958",
+    "text": "Terrible experience. Waited 3 weeks for delivery that never came.",
+    "source": "app_store",
+    "timestamp": "2024-01-22T18:50:00",
+    "rating": 2
+  },
+  {
+    "id": "a0336571974a",
+    "text": "Not worth the price. Very disappointing quality. Would rate 2/10.",
+    "source": "web_form",
+    "timestamp": "2024-01-22T11:40:00",
+    "rating": 2
+  },
+  {
+    "id": "c3f31a575d3d",
+    "text": "Excelente calidad, envío rápido. Definitivamente pediré de nuevo.",
+    "source": "web_form",
+    "timestamp": "2024-01-22T17:49:00",
+    "rating": 5
+  },
+  {
+    "id": "90c35decddb2",
+    "text": "Experiencia promedio. La entrega fue puntual.",
+    "source": "web_form",
+    "timestamp": "2024-01-23T02:17:00",
+    "rating": 3
+  },
+  {
+    "id": "94e74a08a7bf",
+    "text": "Excellente qualité, livraison rapide. Je recommande vivement ! Note: 5/5.",
+    "source": "survey",
+    "timestamp": "2024-01-23T11:51:00",
+    "rating": 5
+  },
+  {
+    "id": "dfe9e2a10c94",
+    "text": "Expérience moyenne. Livraison à temps.",
+    "source": "play_store",
+    "timestamp": "2024-01-24T16:12:00",
+    "rating": 3
+  },
+  {
+    "id": "b6fb94eb1892",
+    "text": "Très satisfait de l'expérience. Hautement recommandé !",
+    "source": "app_store",
+    "timestamp": "2024-01-24T15:28:00",
+    "rating": 4
+  },
+  {
+    "id": "c8b70629ff7e",
+    "text": "Excellente qualité, livraison rapide. Je recommande vivement !",
+    "source": "twitter",
+    "timestamp": "2024-01-24T11:30:00",
+    "rating": 5
+  },
+  {
+    "id": "01f86c46c244",
+    "text": "Very satisfied with the experience. Highly recommend! Overall rating: 4/5.",
+    "source": "email",
+    "timestamp": "2024-01-25T23:34:00",
+    "rating": 4
+  },
+  {
+    "id": "f56d52e51b18",
+    "text": "Worst customer service I've ever encountered.",
+    "source": "chat",
+    "timestamp": "2024-01-25T06:18:00",
+    "rating": 1
+  },
+  {
+    "id": "dfd3e9757cbc",
+    "text": "Le service client était incroyablement utile et efficace. Évaluation: 4/10.",
+    "source": "app_store",
+    "timestamp": "2024-01-25T03:55:00",
+    "rating": 5
+  },
+  {
+    "id": "4d976b6f6a88",
+    "text": "Absolutely love this product! Best purchase I've made. Would rate 5/10.",
+    "source": "app_store",
+    "timestamp": "2024-01-26T15:04:00",
+    "rating": 4
+  },
+  {
+    "id": "bf4450bf2dd7",
+    "text": "製品は説明通りに動作します。特別なものはありません。",
+    "source": "support_ticket",
+    "timestamp": "2024-01-26T03:35:00",
+    "rating": 3
+  },
+  {
+    "id": "a1099b2043a5",
+    "text": "The team went above and beyond to help me. Outstanding!",
+    "source": "play_store",
+    "timestamp": "2024-01-26T19:03:00",
+    "rating": 4
+  },
+  {
+    "id": "6539bc5b1089",
+    "text": "The new feature update is amazing, exactly what I needed. Would rate 4/10.",
+    "source": "web_form",
+    "timestamp": "2024-01-27T14:44:00",
+    "rating": 5
+  },
+  {
+    "id": "733c121b417e",
+    "text": "Très satisfait de l'expérience. Hautement recommandé ! Évaluation: 4/10.",
+    "source": "chat",
+    "timestamp": "2024-01-27T03:34:00",
+    "rating": 4
+  },
+  {
+    "id": "ac1cca4b7bc4",
+    "text": "Average experience. Delivery was on time.",
+    "source": "survey",
+    "timestamp": "2024-01-28T19:47:00",
+    "rating": 3
+  },
+  {
+    "id": "2060c03dd652",
+    "text": "The team went above and beyond to help me. Outstanding!",
+    "source": "web_form",
+    "timestamp": "2024-01-28T16:34:00",
+    "rating": 5
+  },
+  {
+    "id": "24c8a0d9693f",
+    "text": "Ausgezeichnete Qualität, schneller Versand. Sehr empfehlenswert!",
+    "source": "play_store",
+    "timestamp": "2024-01-28T08:01:00",
+    "rating": 4
+  },
+  {
+    "id": "f4867eaece55",
+    "text": "Expérience moyenne. Livraison à temps.",
+    "source": "web_form",
+    "timestamp": "2024-01-29T05:30:00",
+    "rating": 3
+  },
+  {
+    "id": "3c19c87c4a10",
+    "text": "Standard service, met expectations but didn't exceed them.",
+    "source": "support_ticket",
+    "timestamp": "2024-01-29T15:22:00",
+    "rating": 3
+  },
+  {
+    "id": "ed52a1a6d205",
+    "text": "Schreckliche Erfahrung. 3 Wochen gewartet ohne Ergebnis.",
+    "source": "support_ticket",
+    "timestamp": "2024-01-29T15:18:00",
+    "rating": 2
+  },
+  {
+    "id": "4f7928992601",
+    "text": "Customer service was incredibly helpful and resolved my issue quickly.",
+    "source": "app_store",
+    "timestamp": "2024-01-30T12:55:00",
+    "rating": 5
+  },
+  {
+    "id": "f198df0da3a0",
+    "text": "Muy satisfecho con la experiencia. ¡Lo recomiendo!",
+    "source": "survey",
+    "timestamp": "2024-01-30T01:13:00",
+    "rating": 4
+  },
+  {
+    "id": "dc1b9aa72d14",
+    "text": "J'adore ce produit ! Le meilleur achat que j'ai fait. Note: 4/5.",
+    "source": "play_store",
+    "timestamp": "2024-01-30T17:26:00",
+    "rating": 4
+  },
+  {
+    "id": "40946150cc51",
+    "text": "Great quality, fast shipping. Will definitely order again.",
+    "source": "survey",
+    "timestamp": "2024-01-31T22:18:00",
+    "rating": 5
+  },
+  {
+    "id": "2beccf55e2df",
+    "text": "Functional product. Does what it says. Would rate 3/10.",
+    "source": "survey",
+    "timestamp": "2024-01-31T13:21:00",
+    "rating": 3
+  },
+  {
+    "id": "dd7733e046a7",
+    "text": "Schlechte Qualität. Nach zwei Wochen kaputt gegangen.",
+    "source": "email",
+    "timestamp": "2024-01-31T15:55:00",
+    "rating": 2
+  },
+  {
+    "id": "0843fb436b8d",
+    "text": "Muy satisfecho con la experiencia. ¡Lo recomiendo!",
+    "source": "chat",
+    "timestamp": "2024-02-01T10:55:00",
+    "rating": 4
+  },
+  {
+    "id": "75baf2ad5cf2",
+    "text": "J'adore ce produit ! Le meilleur achat que j'ai fait.",
+    "source": "support_ticket",
+    "timestamp": "2024-02-01T15:45:00",
+    "rating": 5
+  },
+  {
+    "id": "b78ef5099494",
+    "text": "Excellent value for money. Exceeded my expectations.",
+    "source": "web_form",
+    "timestamp": "2024-02-02T14:06:00",
+    "rating": 4
+  },
+  {
+    "id": "6d6a2a6b90f8",
+    "text": "Le service client était incroyablement utile et efficace. Note: 5/5.",
+    "source": "support_ticket",
+    "timestamp": "2024-02-02T10:54:00",
+    "rating": 5
+  },
+  {
+    "id": "5ad7a5d5d629",
+    "text": "Product works as described. Nothing special. Would rate 3/10.",
+    "source": "play_store",
+    "timestamp": "2024-02-02T03:48:00",
+    "rating": 3
+  },
+  {
+    "id": "628981826b8b",
+    "text": "製品が破損して届きました。サポートも役に立ちませんでした。",
+    "source": "twitter",
+    "timestamp": "2024-02-03T01:18:00",
+    "rating": 2
+  },
+  {
+    "id": "82d9e7af73b4",
+    "text": "El servicio al cliente fue increíblemente útil. Calificación: 4/10.",
+    "source": "chat",
+    "timestamp": "2024-02-03T18:09:00",
+    "rating": 5
+  },
+  {
+    "id": "4d93ae3dd21c",
+    "text": "Très satisfait de l'expérience. Hautement recommandé !",
+    "source": "email",
+    "timestamp": "2024-02-03T21:34:00",
+    "rating": 4
+  },
+  {
+    "id": "b676359c603a",
+    "text": "製品は説明通りに動作します。特別なものはありません。",
+    "source": "survey",
+    "timestamp": "2024-02-04T13:44:00",
+    "rating": 3
+  },
+  {
+    "id": "b70f2085da3e",
+    "text": "Really impressed with the build quality and design. Score: 5/5.",
+    "source": "support_ticket",
+    "timestamp": "2024-02-04T09:01:00",
+    "rating": 5
+  },
+  {
+    "id": "5d084a7ecc0b",
+    "text": "J'adore ce produit ! Le meilleur achat que j'ai fait.",
+    "source": "survey",
+    "timestamp": "2024-02-04T23:31:00",
+    "rating": 4
+  },
+  {
+    "id": "32678c956496",
+    "text": "Very satisfied with the experience. Highly recommend!",
+    "source": "email",
+    "timestamp": "2024-02-05T23:49:00",
+    "rating": 4
+  },
+  {
+    "id": "50250461bc18",
+    "text": "Excellent value for money. Exceeded my expectations.",
+    "source": "survey",
+    "timestamp": "2024-02-05T02:58:00",
+    "rating": 5
+  },
+  {
+    "id": "2cfe16ffcac1",
+    "text": "Excellent value for money. Exceeded my expectations.",
+    "source": "email",
+    "timestamp": "2024-02-06T08:53:00",
+    "rating": 5
+  },
+  {
+    "id": "64b362a374c5",
+    "text": "It's okay for the price point. Nothing to complain about.",
+    "source": "email",
+    "timestamp": "2024-02-06T14:04:00",
+    "rating": 3
+  },
+  {
+    "id": "f8cf2040bdc3",
+    "text": "Das Produkt funktioniert wie beschrieben. Nichts Besonderes. Bewertung: 3/5.",
+    "source": "survey",
+    "timestamp": "2024-02-06T14:23:00",
+    "rating": 3
+  },
+  {
+    "id": "c5a4102c0ec3",
+    "text": "Absolutely love this product! Best purchase I've made.",
+    "source": "chat",
+    "timestamp": "2024-02-07T17:20:00",
+    "rating": 4
+  },
+  {
+    "id": "e02fb7dcd6c1",
+    "text": "Standard service, met expectations but didn't exceed them. Would rate 3/10.",
+    "source": "chat",
+    "timestamp": "2024-02-07T03:06:00",
+    "rating": 3
+  },
+  {
+    "id": "d847a34ad2a9",
+    "text": "Très satisfait de l'expérience. Hautement recommandé !",
+    "source": "support_ticket",
+    "timestamp": "2024-02-07T23:09:00",
+    "rating": 4
+  },
+  {
+    "id": "9c53a13f87f4",
+    "text": "ひどい経験でした。3週間待っても届きませんでした。 スコア: 1/10。",
+    "source": "twitter",
+    "timestamp": "2024-02-08T07:54:00",
+    "rating": 2
+  },
+  {
+    "id": "2fdecc6a7d5e",
+    "text": "カスタマーサービスが非常に親切で助かりました。 スコア: 5/10。",
+    "source": "chat",
+    "timestamp": "2024-02-08T02:42:00",
+    "rating": 4
+  },
+  {
+    "id": "c5ccf0df4480",
+    "text": "Average experience. Delivery was on time.",
+    "source": "chat",
+    "timestamp": "2024-02-08T06:04:00",
+    "rating": 3
+  },
+  {
+    "id": "6c260231024c",
+    "text": "Absolutely love this product! Best purchase I've made. Overall rating: 4/5.",
+    "source": "app_store",
+    "timestamp": "2024-02-09T03:42:00",
+    "rating": 4
+  },
+  {
+    "id": "c542220e734d",
+    "text": "Excellente qualité, livraison rapide. Je recommande vivement ! Évaluation: 5/10.",
+    "source": "play_store",
+    "timestamp": "2024-02-09T16:07:00",
+    "rating": 5
+  },
+  {
+    "id": "18138fbc57b6",
+    "text": "El producto funciona como se describe. Nada especial.",
+    "source": "app_store",
+    "timestamp": "2024-02-09T07:39:00",
+    "rating": 3
+  },
+  {
+    "id": "075c6e01e4f8",
+    "text": "Misleading product description. Nothing like advertised.",
+    "source": "play_store",
+    "timestamp": "2024-02-10T13:43:00",
+    "rating": 2
+  },
+  {
+    "id": "b9c98afc431e",
+    "text": "Great quality, fast shipping. Will definitely order again. Score: 5/5.",
+    "source": "web_form",
+    "timestamp": "2024-02-10T16:18:00",
+    "rating": 5
+  },
+  {
+    "id": "20b0b9cb0def",
+    "text": "Functional product. Does what it says.",
+    "source": "web_form",
+    "timestamp": "2024-02-11T06:27:00",
+    "rating": 3
+  },
+  {
+    "id": "ebfecc937650",
+    "text": "The team went above and beyond to help me. Outstanding!",
+    "source": "twitter",
+    "timestamp": "2024-02-11T10:27:00",
+    "rating": 5
+  },
+  {
+    "id": "ac1a64402be9",
+    "text": "Expérience moyenne. Livraison à temps. Note: 3/5.",
+    "source": "twitter",
+    "timestamp": "2024-02-11T23:47:00",
+    "rating": 3
+  },
+  {
+    "id": "9cbd8bbf44e9",
+    "text": "Excelente calidad, envío rápido. Definitivamente pediré de nuevo.",
+    "source": "support_ticket",
+    "timestamp": "2024-02-12T13:22:00",
+    "rating": 4
+  },
+  {
+    "id": "9c56d6667025",
+    "text": "Poor quality materials. Broke after two weeks of use. Would rate 1/10.",
+    "source": "play_store",
+    "timestamp": "2024-02-12T17:23:00",
+    "rating": 1
+  },
+  {
+    "id": "5c1d11a5dd01",
+    "text": "Das Produkt funktioniert wie beschrieben. Nichts Besonderes.",
+    "source": "survey",
+    "timestamp": "2024-02-12T21:53:00",
+    "rating": 3
+  },
+  {
+    "id": "18ff62b0b951",
+    "text": "Excellente qualité, livraison rapide. Je recommande vivement !",
+    "source": "email",
+    "timestamp": "2024-02-13T05:55:00",
+    "rating": 5
+  },
+  {
+    "id": "8c7784e2e007",
+    "text": "¡Me encanta este producto! La mejor compra que he hecho. Calificación: 4/10.",
+    "source": "twitter",
+    "timestamp": "2024-02-13T10:10:00",
+    "rating": 5
+  },
+  {
+    "id": "f7115d9153c8",
+    "text": "El producto funciona como se describe. Nada especial.",
+    "source": "app_store",
+    "timestamp": "2024-02-13T04:10:00",
+    "rating": 3
+  },
+  {
+    "id": "d68d8f0b4219",
+    "text": "Really impressed with the build quality and design.",
+    "source": "play_store",
+    "timestamp": "2024-02-14T06:48:00",
+    "rating": 5
+  },
+  {
+    "id": "a49854c53956",
+    "text": "Très satisfait de l'expérience. Hautement recommandé !",
+    "source": "chat",
+    "timestamp": "2024-02-14T09:02:00",
+    "rating": 5
+  },
+  {
+    "id": "c4d95d92ddee",
+    "text": "The new feature update is amazing, exactly what I needed.",
+    "source": "twitter",
+    "timestamp": "2024-02-15T08:18:00",
+    "rating": 4
+  },
+  {
+    "id": "389f5a9171f1",
+    "text": "Great quality, fast shipping. Will definitely order again.",
+    "source": "twitter",
+    "timestamp": "2024-02-15T22:14:00",
+    "rating": 4
+  },
+  {
+    "id": "021d3dbea95a",
+    "text": "Product works as described. Nothing special.",
+    "source": "twitter",
+    "timestamp": "2024-02-15T02:55:00",
+    "rating": 3
+  },
+  {
+    "id": "ce92f5aa1131",
+    "text": "Terrible experience. Waited 3 weeks for delivery that never came.",
+    "source": "web_form",
+    "timestamp": "2024-02-16T10:10:00",
+    "rating": 1
+  },
+  {
+    "id": "247d1dd5de5a",
+    "text": "The team went above and beyond to help me. Outstanding!",
+    "source": "support_ticket",
+    "timestamp": "2024-02-16T16:05:00",
+    "rating": 5
+  },
+  {
+    "id": "04dc02158007",
+    "text": "J'adore ce produit ! Le meilleur achat que j'ai fait.",
+    "source": "chat",
+    "timestamp": "2024-02-16T03:33:00",
+    "rating": 5
+  },
+  {
+    "id": "b4413ca52dda",
+    "text": "Das Produkt kam beschädigt an und der Support war nutzlos. Bewertung: 2/5.",
+    "source": "play_store",
+    "timestamp": "2024-02-17T19:09:00",
+    "rating": 2
+  },
+  {
+    "id": "a05c3f9d5e29",
+    "text": "Muy satisfecho con la experiencia. ¡Lo recomiendo!",
+    "source": "twitter",
+    "timestamp": "2024-02-17T18:41:00",
+    "rating": 5
+  },
+  {
+    "id": "b9a9d3e33dc0",
+    "text": "Very satisfied with the experience. Highly recommend!",
+    "source": "twitter",
+    "timestamp": "2024-02-17T18:03:00",
+    "rating": 4
+  },
+  {
+    "id": "fed9888473f7",
+    "text": "Excellent value for money. Exceeded my expectations.",
+    "source": "play_store",
+    "timestamp": "2024-02-18T02:41:00",
+    "rating": 5
+  },
+  {
+    "id": "2ca433075686",
+    "text": "素晴らしい品質です。強くお勧めします！",
+    "source": "chat",
+    "timestamp": "2024-02-18T14:58:00",
+    "rating": 5
+  },
+  {
+    "id": "ac04fd57afc3",
+    "text": "カスタマーサービスが非常に親切で助かりました。 評価: 5/5。",
+    "source": "web_form",
+    "timestamp": "2024-02-18T07:45:00",
+    "rating": 5
+  },
+  {
+    "id": "da14a011772e",
+    "text": "カスタマーサービスが非常に親切で助かりました。",
+    "source": "app_store",
+    "timestamp": "2024-02-19T10:43:00",
+    "rating": 5
+  },
+  {
+    "id": "1cdd5b8c0c40",
+    "text": "Muy satisfecho con la experiencia. ¡Lo recomiendo! Puntuación: 4/5.",
+    "source": "support_ticket",
+    "timestamp": "2024-02-19T11:19:00",
+    "rating": 4
+  },
+  {
+    "id": "8da171ee35f4",
+    "text": "Excellent value for money. Exceeded my expectations.",
+    "source": "play_store",
+    "timestamp": "2024-02-20T21:44:00",
+    "rating": 5
+  },
+  {
+    "id": "5d5d109b06c0",
+    "text": "The new feature update is amazing, exactly what I needed.",
+    "source": "chat",
+    "timestamp": "2024-02-20T15:12:00",
+    "rating": 4
+  },
+  {
+    "id": "42101be2f892",
+    "text": "Ich liebe dieses Produkt! Bester Kauf den ich je gemacht habe.",
+    "source": "app_store",
+    "timestamp": "2024-02-20T17:53:00",
+    "rating": 5
+  },
+  {
+    "id": "aee5fd8241b0",
+    "text": "Great quality, fast shipping. Will definitely order again.",
+    "source": "email",
+    "timestamp": "2024-02-21T19:51:00",
+    "rating": 5
+  },
+  {
+    "id": "9720c191019c",
+    "text": "Le service client était incroyablement utile et efficace.",
+    "source": "web_form",
+    "timestamp": "2024-02-21T19:18:00",
+    "rating": 4
+  },
+  {
+    "id": "bf2323afae55",
+    "text": "Der Kundenservice war unglaublich hilfreich.",
+    "source": "web_form",
+    "timestamp": "2024-02-21T06:23:00",
+    "rating": 5
+  },
+  {
+    "id": "dd7462f688fe",
+    "text": "Experiencia promedio. La entrega fue puntual.",
+    "source": "email",
+    "timestamp": "2024-02-22T06:51:00",
+    "rating": 3
+  },
+  {
+    "id": "a14a777be24b",
+    "text": "Schlechte Qualität. Nach zwei Wochen kaputt gegangen.",
+    "source": "play_store",
+    "timestamp": "2024-02-22T22:54:00",
+    "rating": 1
+  },
+  {
+    "id": "d5c68a8124fe",
+    "text": "Functional product. Does what it says. Would rate 3/10.",
+    "source": "app_store",
+    "timestamp": "2024-02-22T11:59:00",
+    "rating": 3
+  },
+  {
+    "id": "063783a4c96d",
+    "text": "The team went above and beyond to help me. Outstanding!",
+    "source": "app_store",
+    "timestamp": "2024-02-23T11:14:00",
+    "rating": 5
+  },
+  {
+    "id": "eb64c0add977",
+    "text": "El producto funciona como se describe. Nada especial. Calificación: 3/10.",
+    "source": "app_store",
+    "timestamp": "2024-02-23T14:39:00",
+    "rating": 3
+  },
+  {
+    "id": "23566e75a4a4",
+    "text": "Schlechte Qualität. Nach zwei Wochen kaputt gegangen.",
+    "source": "support_ticket",
+    "timestamp": "2024-02-24T19:33:00",
+    "rating": 2
+  },
+  {
+    "id": "5f69f5c7df59",
+    "text": "Poor quality materials. Broke after two weeks of use.",
+    "source": "play_store",
+    "timestamp": "2024-02-24T19:29:00",
+    "rating": 2
+  },
+  {
+    "id": "302e4e5e6d4e",
+    "text": "Poor quality materials. Broke after two weeks of use.",
+    "source": "app_store",
+    "timestamp": "2024-02-24T09:27:00",
+    "rating": 1
+  },
+  {
+    "id": "169f965e3cb6",
+    "text": "Terrible experience. Waited 3 weeks for delivery that never came.",
+    "source": "app_store",
+    "timestamp": "2024-02-25T11:04:00",
+    "rating": 2
+  },
+  {
+    "id": "73c9f76a8afa",
+    "text": "Excellent value for money. Exceeded my expectations. Would rate 4/10.",
+    "source": "play_store",
+    "timestamp": "2024-02-25T07:46:00",
+    "rating": 5
+  },
+  {
+    "id": "7e3b9ab6df95",
+    "text": "El servicio al cliente fue increíblemente útil.",
+    "source": "web_form",
+    "timestamp": "2024-02-25T21:29:00",
+    "rating": 4
+  },
+  {
+    "id": "ac10cdfed3bd",
+    "text": "Très satisfait de l'expérience. Hautement recommandé ! Note: 4/5.",
+    "source": "survey",
+    "timestamp": "2024-02-26T10:59:00",
+    "rating": 5
+  },
+  {
+    "id": "aa424db54c37",
+    "text": "Le produit est arrivé endommagé et le support était inutile. Note: 2/5.",
+    "source": "support_ticket",
+    "timestamp": "2024-02-26T11:27:00",
+    "rating": 2
+  },
+  {
+    "id": "66bf64e93e6c",
+    "text": "Misleading product description. Nothing like advertised.",
+    "source": "play_store",
+    "timestamp": "2024-02-26T16:17:00",
+    "rating": 1
+  },
+  {
+    "id": "77ec32f577db",
+    "text": "製品が破損して届きました。サポートも役に立ちませんでした。",
+    "source": "play_store",
+    "timestamp": "2024-02-27T10:06:00",
+    "rating": 2
+  },
+  {
+    "id": "b79aac27202a",
+    "text": "El peor servicio al cliente que he experimentado. Puntuación: 2/5.",
+    "source": "twitter",
+    "timestamp": "2024-02-27T23:55:00",
+    "rating": 2
+  },
+  {
+    "id": "6caaf83f597c",
+    "text": "Le produit est arrivé endommagé et le support était inutile. Note: 2/5.",
+    "source": "web_form",
+    "timestamp": "2024-02-27T04:54:00",
+    "rating": 1
+  },
+  {
+    "id": "526d8f64594d",
+    "text": "Excellente qualité, livraison rapide. Je recommande vivement !",
+    "source": "email",
+    "timestamp": "2024-02-28T18:02:00",
+    "rating": 5
+  },
+  {
+    "id": "d508b22b559b",
+    "text": "Qualité médiocre. Cassé après deux semaines d'utilisation. Évaluation: 2/10.",
+    "source": "app_store",
+    "timestamp": "2024-02-28T07:07:00",
+    "rating": 2
+  },
+  {
+    "id": "7679a8a35fc1",
+    "text": "製品が破損して届きました。サポートも役に立ちませんでした。 スコア: 2/10。",
+    "source": "web_form",
+    "timestamp": "2024-02-29T22:58:00",
+    "rating": 1
+  },
+  {
+    "id": "bc36cbb607e6",
+    "text": "Great quality, fast shipping. Will definitely order again.",
+    "source": "twitter",
+    "timestamp": "2024-02-29T14:05:00",
+    "rating": 5
+  },
+  {
+    "id": "ae2f775d7121",
+    "text": "Worst customer service I've ever encountered.",
+    "source": "email",
+    "timestamp": "2024-02-29T22:45:00",
+    "rating": 1
+  },
+  {
+    "id": "2c27fcd963d8",
+    "text": "Great quality, fast shipping. Will definitely order again. Score: 5/5.",
+    "source": "web_form",
+    "timestamp": "2024-03-01T18:23:00",
+    "rating": 4
+  },
+  {
+    "id": "ab62a3f12541",
+    "text": "Really impressed with the build quality and design.",
+    "source": "play_store",
+    "timestamp": "2024-03-01T13:52:00",
+    "rating": 4
+  },
+  {
+    "id": "e5a8841b80fc",
+    "text": "Not worth the price. Very disappointing quality. Score: 1/5.",
+    "source": "play_store",
+    "timestamp": "2024-03-01T01:53:00",
+    "rating": 2
+  },
+  {
+    "id": "126ea062cbd8",
+    "text": "The new feature update is amazing, exactly what I needed.",
+    "source": "survey",
+    "timestamp": "2024-03-02T16:57:00",
+    "rating": 4
+  },
+  {
+    "id": "d0d07e36a0b8",
+    "text": "カスタマーサービスが非常に親切で助かりました。 評価: 5/5。",
+    "source": "twitter",
+    "timestamp": "2024-03-02T05:42:00",
+    "rating": 4
+  },
+  {
+    "id": "4aeee428251e",
+    "text": "素晴らしい品質です。強くお勧めします！ スコア: 4/10。",
+    "source": "survey",
+    "timestamp": "2024-03-02T20:34:00",
+    "rating": 5
+  },
+  {
+    "id": "4e085be965de",
+    "text": "Schreckliche Erfahrung. 3 Wochen gewartet ohne Ergebnis. Note: 1/10.",
+    "source": "web_form",
+    "timestamp": "2024-03-03T13:30:00",
+    "rating": 2
+  },
+  {
+    "id": "dc35614e7f48",
+    "text": "Not worth the price. Very disappointing quality.",
+    "source": "email",
+    "timestamp": "2024-03-03T11:25:00",
+    "rating": 1
+  },
+  {
+    "id": "6391048b938d",
+    "text": "Worst customer service I've ever encountered.",
+    "source": "app_store",
+    "timestamp": "2024-03-03T04:06:00",
+    "rating": 2
+  },
+  {
+    "id": "614860c7bc7f",
+    "text": "Average experience. Delivery was on time.",
+    "source": "twitter",
+    "timestamp": "2024-03-04T18:46:00",
+    "rating": 3
+  },
+  {
+    "id": "0ba94e4aae2c",
+    "text": "El peor servicio al cliente que he experimentado.",
+    "source": "play_store",
+    "timestamp": "2024-03-04T15:01:00",
+    "rating": 2
+  },
+  {
+    "id": "2cd21a3b6407",
+    "text": "It's okay for the price point. Nothing to complain about. Would rate 3/10.",
+    "source": "play_store",
+    "timestamp": "2024-03-05T17:00:00",
+    "rating": 3
+  },
+  {
+    "id": "a7771b767fca",
+    "text": "Expérience moyenne. Livraison à temps.",
+    "source": "chat",
+    "timestamp": "2024-03-05T12:03:00",
+    "rating": 3
+  },
+  {
+    "id": "6626e8341b30",
+    "text": "Excelente calidad, envío rápido. Definitivamente pediré de nuevo.",
+    "source": "play_store",
+    "timestamp": "2024-03-05T19:43:00",
+    "rating": 4
+  },
+  {
+    "id": "d67316930082",
+    "text": "Expérience terrible. J'ai attendu 3 semaines pour rien.",
+    "source": "email",
+    "timestamp": "2024-03-06T11:48:00",
+    "rating": 2
+  },
+  {
+    "id": "7d73508b37a0",
+    "text": "The software crashes constantly. Very frustrating.",
+    "source": "web_form",
+    "timestamp": "2024-03-06T15:33:00",
+    "rating": 1
+  },
+  {
+    "id": "a6ca4b5e29b7",
+    "text": "Experiencia terrible. Esperé 3 semanas sin resultado.",
+    "source": "survey",
+    "timestamp": "2024-03-06T19:47:00",
+    "rating": 2
+  },
+  {
+    "id": "4a8db1e38a00",
+    "text": "Product arrived damaged and customer support was unhelpful.",
+    "source": "support_ticket",
+    "timestamp": "2024-03-07T21:07:00",
+    "rating": 1
+  },
+  {
+    "id": "a9c8ba0f3417",
+    "text": "Poor quality materials. Broke after two weeks of use.",
+    "source": "email",
+    "timestamp": "2024-03-07T18:30:00",
+    "rating": 1
+  },
+  {
+    "id": "f2affdb0a287",
+    "text": "Functional product. Does what it says.",
+    "source": "app_store",
+    "timestamp": "2024-03-07T03:12:00",
+    "rating": 3
+  },
+  {
+    "id": "5f9d2ff7ec45",
+    "text": "Poor quality materials. Broke after two weeks of use.",
+    "source": "web_form",
+    "timestamp": "2024-03-08T19:58:00",
+    "rating": 1
+  },
+  {
+    "id": "a63a8fffc3ed",
+    "text": "El peor servicio al cliente que he experimentado.",
+    "source": "web_form",
+    "timestamp": "2024-03-08T10:11:00",
+    "rating": 2
+  },
+  {
+    "id": "5399e5852a49",
+    "text": "Schlechte Qualität. Nach zwei Wochen kaputt gegangen.",
+    "source": "web_form",
+    "timestamp": "2024-03-09T22:16:00",
+    "rating": 1
+  },
+  {
+    "id": "bdfb9dacf3d3",
+    "text": "Worst customer service I've ever encountered.",
+    "source": "web_form",
+    "timestamp": "2024-03-09T22:13:00",
+    "rating": 2
+  },
+  {
+    "id": "361d4fb8d236",
+    "text": "ひどい経験でした。3週間待っても届きませんでした。 評価: 2/5。",
+    "source": "survey",
+    "timestamp": "2024-03-09T09:02:00",
+    "rating": 2
+  },
+  {
+    "id": "9acdae4d45dd",
+    "text": "Expérience moyenne. Livraison à temps. Note: 3/5.",
+    "source": "chat",
+    "timestamp": "2024-03-10T19:47:00",
+    "rating": 3
+  },
+  {
+    "id": "2d110d201206",
+    "text": "Experiencia terrible. Esperé 3 semanas sin resultado. Puntuación: 2/5.",
+    "source": "email",
+    "timestamp": "2024-03-10T21:49:00",
+    "rating": 1
+  },
+  {
+    "id": "50076c00863c",
+    "text": "ひどい経験でした。3週間待っても届きませんでした。",
+    "source": "survey",
+    "timestamp": "2024-03-10T06:48:00",
+    "rating": 2
+  },
+  {
+    "id": "2b666b3d4da8",
+    "text": "製品が破損して届きました。サポートも役に立ちませんでした。",
+    "source": "app_store",
+    "timestamp": "2024-03-11T07:34:00",
+    "rating": 2
+  },
+  {
+    "id": "2ece8489ed9b",
+    "text": "Product works as described. Nothing special.",
+    "source": "web_form",
+    "timestamp": "2024-03-11T12:50:00",
+    "rating": 3
+  },
+  {
+    "id": "4b4d830d2a88",
+    "text": "Functional product. Does what it says.",
+    "source": "web_form",
+    "timestamp": "2024-03-11T10:18:00",
+    "rating": 3
+  },
+  {
+    "id": "59b23f162bdd",
+    "text": "Average experience. Delivery was on time.",
+    "source": "web_form",
+    "timestamp": "2024-03-12T10:10:00",
+    "rating": 3
+  },
+  {
+    "id": "ec5cbb02072a",
+    "text": "Very satisfied with the experience. Highly recommend!",
+    "source": "support_ticket",
+    "timestamp": "2024-03-12T06:11:00",
+    "rating": 5
+  },
+  {
+    "id": "01805b045f78",
+    "text": "Le service client était incroyablement utile et efficace.",
+    "source": "chat",
+    "timestamp": "2024-03-13T15:20:00",
+    "rating": 4
+  },
+  {
+    "id": "49386ec69c94",
+    "text": "Worst customer service I've ever encountered.",
+    "source": "app_store",
+    "timestamp": "2024-03-13T09:37:00",
+    "rating": 2
+  },
+  {
+    "id": "656f19b49e10",
+    "text": "Terrible experience. Waited 3 weeks for delivery that never came.",
+    "source": "survey",
+    "timestamp": "2024-03-13T05:25:00",
+    "rating": 2
+  },
+  {
+    "id": "f32ecdbf3bf2",
+    "text": "The software crashes constantly. Very frustrating.",
+    "source": "twitter",
+    "timestamp": "2024-03-14T14:47:00",
+    "rating": 2
+  },
+  {
+    "id": "9b0946c02e90",
+    "text": "Das Produkt funktioniert wie beschrieben. Nichts Besonderes.",
+    "source": "play_store",
+    "timestamp": "2024-03-14T21:48:00",
+    "rating": 3
+  },
+  {
+    "id": "22705c465bbf",
+    "text": "¡Me encanta este producto! La mejor compra que he hecho.",
+    "source": "email",
+    "timestamp": "2024-03-14T16:12:00",
+    "rating": 4
+  },
+  {
+    "id": "d936f17c9fe1",
+    "text": "Average experience. Delivery was on time.",
+    "source": "web_form",
+    "timestamp": "2024-03-15T15:05:00",
+    "rating": 3
+  },
+  {
+    "id": "11cd45dc8595",
+    "text": "Absolutely love this product! Best purchase I've made.",
+    "source": "survey",
+    "timestamp": "2024-03-15T21:51:00",
+    "rating": 4
+  },
+  {
+    "id": "a426493fdb35",
+    "text": "Poor quality materials. Broke after two weeks of use.",
+    "source": "twitter",
+    "timestamp": "2024-03-15T01:27:00",
+    "rating": 1
+  },
+  {
+    "id": "54f59417dfaf",
+    "text": "Standard service, met expectations but didn't exceed them. Score: 3/5.",
+    "source": "support_ticket",
+    "timestamp": "2024-03-16T23:41:00",
+    "rating": 3
+  },
+  {
+    "id": "8807cfab33fa",
+    "text": "ひどい経験でした。3週間待っても届きませんでした。",
+    "source": "email",
+    "timestamp": "2024-03-16T21:42:00",
+    "rating": 1
+  },
+  {
+    "id": "9599268f98b3",
+    "text": "El servicio al cliente fue increíblemente útil.",
+    "source": "app_store",
+    "timestamp": "2024-03-16T07:53:00",
+    "rating": 4
+  },
+  {
+    "id": "b32102273fab",
+    "text": "Expérience terrible. J'ai attendu 3 semaines pour rien.",
+    "source": "web_form",
+    "timestamp": "2024-03-17T07:15:00",
+    "rating": 1
+  },
+  {
+    "id": "db01f92bc44d",
+    "text": "製品が破損して届きました。サポートも役に立ちませんでした。 評価: 1/5。",
+    "source": "app_store",
+    "timestamp": "2024-03-17T02:06:00",
+    "rating": 1
+  },
+  {
+    "id": "5b83380eb993",
+    "text": "Misleading product description. Nothing like advertised. Score: 1/5.",
+    "source": "twitter",
+    "timestamp": "2024-03-18T09:14:00",
+    "rating": 1
+  },
+  {
+    "id": "5f23203cfaf4",
+    "text": "Poor quality materials. Broke after two weeks of use.",
+    "source": "email",
+    "timestamp": "2024-03-18T08:03:00",
+    "rating": 2
+  },
+  {
+    "id": "12101320cd4f",
+    "text": "The team went above and beyond to help me. Outstanding!",
+    "source": "support_ticket",
+    "timestamp": "2024-03-18T10:44:00",
+    "rating": 5
+  },
+  {
+    "id": "81e1839285f2",
+    "text": "Misleading product description. Nothing like advertised. Would rate 2/10.",
+    "source": "support_ticket",
+    "timestamp": "2024-03-19T01:35:00",
+    "rating": 1
+  },
+  {
+    "id": "413b7c7fe009",
+    "text": "Not worth the price. Very disappointing quality.",
+    "source": "twitter",
+    "timestamp": "2024-03-19T14:54:00",
+    "rating": 1
+  },
+  {
+    "id": "1733d7255f2c",
+    "text": "Absolutely love this product! Best purchase I've made.",
+    "source": "chat",
+    "timestamp": "2024-03-19T06:51:00",
+    "rating": 5
+  },
+  {
+    "id": "1cc03469e91f",
+    "text": "Product works as described. Nothing special. Overall rating: 3/5.",
+    "source": "chat",
+    "timestamp": "2024-03-20T22:38:00",
+    "rating": 3
+  },
+  {
+    "id": "545d0bb313e0",
+    "text": "Expérience terrible. J'ai attendu 3 semaines pour rien.",
+    "source": "survey",
+    "timestamp": "2024-03-20T20:22:00",
+    "rating": 2
+  },
+  {
+    "id": "9217d6bb48e9",
+    "text": "Terrible experience. Waited 3 weeks for delivery that never came.",
+    "source": "twitter",
+    "timestamp": "2024-03-20T23:30:00",
+    "rating": 2
+  },
+  {
+    "id": "d5cec0823ea3",
+    "text": "Poor quality materials. Broke after two weeks of use.",
+    "source": "support_ticket",
+    "timestamp": "2024-03-21T00:16:00",
+    "rating": 1
+  },
+  {
+    "id": "5c8873f259db",
+    "text": "The new feature update is amazing, exactly what I needed.",
+    "source": "twitter",
+    "timestamp": "2024-03-21T20:43:00",
+    "rating": 5
+  },
+  {
+    "id": "73d70d5125b3",
+    "text": "Experiencia promedio. La entrega fue puntual.",
+    "source": "twitter",
+    "timestamp": "2024-03-22T23:50:00",
+    "rating": 3
+  },
+  {
+    "id": "c2e558b70544",
+    "text": "Product arrived damaged and customer support was unhelpful.",
+    "source": "app_store",
+    "timestamp": "2024-03-22T02:52:00",
+    "rating": 2
+  },
+  {
+    "id": "bd26ada51971",
+    "text": "¡Me encanta este producto! La mejor compra que he hecho.",
+    "source": "web_form",
+    "timestamp": "2024-03-22T00:13:00",
+    "rating": 5
+  },
+  {
+    "id": "e564a7c66c93",
+    "text": "Qualité médiocre. Cassé après deux semaines d'utilisation.",
+    "source": "app_store",
+    "timestamp": "2024-03-23T21:31:00",
+    "rating": 2
+  },
+  {
+    "id": "72db904b73ab",
+    "text": "Excelente calidad, envío rápido. Definitivamente pediré de nuevo.",
+    "source": "support_ticket",
+    "timestamp": "2024-03-23T09:01:00",
+    "rating": 4
+  },
+  {
+    "id": "f3ec3339069f",
+    "text": "El producto funciona como se describe. Nada especial. Calificación: 3/10.",
+    "source": "support_ticket",
+    "timestamp": "2024-03-23T02:23:00",
+    "rating": 3
+  },
+  {
+    "id": "26eff9c842d7",
+    "text": "Product works as described. Nothing special.",
+    "source": "app_store",
+    "timestamp": "2024-03-24T20:48:00",
+    "rating": 3
+  },
+  {
+    "id": "dc1d6ba29517",
+    "text": "El producto llegó dañado y el soporte no ayudó.",
+    "source": "play_store",
+    "timestamp": "2024-03-24T22:10:00",
+    "rating": 2
+  },
+  {
+    "id": "e7aa1ef201a2",
+    "text": "Terrible experience. Waited 3 weeks for delivery that never came.",
+    "source": "chat",
+    "timestamp": "2024-03-24T01:14:00",
+    "rating": 2
+  },
+  {
+    "id": "d0b623ad00a5",
+    "text": "Very satisfied with the experience. Highly recommend!",
+    "source": "app_store",
+    "timestamp": "2024-03-25T18:42:00",
+    "rating": 4
+  },
+  {
+    "id": "3ae049d27d41",
+    "text": "Great quality, fast shipping. Will definitely order again.",
+    "source": "support_ticket",
+    "timestamp": "2024-03-25T22:52:00",
+    "rating": 4
+  },
+  {
+    "id": "89d0c21beda2",
+    "text": "The team went above and beyond to help me. Outstanding!",
+    "source": "support_ticket",
+    "timestamp": "2024-03-25T17:21:00",
+    "rating": 4
+  },
+  {
+    "id": "a375efd736b8",
+    "text": "製品が破損して届きました。サポートも役に立ちませんでした。 スコア: 1/10。",
+    "source": "survey",
+    "timestamp": "2024-03-26T10:01:00",
+    "rating": 2
+  },
+  {
+    "id": "d18ac8e50ba5",
+    "text": "El peor servicio al cliente que he experimentado.",
+    "source": "support_ticket",
+    "timestamp": "2024-03-26T21:37:00",
+    "rating": 2
+  },
+  {
+    "id": "e5cedce66157",
+    "text": "Le produit fonctionne comme décrit. Rien de spécial. Évaluation: 3/10.",
+    "source": "play_store",
+    "timestamp": "2024-03-27T11:06:00",
+    "rating": 3
+  },
+  {
+    "id": "e7f1427704dc",
+    "text": "Le produit est arrivé endommagé et le support était inutile. Évaluation: 2/10.",
+    "source": "play_store",
+    "timestamp": "2024-03-27T03:01:00",
+    "rating": 1
+  },
+  {
+    "id": "b74a85c0071c",
+    "text": "Expérience terrible. J'ai attendu 3 semaines pour rien. Note: 2/5.",
+    "source": "email",
+    "timestamp": "2024-03-27T18:33:00",
+    "rating": 1
+  },
+  {
+    "id": "b867a1a840c4",
+    "text": "Really impressed with the build quality and design. Would rate 4/10.",
+    "source": "play_store",
+    "timestamp": "2024-03-28T09:30:00",
+    "rating": 5
+  },
+  {
+    "id": "404c92898c7e",
+    "text": "Expérience moyenne. Livraison à temps.",
+    "source": "play_store",
+    "timestamp": "2024-03-28T06:29:00",
+    "rating": 3
+  },
+  {
+    "id": "be88c46c038e",
+    "text": "The team went above and beyond to help me. Outstanding!",
+    "source": "twitter",
+    "timestamp": "2024-03-28T10:28:00",
+    "rating": 5
+  },
+  {
+    "id": "18b023c1103a",
+    "text": "Experiencia terrible. Esperé 3 semanas sin resultado.",
+    "source": "twitter",
+    "timestamp": "2024-03-29T05:25:00",
+    "rating": 2
+  },
+  {
+    "id": "b6a80b36aae3",
+    "text": "Expérience moyenne. Livraison à temps.",
+    "source": "play_store",
+    "timestamp": "2024-03-29T12:23:00",
+    "rating": 3
+  },
+  {
+    "id": "86a1de9c3563",
+    "text": "El peor servicio al cliente que he experimentado.",
+    "source": "survey",
+    "timestamp": "2024-03-29T06:28:00",
+    "rating": 2
+  },
+  {
+    "id": "887449793d2d",
+    "text": "Worst customer service I've ever encountered. Overall rating: 2/5.",
+    "source": "web_form",
+    "timestamp": "2024-03-30T14:38:00",
+    "rating": 2
+  },
+  {
+    "id": "b693dcc2f5c9",
+    "text": "Expérience terrible. J'ai attendu 3 semaines pour rien.",
+    "source": "play_store",
+    "timestamp": "2024-03-30T17:38:00",
+    "rating": 1
+  },
+  {
+    "id": "fdb477af36db",
+    "text": "Product arrived damaged and customer support was unhelpful.",
+    "source": "support_ticket",
+    "timestamp": "2024-03-31T20:43:00",
+    "rating": 2
+  },
+  {
+    "id": "fa057f188161",
+    "text": "The new feature update is amazing, exactly what I needed.",
+    "source": "chat",
+    "timestamp": "2024-03-31T16:35:00",
+    "rating": 5
+  },
+  {
+    "id": "f42ca40c1391",
+    "text": "Qualité médiocre. Cassé après deux semaines d'utilisation.",
+    "source": "app_store",
+    "timestamp": "2024-03-31T04:22:00",
+    "rating": 1
+  },
+  {
+    "id": "a34f61b66c0b",
+    "text": "製品が破損して届きました。サポートも役に立ちませんでした。 スコア: 2/10。",
+    "source": "chat",
+    "timestamp": "2024-04-01T14:50:00",
+    "rating": 2
+  },
+  {
+    "id": "aa21d354df9f",
+    "text": "Misleading product description. Nothing like advertised.",
+    "source": "play_store",
+    "timestamp": "2024-04-01T09:02:00",
+    "rating": 2
+  },
+  {
+    "id": "4c24c3d87472",
+    "text": "Le produit est arrivé endommagé et le support était inutile.",
+    "source": "email",
+    "timestamp": "2024-04-01T23:15:00",
+    "rating": 2
+  },
+  {
+    "id": "4e19280e0617",
+    "text": "製品が破損して届きました。サポートも役に立ちませんでした。",
+    "source": "email",
+    "timestamp": "2024-04-02T20:11:00",
+    "rating": 2
+  },
+  {
+    "id": "bc4c02db08a7",
+    "text": "El servicio al cliente fue increíblemente útil.",
+    "source": "app_store",
+    "timestamp": "2024-04-02T13:24:00",
+    "rating": 4
+  },
+  {
+    "id": "f3846d7596d4",
+    "text": "Le produit est arrivé endommagé et le support était inutile.",
+    "source": "twitter",
+    "timestamp": "2024-04-02T17:11:00",
+    "rating": 1
+  },
+  {
+    "id": "fb30ab40f582",
+    "text": "Misleading product description. Nothing like advertised.",
+    "source": "support_ticket",
+    "timestamp": "2024-04-03T20:20:00",
+    "rating": 1
+  },
+  {
+    "id": "3cb99c3724bd",
+    "text": "Schlechte Qualität. Nach zwei Wochen kaputt gegangen. Note: 1/10.",
+    "source": "survey",
+    "timestamp": "2024-04-03T03:15:00",
+    "rating": 1
+  },
+  {
+    "id": "5b4e15892a35",
+    "text": "The app is full of bugs. Each update makes it worse.",
+    "source": "support_ticket",
+    "timestamp": "2024-04-03T04:36:00",
+    "rating": 1
+  },
+  {
+    "id": "cf9df54106d4",
+    "text": "Experiencia terrible. Esperé 3 semanas sin resultado.",
+    "source": "email",
+    "timestamp": "2024-04-04T15:18:00",
+    "rating": 2
+  },
+  {
+    "id": "4fe1947761d1",
+    "text": "Experiencia promedio. La entrega fue puntual.",
+    "source": "chat",
+    "timestamp": "2024-04-04T15:08:00",
+    "rating": 3
+  },
+  {
+    "id": "9d053f2d608c",
+    "text": "Misleading product description. Nothing like advertised.",
+    "source": "app_store",
+    "timestamp": "2024-04-05T02:36:00",
+    "rating": 2
+  },
+  {
+    "id": "81f76698d94e",
+    "text": "Very satisfied with the experience. Highly recommend! Score: 5/5.",
+    "source": "twitter",
+    "timestamp": "2024-04-05T03:17:00",
+    "rating": 4
+  },
+  {
+    "id": "322d70094e7b",
+    "text": "製品が破損して届きました。サポートも役に立ちませんでした。",
+    "source": "chat",
+    "timestamp": "2024-04-05T20:48:00",
+    "rating": 1
+  },
+  {
+    "id": "7f607caac54a",
+    "text": "Terrible experience. Waited 3 weeks for delivery that never came.",
+    "source": "chat",
+    "timestamp": "2024-04-06T03:49:00",
+    "rating": 2
+  },
+  {
+    "id": "dc80149104c9",
+    "text": "Experiencia promedio. La entrega fue puntual. Puntuación: 3/5.",
+    "source": "survey",
+    "timestamp": "2024-04-06T18:22:00",
+    "rating": 3
+  },
+  {
+    "id": "dff2acdd415b",
+    "text": "Functional product. Does what it says. Overall rating: 3/5.",
+    "source": "email",
+    "timestamp": "2024-04-06T08:55:00",
+    "rating": 3
+  },
+  {
+    "id": "ba2038d093d8",
+    "text": "The new feature update is amazing, exactly what I needed.",
+    "source": "web_form",
+    "timestamp": "2024-04-07T21:25:00",
+    "rating": 4
+  },
+  {
+    "id": "ab8d1e151121",
+    "text": "Terrible experience. Waited 3 weeks for delivery that never came.",
+    "source": "survey",
+    "timestamp": "2024-04-07T02:25:00",
+    "rating": 2
+  },
+  {
+    "id": "f584e5b57190",
+    "text": "Product works as described. Nothing special.",
+    "source": "web_form",
+    "timestamp": "2024-04-07T23:05:00",
+    "rating": 3
+  },
+  {
+    "id": "59b356c778b5",
+    "text": "Standard service, met expectations but didn't exceed them.",
+    "source": "twitter",
+    "timestamp": "2024-04-08T15:17:00",
+    "rating": 3
+  },
+  {
+    "id": "6a4150e88d00",
+    "text": "Misleading product description. Nothing like advertised.",
+    "source": "app_store",
+    "timestamp": "2024-04-08T21:48:00",
+    "rating": 1
+  },
+  {
+    "id": "c8ea06ef9bce",
+    "text": "Das Produkt kam beschädigt an und der Support war nutzlos. Bewertung: 2/5.",
+    "source": "email",
+    "timestamp": "2024-04-09T13:12:00",
+    "rating": 1
+  },
+  {
+    "id": "91d27827fe8f",
+    "text": "Das Produkt funktioniert wie beschrieben. Nichts Besonderes.",
+    "source": "twitter",
+    "timestamp": "2024-04-09T08:05:00",
+    "rating": 3
+  },
+  {
+    "id": "2e25ae4c6ca2",
+    "text": "Poor quality materials. Broke after two weeks of use.",
+    "source": "play_store",
+    "timestamp": "2024-04-09T02:45:00",
+    "rating": 1
+  },
+  {
+    "id": "02f843e52619",
+    "text": "Poor quality materials. Broke after two weeks of use.",
+    "source": "app_store",
+    "timestamp": "2024-04-10T14:00:00",
+    "rating": 1
+  },
+  {
+    "id": "a57a13fde7c1",
+    "text": "Average experience. Delivery was on time.",
+    "source": "play_store",
+    "timestamp": "2024-04-10T07:24:00",
+    "rating": 3
+  },
+  {
+    "id": "5ab13cadd7a8",
+    "text": "Das Produkt kam beschädigt an und der Support war nutzlos.",
+    "source": "email",
+    "timestamp": "2024-04-10T04:41:00",
+    "rating": 1
+  },
+  {
+    "id": "1ad7a81621b8",
+    "text": "Not worth the price. Very disappointing quality.",
+    "source": "email",
+    "timestamp": "2024-04-11T20:47:00",
+    "rating": 2
+  },
+  {
+    "id": "f3a9c5b14225",
+    "text": "Product works as described. Nothing special. Would rate 3/10.",
+    "source": "email",
+    "timestamp": "2024-04-11T10:50:00",
+    "rating": 3
+  },
+  {
+    "id": "fcc9d208c2ca",
+    "text": "Worst customer service I've ever encountered.",
+    "source": "survey",
+    "timestamp": "2024-04-11T22:01:00",
+    "rating": 1
+  },
+  {
+    "id": "580e6abb0f9b",
+    "text": "Product arrived damaged and customer support was unhelpful.",
+    "source": "support_ticket",
+    "timestamp": "2024-04-12T07:31:00",
+    "rating": 1
+  },
+  {
+    "id": "2e7f346e325c",
+    "text": "El producto llegó dañado y el soporte no ayudó.",
+    "source": "support_ticket",
+    "timestamp": "2024-04-12T10:08:00",
+    "rating": 2
+  },
+  {
+    "id": "271077900307",
+    "text": "Misleading product description. Nothing like advertised.",
+    "source": "play_store",
+    "timestamp": "2024-04-12T02:01:00",
+    "rating": 2
+  },
+  {
+    "id": "ff393310ba05",
+    "text": "ひどい経験でした。3週間待っても届きませんでした。",
+    "source": "support_ticket",
+    "timestamp": "2024-04-13T20:45:00",
+    "rating": 2
+  },
+  {
+    "id": "73d3b30c0681",
+    "text": "El servicio al cliente fue increíblemente útil. Puntuación: 5/5.",
+    "source": "support_ticket",
+    "timestamp": "2024-04-13T17:20:00",
+    "rating": 4
+  },
+  {
+    "id": "cb138b5884f9",
+    "text": "Le produit est arrivé endommagé et le support était inutile. Évaluation: 2/10.",
+    "source": "app_store",
+    "timestamp": "2024-04-14T19:38:00",
+    "rating": 1
+  },
+  {
+    "id": "28c3aea3ee75",
+    "text": "J'adore ce produit ! Le meilleur achat que j'ai fait. Évaluation: 5/10.",
+    "source": "survey",
+    "timestamp": "2024-04-14T04:47:00",
+    "rating": 4
+  },
+  {
+    "id": "75df13da99b3",
+    "text": "Terrible experience. Waited 3 weeks for delivery that never came. Score: 2/5.",
+    "source": "web_form",
+    "timestamp": "2024-04-14T11:03:00",
+    "rating": 2
+  },
+  {
+    "id": "10f96758c1a8",
+    "text": "Qualité médiocre. Cassé après deux semaines d'utilisation.",
+    "source": "app_store",
+    "timestamp": "2024-04-15T03:14:00",
+    "rating": 1
+  },
+  {
+    "id": "03c96e160bc7",
+    "text": "The app is full of bugs. Each update makes it worse.",
+    "source": "app_store",
+    "timestamp": "2024-04-15T05:59:00",
+    "rating": 1
+  },
+  {
+    "id": "9a1f59c27bab",
+    "text": "Not worth the price. Very disappointing quality. Score: 2/5.",
+    "source": "app_store",
+    "timestamp": "2024-04-15T21:57:00",
+    "rating": 1
+  },
+  {
+    "id": "a9015f11104c",
+    "text": "製品は説明通りに動作します。特別なものはありません。 スコア: 3/10。",
+    "source": "web_form",
+    "timestamp": "2024-04-16T02:35:00",
+    "rating": 3
+  },
+  {
+    "id": "12741663077a",
+    "text": "Mala calidad. Se rompió después de dos semanas.",
+    "source": "twitter",
+    "timestamp": "2024-04-16T07:29:00",
+    "rating": 1
+  },
+  {
+    "id": "14100a5c8d69",
+    "text": "Experiencia terrible. Esperé 3 semanas sin resultado. Calificación: 1/10.",
+    "source": "app_store",
+    "timestamp": "2024-04-16T20:53:00",
+    "rating": 1
+  },
+  {
+    "id": "69252e0bbf8d",
+    "text": "It's okay for the price point. Nothing to complain about. Overall rating: 3/5.",
+    "source": "survey",
+    "timestamp": "2024-04-17T04:45:00",
+    "rating": 3
+  },
+  {
+    "id": "501c386ac0cc",
+    "text": "Das Produkt funktioniert wie beschrieben. Nichts Besonderes.",
+    "source": "play_store",
+    "timestamp": "2024-04-17T11:29:00",
+    "rating": 3
+  },
+  {
+    "id": "76dc7fa1c3b5",
+    "text": "Product arrived damaged and customer support was unhelpful.",
+    "source": "survey",
+    "timestamp": "2024-04-18T04:15:00",
+    "rating": 2
+  },
+  {
+    "id": "2cd63c85fdfb",
+    "text": "It's okay for the price point. Nothing to complain about.",
+    "source": "play_store",
+    "timestamp": "2024-04-18T08:14:00",
+    "rating": 3
+  },
+  {
+    "id": "e09a987e999c",
+    "text": "El producto funciona como se describe. Nada especial. Calificación: 3/10.",
+    "source": "twitter",
+    "timestamp": "2024-04-18T03:34:00",
+    "rating": 3
+  },
+  {
+    "id": "d2db59bbc719",
+    "text": "Terrible experience. Waited 3 weeks for delivery that never came. Would rate 1/10.",
+    "source": "chat",
+    "timestamp": "2024-04-19T04:05:00",
+    "rating": 2
+  },
+  {
+    "id": "b7c8cfe17f76",
+    "text": "Expérience terrible. J'ai attendu 3 semaines pour rien.",
+    "source": "support_ticket",
+    "timestamp": "2024-04-19T05:01:00",
+    "rating": 1
+  },
+  {
+    "id": "0d98b2509fdb",
+    "text": "Great quality, fast shipping. Will definitely order again. Overall rating: 4/5.",
+    "source": "play_store",
+    "timestamp": "2024-04-19T12:23:00",
+    "rating": 5
+  },
+  {
+    "id": "afb29e245af2",
+    "text": "Really impressed with the build quality and design.",
+    "source": "twitter",
+    "timestamp": "2024-04-20T02:57:00",
+    "rating": 4
+  },
+  {
+    "id": "a92617a33970",
+    "text": "Functional product. Does what it says.",
+    "source": "web_form",
+    "timestamp": "2024-04-20T23:25:00",
+    "rating": 3
+  },
+  {
+    "id": "f01979c7e3dd",
+    "text": "Poor quality materials. Broke after two weeks of use.",
+    "source": "web_form",
+    "timestamp": "2024-04-20T08:17:00",
+    "rating": 1
+  },
+  {
+    "id": "9ee8188eec34",
+    "text": "Mala calidad. Se rompió después de dos semanas.",
+    "source": "app_store",
+    "timestamp": "2024-04-21T17:30:00",
+    "rating": 2
+  },
+  {
+    "id": "4d25d21b5d54",
+    "text": "Poor quality materials. Broke after two weeks of use.",
+    "source": "app_store",
+    "timestamp": "2024-04-21T17:50:00",
+    "rating": 2
+  },
+  {
+    "id": "68cec6a195e0",
+    "text": "Expérience terrible. J'ai attendu 3 semaines pour rien.",
+    "source": "support_ticket",
+    "timestamp": "2024-04-21T16:20:00",
+    "rating": 1
+  },
+  {
+    "id": "62a6a3ef328b",
+    "text": "¡Me encanta este producto! La mejor compra que he hecho.",
+    "source": "web_form",
+    "timestamp": "2024-04-22T08:03:00",
+    "rating": 5
+  },
+  {
+    "id": "9db15c8adf74",
+    "text": "Average experience. Delivery was on time. Would rate 3/10.",
+    "source": "chat",
+    "timestamp": "2024-04-22T05:11:00",
+    "rating": 3
+  },
+  {
+    "id": "ddd461ac0e83",
+    "text": "It's okay for the price point. Nothing to complain about.",
+    "source": "chat",
+    "timestamp": "2024-04-23T18:09:00",
+    "rating": 3
+  },
+  {
+    "id": "a8995de033da",
+    "text": "Product arrived damaged and customer support was unhelpful. Overall rating: 1/5.",
+    "source": "chat",
+    "timestamp": "2024-04-23T10:58:00",
+    "rating": 2
+  },
+  {
+    "id": "cf0609c1cfcb",
+    "text": "ひどい経験でした。3週間待っても届きませんでした。 スコア: 1/10。",
+    "source": "support_ticket",
+    "timestamp": "2024-04-23T02:23:00",
+    "rating": 2
+  },
+  {
+    "id": "0b46244aad20",
+    "text": "The software crashes constantly. Very frustrating.",
+    "source": "web_form",
+    "timestamp": "2024-04-24T13:50:00",
+    "rating": 1
+  },
+  {
+    "id": "973f981ca8ee",
+    "text": "Mala calidad. Se rompió después de dos semanas. Calificación: 2/10.",
+    "source": "app_store",
+    "timestamp": "2024-04-24T04:11:00",
+    "rating": 1
+  },
+  {
+    "id": "a7fcf4aa8eb4",
+    "text": "Poor quality materials. Broke after two weeks of use.",
+    "source": "web_form",
+    "timestamp": "2024-04-24T03:59:00",
+    "rating": 2
+  },
+  {
+    "id": "bc6817c71804",
+    "text": "Not worth the price. Very disappointing quality. Overall rating: 2/5.",
+    "source": "chat",
+    "timestamp": "2024-04-25T08:13:00",
+    "rating": 2
+  },
+  {
+    "id": "eecc004d8f5d",
+    "text": "Product arrived damaged and customer support was unhelpful. Would rate 2/10.",
+    "source": "support_ticket",
+    "timestamp": "2024-04-25T15:56:00",
+    "rating": 2
+  },
+  {
+    "id": "822bd418d317",
+    "text": "The new feature update is amazing, exactly what I needed. Overall rating: 4/5.",
+    "source": "play_store",
+    "timestamp": "2024-04-25T10:16:00",
+    "rating": 4
+  },
+  {
+    "id": "5a608e492af1",
+    "text": "Terrible experience. Waited 3 weeks for delivery that never came.",
+    "source": "web_form",
+    "timestamp": "2024-04-26T02:21:00",
+    "rating": 2
+  },
+  {
+    "id": "2e2078c0d315",
+    "text": "Standard service, met expectations but didn't exceed them. Overall rating: 3/5.",
+    "source": "survey",
+    "timestamp": "2024-04-26T13:44:00",
+    "rating": 3
+  },
+  {
+    "id": "9992b76025c3",
+    "text": "Misleading product description. Nothing like advertised. Overall rating: 1/5.",
+    "source": "web_form",
+    "timestamp": "2024-04-27T09:52:00",
+    "rating": 1
+  },
+  {
+    "id": "9b9167666561",
+    "text": "Very satisfied with the experience. Highly recommend!",
+    "source": "play_store",
+    "timestamp": "2024-04-27T15:54:00",
+    "rating": 5
+  },
+  {
+    "id": "cacc430f759e",
+    "text": "Schreckliche Erfahrung. 3 Wochen gewartet ohne Ergebnis. Note: 1/10.",
+    "source": "web_form",
+    "timestamp": "2024-04-27T11:11:00",
+    "rating": 2
+  },
+  {
+    "id": "4d2f814dbaa1",
+    "text": "Worst customer service I've ever encountered.",
+    "source": "play_store",
+    "timestamp": "2024-04-28T04:48:00",
+    "rating": 2
+  },
+  {
+    "id": "f494ca790f4b",
+    "text": "Functional product. Does what it says. Score: 3/5.",
+    "source": "web_form",
+    "timestamp": "2024-04-28T21:55:00",
+    "rating": 3
+  },
+  {
+    "id": "15b6dbaade39",
+    "text": "Product arrived damaged and customer support was unhelpful.",
+    "source": "email",
+    "timestamp": "2024-04-28T16:51:00",
+    "rating": 2
+  },
+  {
+    "id": "d2d7176a11e3",
+    "text": "製品が破損して届きました。サポートも役に立ちませんでした。",
+    "source": "support_ticket",
+    "timestamp": "2024-04-29T04:02:00",
+    "rating": 2
+  },
+  {
+    "id": "a50f1450851b",
+    "text": "Das Produkt kam beschädigt an und der Support war nutzlos.",
+    "source": "play_store",
+    "timestamp": "2024-04-29T08:20:00",
+    "rating": 2
+  },
+  {
+    "id": "e1e0d4d62c30",
+    "text": "Mala calidad. Se rompió después de dos semanas.",
+    "source": "support_ticket",
+    "timestamp": "2024-04-29T00:50:00",
+    "rating": 2
+  },
+  {
+    "id": "40efc5eb438f",
+    "text": "¡Me encanta este producto! La mejor compra que he hecho.",
+    "source": "play_store",
+    "timestamp": "2024-04-30T18:49:00",
+    "rating": 5
+  },
+  {
+    "id": "8242512ea8e0",
+    "text": "Standard service, met expectations but didn't exceed them.",
+    "source": "email",
+    "timestamp": "2024-04-30T15:02:00",
+    "rating": 3
+  },
+  {
+    "id": "50d18a94c572",
+    "text": "Muy satisfecho con la experiencia. ¡Lo recomiendo! Calificación: 5/10.",
+    "source": "twitter",
+    "timestamp": "2024-04-30T08:57:00",
+    "rating": 4
+  },
+  {
+    "id": "7d217031f852",
+    "text": "It's okay for the price point. Nothing to complain about.",
+    "source": "play_store",
+    "timestamp": "2024-05-01T22:43:00",
+    "rating": 3
+  },
+  {
+    "id": "48b0b5be77e4",
+    "text": "Expérience terrible. J'ai attendu 3 semaines pour rien. Évaluation: 1/10.",
+    "source": "support_ticket",
+    "timestamp": "2024-05-01T06:58:00",
+    "rating": 2
+  },
+  {
+    "id": "ea09df97e12f",
+    "text": "El producto funciona como se describe. Nada especial. Puntuación: 3/5.",
+    "source": "chat",
+    "timestamp": "2024-05-02T06:56:00",
+    "rating": 3
+  },
+  {
+    "id": "1d220675c4a0",
+    "text": "Excellent value for money. Exceeded my expectations.",
+    "source": "web_form",
+    "timestamp": "2024-05-02T08:23:00",
+    "rating": 5
+  },
+  {
+    "id": "c61f1802c573",
+    "text": "Misleading product description. Nothing like advertised.",
+    "source": "web_form",
+    "timestamp": "2024-05-02T05:55:00",
+    "rating": 2
+  },
+  {
+    "id": "5cddb2374982",
+    "text": "Schlechte Qualität. Nach zwei Wochen kaputt gegangen.",
+    "source": "app_store",
+    "timestamp": "2024-05-03T02:18:00",
+    "rating": 1
+  },
+  {
+    "id": "33af4f2edc2b",
+    "text": "Experiencia terrible. Esperé 3 semanas sin resultado.",
+    "source": "chat",
+    "timestamp": "2024-05-03T20:14:00",
+    "rating": 2
+  },
+  {
+    "id": "c9cd5f4f05f3",
+    "text": "Schlechte Qualität. Nach zwei Wochen kaputt gegangen. Bewertung: 1/5.",
+    "source": "survey",
+    "timestamp": "2024-05-03T08:38:00",
+    "rating": 2
+  },
+  {
+    "id": "c52d31c416e8",
+    "text": "Das Produkt funktioniert wie beschrieben. Nichts Besonderes. Bewertung: 3/5.",
+    "source": "twitter",
+    "timestamp": "2024-05-04T00:32:00",
+    "rating": 3
+  },
+  {
+    "id": "2730ef05e7fa",
+    "text": "Not worth the price. Very disappointing quality.",
+    "source": "survey",
+    "timestamp": "2024-05-04T20:20:00",
+    "rating": 2
+  },
+  {
+    "id": "10165b116545",
+    "text": "Experiencia terrible. Esperé 3 semanas sin resultado.",
+    "source": "twitter",
+    "timestamp": "2024-05-04T19:25:00",
+    "rating": 1
+  },
+  {
+    "id": "5fb507265130",
+    "text": "ひどい経験でした。3週間待っても届きませんでした。",
+    "source": "app_store",
+    "timestamp": "2024-05-05T12:24:00",
+    "rating": 2
+  },
+  {
+    "id": "623e6a443af5",
+    "text": "Misleading product description. Nothing like advertised.",
+    "source": "survey",
+    "timestamp": "2024-05-05T21:22:00",
+    "rating": 1
+  },
+  {
+    "id": "c87974c8b9a9",
+    "text": "Very satisfied with the experience. Highly recommend!",
+    "source": "email",
+    "timestamp": "2024-05-05T17:48:00",
+    "rating": 5
+  },
+  {
+    "id": "9d1cbde7fbf4",
+    "text": "Very satisfied with the experience. Highly recommend!",
+    "source": "survey",
+    "timestamp": "2024-05-06T10:23:00",
+    "rating": 5
+  },
+  {
+    "id": "7cf995866844",
+    "text": "Functional product. Does what it says.",
+    "source": "web_form",
+    "timestamp": "2024-05-06T19:04:00",
+    "rating": 3
+  },
+  {
+    "id": "250d6266ed15",
+    "text": "It's okay for the price point. Nothing to complain about.",
+    "source": "chat",
+    "timestamp": "2024-05-07T04:08:00",
+    "rating": 3
+  },
+  {
+    "id": "843d41f74d2d",
+    "text": "Das Produkt funktioniert wie beschrieben. Nichts Besonderes. Note: 3/10.",
+    "source": "twitter",
+    "timestamp": "2024-05-07T20:11:00",
+    "rating": 3
+  },
+  {
+    "id": "0f21bc3ec57b",
+    "text": "Great quality, fast shipping. Will definitely order again.",
+    "source": "play_store",
+    "timestamp": "2024-05-07T05:31:00",
+    "rating": 4
+  },
+  {
+    "id": "7d02a4ee50ef",
+    "text": "Misleading product description. Nothing like advertised.",
+    "source": "chat",
+    "timestamp": "2024-05-08T01:34:00",
+    "rating": 1
+  },
+  {
+    "id": "170b42fb7a19",
+    "text": "Le produit fonctionne comme décrit. Rien de spécial. Évaluation: 3/10.",
+    "source": "play_store",
+    "timestamp": "2024-05-08T09:08:00",
+    "rating": 3
+  },
+  {
+    "id": "ff7859d5527c",
+    "text": "Der Kundenservice war unglaublich hilfreich.",
+    "source": "twitter",
+    "timestamp": "2024-05-08T14:46:00",
+    "rating": 5
+  },
+  {
+    "id": "061fdaedff5f",
+    "text": "カスタマーサービスが非常に親切で助かりました。",
+    "source": "support_ticket",
+    "timestamp": "2024-05-09T05:58:00",
+    "rating": 4
+  },
+  {
+    "id": "1891677b908a",
+    "text": "この製品が大好きです！最高の買い物でした。",
+    "source": "email",
+    "timestamp": "2024-05-09T18:32:00",
+    "rating": 4
+  },
+  {
+    "id": "0647b75ffb0c",
+    "text": "Expérience terrible. J'ai attendu 3 semaines pour rien.",
+    "source": "app_store",
+    "timestamp": "2024-05-09T08:49:00",
+    "rating": 1
+  },
+  {
+    "id": "150aa21654f3",
+    "text": "Terrible experience. Waited 3 weeks for delivery that never came.",
+    "source": "survey",
+    "timestamp": "2024-05-10T12:07:00",
+    "rating": 1
+  },
+  {
+    "id": "aa3faf994758",
+    "text": "J'adore ce produit ! Le meilleur achat que j'ai fait.",
+    "source": "survey",
+    "timestamp": "2024-05-10T21:06:00",
+    "rating": 4
+  },
+  {
+    "id": "1aa8fb020790",
+    "text": "Functional product. Does what it says. Overall rating: 3/5.",
+    "source": "survey",
+    "timestamp": "2024-05-11T19:12:00",
+    "rating": 3
+  },
+  {
+    "id": "150dcc6d227d",
+    "text": "Product arrived damaged and customer support was unhelpful.",
+    "source": "web_form",
+    "timestamp": "2024-05-11T06:44:00",
+    "rating": 1
+  },
+  {
+    "id": "8d7976b8ccfa",
+    "text": "J'adore ce produit ! Le meilleur achat que j'ai fait.",
+    "source": "email",
+    "timestamp": "2024-05-11T21:31:00",
+    "rating": 4
+  },
+  {
+    "id": "6f858c35935c",
+    "text": "Worst customer service I've ever encountered.",
+    "source": "survey",
+    "timestamp": "2024-05-12T14:18:00",
+    "rating": 1
+  },
+  {
+    "id": "848dcd163944",
+    "text": "Absolutely love this product! Best purchase I've made.",
+    "source": "twitter",
+    "timestamp": "2024-05-12T11:51:00",
+    "rating": 5
+  },
+  {
+    "id": "bd84f35ea401",
+    "text": "J'adore ce produit ! Le meilleur achat que j'ai fait. Évaluation: 4/10.",
+    "source": "survey",
+    "timestamp": "2024-05-12T14:39:00",
+    "rating": 4
+  },
+  {
+    "id": "1f2d3e7e9212",
+    "text": "Standard service, met expectations but didn't exceed them.",
+    "source": "support_ticket",
+    "timestamp": "2024-05-13T14:17:00",
+    "rating": 3
+  },
+  {
+    "id": "b7b60593dd21",
+    "text": "Le produit est arrivé endommagé et le support était inutile. Évaluation: 1/10.",
+    "source": "web_form",
+    "timestamp": "2024-05-13T18:30:00",
+    "rating": 2
+  },
+  {
+    "id": "e0323f0ac8cb",
+    "text": "El producto funciona como se describe. Nada especial.",
+    "source": "support_ticket",
+    "timestamp": "2024-05-13T15:07:00",
+    "rating": 3
+  },
+  {
+    "id": "fa31b2965135",
+    "text": "J'adore ce produit ! Le meilleur achat que j'ai fait.",
+    "source": "chat",
+    "timestamp": "2024-05-14T21:33:00",
+    "rating": 5
+  },
+  {
+    "id": "7c7942ffd19b",
+    "text": "Très satisfait de l'expérience. Hautement recommandé !",
+    "source": "support_ticket",
+    "timestamp": "2024-05-14T21:41:00",
+    "rating": 4
+  },
+  {
+    "id": "5d5374f10b70",
+    "text": "素晴らしい品質です。強くお勧めします！",
+    "source": "email",
+    "timestamp": "2024-05-15T15:55:00",
+    "rating": 4
+  },
+  {
+    "id": "bace1e085071",
+    "text": "Very satisfied with the experience. Highly recommend! Overall rating: 4/5.",
+    "source": "web_form",
+    "timestamp": "2024-05-15T02:29:00",
+    "rating": 5
+  },
+  {
+    "id": "bcb499bcc7aa",
+    "text": "Product works as described. Nothing special.",
+    "source": "app_store",
+    "timestamp": "2024-05-15T23:41:00",
+    "rating": 3
+  },
+  {
+    "id": "8f2c98d4218a",
+    "text": "¡Me encanta este producto! La mejor compra que he hecho.",
+    "source": "survey",
+    "timestamp": "2024-05-16T19:39:00",
+    "rating": 4
+  },
+  {
+    "id": "c6ffab859e8f",
+    "text": "Product works as described. Nothing special.",
+    "source": "web_form",
+    "timestamp": "2024-05-16T14:21:00",
+    "rating": 3
+  },
+  {
+    "id": "065b8c632edd",
+    "text": "Le service client était incroyablement utile et efficace. Note: 5/5.",
+    "source": "email",
+    "timestamp": "2024-05-16T01:57:00",
+    "rating": 5
+  },
+  {
+    "id": "33be87d724fd",
+    "text": "Expérience moyenne. Livraison à temps. Évaluation: 3/10.",
+    "source": "chat",
+    "timestamp": "2024-05-17T06:29:00",
+    "rating": 3
+  },
+  {
+    "id": "6be00bdb9004",
+    "text": "Functional product. Does what it says. Would rate 3/10.",
+    "source": "app_store",
+    "timestamp": "2024-05-17T00:33:00",
+    "rating": 3
+  },
+  {
+    "id": "8caf1b96d74f",
+    "text": "Le produit fonctionne comme décrit. Rien de spécial.",
+    "source": "email",
+    "timestamp": "2024-05-17T05:46:00",
+    "rating": 3
+  },
+  {
+    "id": "18434f96b724",
+    "text": "Mala calidad. Se rompió después de dos semanas.",
+    "source": "chat",
+    "timestamp": "2024-05-18T12:26:00",
+    "rating": 2
+  },
+  {
+    "id": "1e772c657344",
+    "text": "製品は説明通りに動作します。特別なものはありません。",
+    "source": "survey",
+    "timestamp": "2024-05-18T04:26:00",
+    "rating": 3
+  },
+  {
+    "id": "14e97151cbb4",
+    "text": "Excelente calidad, envío rápido. Definitivamente pediré de nuevo.",
+    "source": "email",
+    "timestamp": "2024-05-18T21:08:00",
+    "rating": 5
+  },
+  {
+    "id": "ac485b5e58b9",
+    "text": "Experiencia promedio. La entrega fue puntual.",
+    "source": "support_ticket",
+    "timestamp": "2024-05-19T17:18:00",
+    "rating": 3
+  },
+  {
+    "id": "3590608515ea",
+    "text": "Absolutely love this product! Best purchase I've made. Overall rating: 4/5.",
+    "source": "survey",
+    "timestamp": "2024-05-19T01:44:00",
+    "rating": 4
+  },
+  {
+    "id": "d5dc0e77691e",
+    "text": "The new feature update is amazing, exactly what I needed.",
+    "source": "chat",
+    "timestamp": "2024-05-20T17:24:00",
+    "rating": 5
+  },
+  {
+    "id": "e62786e9542c",
+    "text": "It's okay for the price point. Nothing to complain about.",
+    "source": "survey",
+    "timestamp": "2024-05-20T01:00:00",
+    "rating": 3
+  },
+  {
+    "id": "f471d8302e37",
+    "text": "製品は説明通りに動作します。特別なものはありません。",
+    "source": "chat",
+    "timestamp": "2024-05-20T17:47:00",
+    "rating": 3
+  },
+  {
+    "id": "36a7285498a9",
+    "text": "この製品が大好きです！最高の買い物でした。 評価: 4/5。",
+    "source": "survey",
+    "timestamp": "2024-05-21T13:17:00",
+    "rating": 4
+  },
+  {
+    "id": "a6216310aa51",
+    "text": "Not worth the price. Very disappointing quality.",
+    "source": "email",
+    "timestamp": "2024-05-21T04:02:00",
+    "rating": 1
+  },
+  {
+    "id": "5780155cd18a",
+    "text": "Experiencia promedio. La entrega fue puntual.",
+    "source": "twitter",
+    "timestamp": "2024-05-21T18:35:00",
+    "rating": 3
+  },
+  {
+    "id": "3771c1095a70",
+    "text": "素晴らしい品質です。強くお勧めします！ 評価: 4/5。",
+    "source": "chat",
+    "timestamp": "2024-05-22T11:14:00",
+    "rating": 5
+  },
+  {
+    "id": "11acc24032cd",
+    "text": "Really impressed with the build quality and design.",
+    "source": "play_store",
+    "timestamp": "2024-05-22T20:00:00",
+    "rating": 5
+  },
+  {
+    "id": "d9cb669457ef",
+    "text": "El servicio al cliente fue increíblemente útil.",
+    "source": "twitter",
+    "timestamp": "2024-05-22T21:56:00",
+    "rating": 5
+  },
+  {
+    "id": "8af6fe2e3d27",
+    "text": "Excelente calidad, envío rápido. Definitivamente pediré de nuevo. Puntuación: 5/5.",
+    "source": "chat",
+    "timestamp": "2024-05-23T09:57:00",
+    "rating": 5
+  },
+  {
+    "id": "b933d6cd797e",
+    "text": "Functional product. Does what it says.",
+    "source": "chat",
+    "timestamp": "2024-05-23T20:04:00",
+    "rating": 3
+  },
+  {
+    "id": "8bb6d99a448e",
+    "text": "Standard service, met expectations but didn't exceed them.",
+    "source": "email",
+    "timestamp": "2024-05-24T02:47:00",
+    "rating": 3
+  },
+  {
+    "id": "490f5a8625ac",
+    "text": "Terrible experience. Waited 3 weeks for delivery that never came. Would rate 1/10.",
+    "source": "web_form",
+    "timestamp": "2024-05-24T13:24:00",
+    "rating": 2
+  },
+  {
+    "id": "421bb398eafd",
+    "text": "Customer service was incredibly helpful and resolved my issue quickly.",
+    "source": "play_store",
+    "timestamp": "2024-05-24T20:46:00",
+    "rating": 4
+  },
+  {
+    "id": "5057dad31f32",
+    "text": "Excelente calidad, envío rápido. Definitivamente pediré de nuevo.",
+    "source": "play_store",
+    "timestamp": "2024-05-25T09:38:00",
+    "rating": 5
+  },
+  {
+    "id": "121990128874",
+    "text": "Ich liebe dieses Produkt! Bester Kauf den ich je gemacht habe.",
+    "source": "email",
+    "timestamp": "2024-05-25T17:14:00",
+    "rating": 5
+  },
+  {
+    "id": "07f58e9bb0df",
+    "text": "It's okay for the price point. Nothing to complain about.",
+    "source": "email",
+    "timestamp": "2024-05-25T00:35:00",
+    "rating": 3
+  },
+  {
+    "id": "a933cf020589",
+    "text": "¡Me encanta este producto! La mejor compra que he hecho.",
+    "source": "twitter",
+    "timestamp": "2024-05-26T23:47:00",
+    "rating": 4
+  },
+  {
+    "id": "8ad329d31baa",
+    "text": "Das Produkt funktioniert wie beschrieben. Nichts Besonderes. Bewertung: 3/5.",
+    "source": "app_store",
+    "timestamp": "2024-05-26T05:42:00",
+    "rating": 3
+  },
+  {
+    "id": "4dd9b74f599f",
+    "text": "Customer service was incredibly helpful and resolved my issue quickly. Overall rating: 5/5.",
+    "source": "chat",
+    "timestamp": "2024-05-26T21:41:00",
+    "rating": 4
+  },
+  {
+    "id": "c91e26498430",
+    "text": "ひどい経験でした。3週間待っても届きませんでした。",
+    "source": "survey",
+    "timestamp": "2024-05-27T10:39:00",
+    "rating": 2
+  },
+  {
+    "id": "d12cc8db5170",
+    "text": "製品は説明通りに動作します。特別なものはありません。 スコア: 3/10。",
+    "source": "twitter",
+    "timestamp": "2024-05-27T11:08:00",
+    "rating": 3
+  },
+  {
+    "id": "43bbef2f1e6f",
+    "text": "Très satisfait de l'expérience. Hautement recommandé !",
+    "source": "play_store",
+    "timestamp": "2024-05-27T05:41:00",
+    "rating": 5
+  },
+  {
+    "id": "7773474acd14",
+    "text": "Product works as described. Nothing special.",
+    "source": "app_store",
+    "timestamp": "2024-05-28T00:54:00",
+    "rating": 3
+  },
+  {
+    "id": "72702c18d353",
+    "text": "Experiencia promedio. La entrega fue puntual.",
+    "source": "support_ticket",
+    "timestamp": "2024-05-28T04:23:00",
+    "rating": 3
+  },
+  {
+    "id": "d739055b9726",
+    "text": "¡Me encanta este producto! La mejor compra que he hecho.",
+    "source": "chat",
+    "timestamp": "2024-05-29T16:00:00",
+    "rating": 4
+  },
+  {
+    "id": "a82b33b2364b",
+    "text": "Great quality, fast shipping. Will definitely order again.",
+    "source": "app_store",
+    "timestamp": "2024-05-29T15:22:00",
+    "rating": 4
+  },
+  {
+    "id": "c4627cd85c9c",
+    "text": "The new feature update is amazing, exactly what I needed. Would rate 4/10.",
+    "source": "app_store",
+    "timestamp": "2024-05-29T14:56:00",
+    "rating": 4
+  },
+  {
+    "id": "1f60c6d4d727",
+    "text": "素晴らしい品質です。強くお勧めします！",
+    "source": "email",
+    "timestamp": "2024-05-30T23:16:00",
+    "rating": 5
+  },
+  {
+    "id": "072c5c1d6a13",
+    "text": "J'adore ce produit ! Le meilleur achat que j'ai fait.",
+    "source": "chat",
+    "timestamp": "2024-05-30T12:58:00",
+    "rating": 5
+  },
+  {
+    "id": "242fc15d6ffa",
+    "text": "Standard service, met expectations but didn't exceed them.",
+    "source": "email",
+    "timestamp": "2024-05-30T00:32:00",
+    "rating": 3
+  },
+  {
+    "id": "1517985d27df",
+    "text": "Excelente calidad, envío rápido. Definitivamente pediré de nuevo. Puntuación: 4/5.",
+    "source": "support_ticket",
+    "timestamp": "2024-05-31T21:14:00",
+    "rating": 5
+  },
+  {
+    "id": "df95218b0d2d",
+    "text": "The new feature update is amazing, exactly what I needed.",
+    "source": "support_ticket",
+    "timestamp": "2024-05-31T20:53:00",
+    "rating": 4
+  },
+  {
+    "id": "9900e7759b57",
+    "text": "El servicio al cliente fue increíblemente útil. Puntuación: 4/5.",
+    "source": "email",
+    "timestamp": "2024-05-31T08:59:00",
+    "rating": 5
+  },
+  {
+    "id": "ae3d97b9d8ad",
+    "text": "Expérience moyenne. Livraison à temps.",
+    "source": "web_form",
+    "timestamp": "2024-06-01T06:28:00",
+    "rating": 3
+  },
+  {
+    "id": "e300c723cbf5",
+    "text": "Great quality, fast shipping. Will definitely order again.",
+    "source": "survey",
+    "timestamp": "2024-06-01T05:39:00",
+    "rating": 4
+  },
+  {
+    "id": "d1a826c685e2",
+    "text": "El producto funciona como se describe. Nada especial. Puntuación: 3/5.",
+    "source": "support_ticket",
+    "timestamp": "2024-06-02T06:33:00",
+    "rating": 3
+  },
+  {
+    "id": "e1219697ba88",
+    "text": "素晴らしい品質です。強くお勧めします！ 評価: 4/5。",
+    "source": "app_store",
+    "timestamp": "2024-06-02T19:34:00",
+    "rating": 5
+  },
+  {
+    "id": "1e4649494e8a",
+    "text": "The team went above and beyond to help me. Outstanding! Score: 5/5.",
+    "source": "play_store",
+    "timestamp": "2024-06-02T23:58:00",
+    "rating": 5
+  },
+  {
+    "id": "59e70c5d398c",
+    "text": "J'adore ce produit ! Le meilleur achat que j'ai fait. Note: 5/5.",
+    "source": "app_store",
+    "timestamp": "2024-06-03T22:47:00",
+    "rating": 4
+  },
+  {
+    "id": "110dc92921a9",
+    "text": "Excellent value for money. Exceeded my expectations.",
+    "source": "support_ticket",
+    "timestamp": "2024-06-03T03:09:00",
+    "rating": 5
+  },
+  {
+    "id": "1851486dcfa2",
+    "text": "It's okay for the price point. Nothing to complain about.",
+    "source": "chat",
+    "timestamp": "2024-06-03T21:25:00",
+    "rating": 3
+  },
+  {
+    "id": "b4904ca108e9",
+    "text": "Muy satisfecho con la experiencia. ¡Lo recomiendo! Puntuación: 5/5.",
+    "source": "chat",
+    "timestamp": "2024-06-04T21:07:00",
+    "rating": 5
+  },
+  {
+    "id": "d1cabaaad146",
+    "text": "Excelente calidad, envío rápido. Definitivamente pediré de nuevo.",
+    "source": "app_store",
+    "timestamp": "2024-06-04T19:44:00",
+    "rating": 4
+  },
+  {
+    "id": "ef3746b1d1a2",
+    "text": "Product works as described. Nothing special.",
+    "source": "support_ticket",
+    "timestamp": "2024-06-04T15:59:00",
+    "rating": 3
+  },
+  {
+    "id": "c24c6da72f48",
+    "text": "Absolutely love this product! Best purchase I've made.",
+    "source": "survey",
+    "timestamp": "2024-06-05T12:39:00",
+    "rating": 4
+  },
+  {
+    "id": "687f221e3dee",
+    "text": "Poor quality materials. Broke after two weeks of use.",
+    "source": "chat",
+    "timestamp": "2024-06-05T16:18:00",
+    "rating": 1
+  },
+  {
+    "id": "3e9ebfbbb39b",
+    "text": "Expérience terrible. J'ai attendu 3 semaines pour rien. Évaluation: 1/10.",
+    "source": "support_ticket",
+    "timestamp": "2024-06-05T12:22:00",
+    "rating": 1
+  },
+  {
+    "id": "72c13722c41e",
+    "text": "J'adore ce produit ! Le meilleur achat que j'ai fait.",
+    "source": "twitter",
+    "timestamp": "2024-06-06T17:18:00",
+    "rating": 5
+  },
+  {
+    "id": "fd59306b1ae1",
+    "text": "カスタマーサービスが非常に親切で助かりました。",
+    "source": "survey",
+    "timestamp": "2024-06-06T18:00:00",
+    "rating": 4
+  },
+  {
+    "id": "a28b9b5eccb8",
+    "text": "Excelente calidad, envío rápido. Definitivamente pediré de nuevo.",
+    "source": "survey",
+    "timestamp": "2024-06-07T03:51:00",
+    "rating": 5
+  },
+  {
+    "id": "079f3bc59e94",
+    "text": "El producto funciona como se describe. Nada especial.",
+    "source": "web_form",
+    "timestamp": "2024-06-07T14:43:00",
+    "rating": 3
+  },
+  {
+    "id": "0db2c1f911b2",
+    "text": "The new feature update is amazing, exactly what I needed.",
+    "source": "twitter",
+    "timestamp": "2024-06-07T07:51:00",
+    "rating": 5
+  },
+  {
+    "id": "7ae50654b135",
+    "text": "Very satisfied with the experience. Highly recommend! Overall rating: 4/5.",
+    "source": "email",
+    "timestamp": "2024-06-08T17:59:00",
+    "rating": 5
+  },
+  {
+    "id": "7a3807dc2020",
+    "text": "Der Kundenservice war unglaublich hilfreich. Bewertung: 4/5.",
+    "source": "survey",
+    "timestamp": "2024-06-08T23:15:00",
+    "rating": 4
+  },
+  {
+    "id": "a5de481553b5",
+    "text": "Excellent value for money. Exceeded my expectations. Score: 4/5.",
+    "source": "app_store",
+    "timestamp": "2024-06-08T21:31:00",
+    "rating": 4
+  },
+  {
+    "id": "57787a914331",
+    "text": "Very satisfied with the experience. Highly recommend!",
+    "source": "support_ticket",
+    "timestamp": "2024-06-09T16:17:00",
+    "rating": 4
+  },
+  {
+    "id": "ee556d2224d9",
+    "text": "Très satisfait de l'expérience. Hautement recommandé !",
+    "source": "twitter",
+    "timestamp": "2024-06-09T01:32:00",
+    "rating": 5
+  },
+  {
+    "id": "b4dc9d0bd3d9",
+    "text": "Really impressed with the build quality and design.",
+    "source": "chat",
+    "timestamp": "2024-06-09T00:00:00",
+    "rating": 5
+  },
+  {
+    "id": "878c2117c4d9",
+    "text": "Excelente calidad, envío rápido. Definitivamente pediré de nuevo. Calificación: 5/10.",
+    "source": "twitter",
+    "timestamp": "2024-06-10T19:21:00",
+    "rating": 4
+  },
+  {
+    "id": "86dbaa244266",
+    "text": "Excellent value for money. Exceeded my expectations.",
+    "source": "web_form",
+    "timestamp": "2024-06-10T12:17:00",
+    "rating": 4
+  },
+  {
+    "id": "7e548aa56f4d",
+    "text": "Le produit fonctionne comme décrit. Rien de spécial.",
+    "source": "support_ticket",
+    "timestamp": "2024-06-11T07:35:00",
+    "rating": 3
+  },
+  {
+    "id": "8ea6dfdaac77",
+    "text": "この製品が大好きです！最高の買い物でした。",
+    "source": "support_ticket",
+    "timestamp": "2024-06-11T00:11:00",
+    "rating": 5
+  },
+  {
+    "id": "d9475fac1fae",
+    "text": "Das Produkt funktioniert wie beschrieben. Nichts Besonderes.",
+    "source": "app_store",
+    "timestamp": "2024-06-11T09:16:00",
+    "rating": 3
+  },
+  {
+    "id": "a13566e1668a",
+    "text": "Worst customer service I've ever encountered.",
+    "source": "web_form",
+    "timestamp": "2024-06-12T20:06:00",
+    "rating": 2
+  },
+  {
+    "id": "ace332d6c3b8",
+    "text": "Excelente calidad, envío rápido. Definitivamente pediré de nuevo.",
+    "source": "twitter",
+    "timestamp": "2024-06-12T13:07:00",
+    "rating": 4
+  },
+  {
+    "id": "a0e253c884d2",
+    "text": "It's okay for the price point. Nothing to complain about.",
+    "source": "web_form",
+    "timestamp": "2024-06-12T15:49:00",
+    "rating": 3
+  },
+  {
+    "id": "ff25c26bfd16",
+    "text": "The software crashes constantly. Very frustrating.",
+    "source": "twitter",
+    "timestamp": "2024-06-13T20:51:00",
+    "rating": 2
+  },
+  {
+    "id": "4e3f46de5fbd",
+    "text": "Average experience. Delivery was on time.",
+    "source": "survey",
+    "timestamp": "2024-06-13T10:20:00",
+    "rating": 3
+  },
+  {
+    "id": "124c46968421",
+    "text": "Excellent value for money. Exceeded my expectations.",
+    "source": "support_ticket",
+    "timestamp": "2024-06-13T16:28:00",
+    "rating": 4
+  },
+  {
+    "id": "e4df0d9d1acb",
+    "text": "Average experience. Delivery was on time.",
+    "source": "play_store",
+    "timestamp": "2024-06-14T23:44:00",
+    "rating": 3
+  },
+  {
+    "id": "5c0ef4a958e7",
+    "text": "Really impressed with the build quality and design.",
+    "source": "support_ticket",
+    "timestamp": "2024-06-14T00:49:00",
+    "rating": 4
+  },
+  {
+    "id": "465dd702ec31",
+    "text": "The team went above and beyond to help me. Outstanding!",
+    "source": "survey",
+    "timestamp": "2024-06-14T07:47:00",
+    "rating": 5
+  },
+  {
+    "id": "996ee71a2644",
+    "text": "Ich liebe dieses Produkt! Bester Kauf den ich je gemacht habe. Note: 5/10.",
+    "source": "survey",
+    "timestamp": "2024-06-15T17:59:00",
+    "rating": 5
+  },
+  {
+    "id": "ebcd9c32c2a6",
+    "text": "Le produit fonctionne comme décrit. Rien de spécial.",
+    "source": "support_ticket",
+    "timestamp": "2024-06-15T14:40:00",
+    "rating": 3
+  },
+  {
+    "id": "a8393d640f33",
+    "text": "Customer service was incredibly helpful and resolved my issue quickly.",
+    "source": "survey",
+    "timestamp": "2024-06-16T11:26:00",
+    "rating": 4
+  },
+  {
+    "id": "2a1ba35ee8cd",
+    "text": "El servicio al cliente fue increíblemente útil.",
+    "source": "app_store",
+    "timestamp": "2024-06-16T15:34:00",
+    "rating": 5
+  },
+  {
+    "id": "a1e0925b2831",
+    "text": "Excellente qualité, livraison rapide. Je recommande vivement !",
+    "source": "twitter",
+    "timestamp": "2024-06-16T00:35:00",
+    "rating": 4
+  },
+  {
+    "id": "c8cae4d4ad37",
+    "text": "Average experience. Delivery was on time. Would rate 3/10.",
+    "source": "chat",
+    "timestamp": "2024-06-17T02:27:00",
+    "rating": 3
+  },
+  {
+    "id": "1bdaadfd3324",
+    "text": "Mala calidad. Se rompió después de dos semanas.",
+    "source": "email",
+    "timestamp": "2024-06-17T02:11:00",
+    "rating": 1
+  },
+  {
+    "id": "dda4878e3eac",
+    "text": "Mala calidad. Se rompió después de dos semanas.",
+    "source": "twitter",
+    "timestamp": "2024-06-17T15:12:00",
+    "rating": 1
+  },
+  {
+    "id": "10b1d9086a4a",
+    "text": "El servicio al cliente fue increíblemente útil.",
+    "source": "email",
+    "timestamp": "2024-06-18T09:17:00",
+    "rating": 5
+  },
+  {
+    "id": "edc3a7cdd2a3",
+    "text": "Really impressed with the build quality and design. Would rate 5/10.",
+    "source": "app_store",
+    "timestamp": "2024-06-18T14:44:00",
+    "rating": 5
+  },
+  {
+    "id": "c856ddf1fe22",
+    "text": "製品は説明通りに動作します。特別なものはありません。 評価: 3/5。",
+    "source": "survey",
+    "timestamp": "2024-06-18T06:57:00",
+    "rating": 3
+  },
+  {
+    "id": "4f90d45e5c9f",
+    "text": "Le service client était incroyablement utile et efficace.",
+    "source": "app_store",
+    "timestamp": "2024-06-19T14:15:00",
+    "rating": 4
+  },
+  {
+    "id": "f05290b914ca",
+    "text": "Poor quality materials. Broke after two weeks of use.",
+    "source": "twitter",
+    "timestamp": "2024-06-19T21:19:00",
+    "rating": 1
+  },
+  {
+    "id": "0d7a07c75daa",
+    "text": "El producto llegó dañado y el soporte no ayudó. Puntuación: 1/5.",
+    "source": "play_store",
+    "timestamp": "2024-06-20T21:13:00",
+    "rating": 2
+  },
+  {
+    "id": "69152cbaec4f",
+    "text": "Very satisfied with the experience. Highly recommend!",
+    "source": "chat",
+    "timestamp": "2024-06-20T12:50:00",
+    "rating": 4
+  },
+  {
+    "id": "d444eb504b6a",
+    "text": "Qualité médiocre. Cassé après deux semaines d'utilisation.",
+    "source": "play_store",
+    "timestamp": "2024-06-20T11:49:00",
+    "rating": 1
+  },
+  {
+    "id": "9c980249696d",
+    "text": "Excellente qualité, livraison rapide. Je recommande vivement !",
+    "source": "app_store",
+    "timestamp": "2024-06-21T20:03:00",
+    "rating": 5
+  },
+  {
+    "id": "4f9e1eeea954",
+    "text": "Le produit est arrivé endommagé et le support était inutile.",
+    "source": "twitter",
+    "timestamp": "2024-06-21T10:35:00",
+    "rating": 1
+  },
+  {
+    "id": "c96542d7c843",
+    "text": "Great quality, fast shipping. Will definitely order again. Score: 4/5.",
+    "source": "web_form",
+    "timestamp": "2024-06-21T09:34:00",
+    "rating": 4
+  },
+  {
+    "id": "027765270430",
+    "text": "Really impressed with the build quality and design. Would rate 4/10.",
+    "source": "survey",
+    "timestamp": "2024-06-22T09:52:00",
+    "rating": 5
+  },
+  {
+    "id": "6121ca8f872b",
+    "text": "Muy satisfecho con la experiencia. ¡Lo recomiendo!",
+    "source": "twitter",
+    "timestamp": "2024-06-22T00:39:00",
+    "rating": 4
+  },
+  {
+    "id": "07c2908a3633",
+    "text": "Qualité médiocre. Cassé après deux semaines d'utilisation.",
+    "source": "web_form",
+    "timestamp": "2024-06-22T06:33:00",
+    "rating": 2
+  },
+  {
+    "id": "e9efb0b27602",
+    "text": "¡Me encanta este producto! La mejor compra que he hecho. Puntuación: 4/5.",
+    "source": "play_store",
+    "timestamp": "2024-06-23T01:12:00",
+    "rating": 5
+  },
+  {
+    "id": "5ea983b64b10",
+    "text": "Muy satisfecho con la experiencia. ¡Lo recomiendo!",
+    "source": "survey",
+    "timestamp": "2024-06-23T16:39:00",
+    "rating": 4
+  },
+  {
+    "id": "162c104bcfa7",
+    "text": "J'adore ce produit ! Le meilleur achat que j'ai fait.",
+    "source": "web_form",
+    "timestamp": "2024-06-23T06:41:00",
+    "rating": 4
+  },
+  {
+    "id": "a8e091488caa",
+    "text": "Functional product. Does what it says.",
+    "source": "twitter",
+    "timestamp": "2024-06-24T13:52:00",
+    "rating": 3
+  },
+  {
+    "id": "ebd01bcb41d3",
+    "text": "Excellente qualité, livraison rapide. Je recommande vivement ! Note: 4/5.",
+    "source": "chat",
+    "timestamp": "2024-06-24T17:24:00",
+    "rating": 4
+  },
+  {
+    "id": "3ae192e2c3ae",
+    "text": "ひどい経験でした。3週間待っても届きませんでした。",
+    "source": "twitter",
+    "timestamp": "2024-06-25T20:36:00",
+    "rating": 2
+  },
+  {
+    "id": "54729aa27653",
+    "text": "Average experience. Delivery was on time.",
+    "source": "email",
+    "timestamp": "2024-06-25T16:21:00",
+    "rating": 3
+  },
+  {
+    "id": "cac2f6371e53",
+    "text": "Experiencia promedio. La entrega fue puntual.",
+    "source": "support_ticket",
+    "timestamp": "2024-06-25T13:48:00",
+    "rating": 3
+  },
+  {
+    "id": "761cbb4a85d5",
+    "text": "Worst customer service I've ever encountered.",
+    "source": "support_ticket",
+    "timestamp": "2024-06-26T14:28:00",
+    "rating": 1
+  },
+  {
+    "id": "188492cb059b",
+    "text": "El producto funciona como se describe. Nada especial.",
+    "source": "survey",
+    "timestamp": "2024-06-26T09:00:00",
+    "rating": 3
+  },
+  {
+    "id": "5fe5909e7053",
+    "text": "It's okay for the price point. Nothing to complain about.",
+    "source": "email",
+    "timestamp": "2024-06-26T16:35:00",
+    "rating": 3
+  },
+  {
+    "id": "8623f34647f1",
+    "text": "Very satisfied with the experience. Highly recommend!",
+    "source": "chat",
+    "timestamp": "2024-06-27T18:15:00",
+    "rating": 5
+  },
+  {
+    "id": "443844832f8a",
+    "text": "The new feature update is amazing, exactly what I needed.",
+    "source": "web_form",
+    "timestamp": "2024-06-27T23:20:00",
+    "rating": 4
+  },
+  {
+    "id": "fcfcc04a776a",
+    "text": "Le produit fonctionne comme décrit. Rien de spécial.",
+    "source": "support_ticket",
+    "timestamp": "2024-06-27T09:02:00",
+    "rating": 3
+  },
+  {
+    "id": "1676a3c79ef9",
+    "text": "Standard service, met expectations but didn't exceed them.",
+    "source": "chat",
+    "timestamp": "2024-06-28T03:55:00",
+    "rating": 3
+  },
+  {
+    "id": "d1d26b71afe9",
+    "text": "Excelente calidad, envío rápido. Definitivamente pediré de nuevo.",
+    "source": "chat",
+    "timestamp": "2024-06-28T04:20:00",
+    "rating": 4
+  }
+]
