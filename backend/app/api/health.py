@@ -110,7 +110,7 @@ async def model_diagnostics():
         }
 
     # Check is_model_available state
-    from app.services.sentiment import _model, _tokenizer, _models_available
+    from app.services.sentiment import _model, _models_available, _tokenizer
     diag["state"] = {
         "is_model_available": is_model_available(),
         "_model_loaded": _model is not None,

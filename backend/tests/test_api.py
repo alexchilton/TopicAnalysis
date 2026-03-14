@@ -6,8 +6,6 @@ import io
 import json
 from unittest.mock import AsyncMock, patch
 
-import pytest
-
 
 class TestHealthEndpoints:
     def test_health(self, client, api_headers):

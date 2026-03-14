@@ -34,13 +34,7 @@ def detect_language(text: str) -> LanguageResult:
         import cld3
 
         result = cld3.get_language(text)
-        if result and result.is_reliable:
-            return LanguageResult(
-                language=result.language,
-                confidence=round(result.probability, 4),
-                method="cld3",
-            )
-        elif result:
+        if result and result.is_reliable or result:
             return LanguageResult(
                 language=result.language,
                 confidence=round(result.probability, 4),

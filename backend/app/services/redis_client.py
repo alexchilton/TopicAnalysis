@@ -3,7 +3,8 @@
 from __future__ import annotations
 
 import json
-from typing import Any, AsyncIterator, Optional
+from collections.abc import AsyncIterator
+from typing import Any
 
 import redis.asyncio as aioredis
 
@@ -12,7 +13,7 @@ from app.core.logging import get_logger
 
 logger = get_logger(__name__)
 
-_redis: Optional[aioredis.Redis] = None
+_redis: aioredis.Redis | None = None
 
 
 async def get_redis() -> aioredis.Redis:
@@ -33,7 +34,7 @@ async def close_redis() -> None:
         _redis = None
 
 
-async def cache_get(key: str) -> Optional[Any]:
+async def cache_get(key: str) -> Any | None:
     try:
         r = await get_redis()
         val = await r.get(f"cache:{key}")

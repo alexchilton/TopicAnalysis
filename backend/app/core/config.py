@@ -3,7 +3,6 @@
 from __future__ import annotations
 
 from pathlib import Path
-from typing import List
 
 from pydantic import field_validator
 from pydantic_settings import BaseSettings, SettingsConfigDict
@@ -23,13 +22,13 @@ class Settings(BaseSettings):
     debug: bool = False
     secret_key: str = "change-me-in-production"
     api_key_header: str = "X-API-Key"
-    allowed_api_keys: List[str] = ["dev-key-1"]
+    allowed_api_keys: list[str] = ["dev-key-1"]
 
     # Server
     backend_host: str = "0.0.0.0"
     backend_port: int = 8000
     frontend_url: str = "http://localhost:3000"
-    cors_origins: List[str] = ["http://localhost:3000", "http://localhost:8080"]
+    cors_origins: list[str] = ["http://localhost:3000", "http://localhost:8080"]
 
     # Redis
     redis_url: str = "redis://localhost:6379/0"

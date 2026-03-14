@@ -5,15 +5,14 @@ from __future__ import annotations
 import uuid
 from collections import Counter
 from datetime import datetime
-from typing import Any, Dict, List, Optional
 
 import numpy as np
 
 from app.core.logging import get_logger
 from app.models.schemas import (
     AnalysisResult,
-    AnalysisSummary,
     AnalysisStatus,
+    AnalysisSummary,
     AnalyzedEntry,
     FeedbackEntry,
     SentimentLabel,
@@ -40,15 +39,15 @@ from app.services.topic_clustering import (
 logger = get_logger(__name__)
 
 # In-memory job store (production would use a database)
-_jobs: Dict[str, AnalysisResult] = {}
+_jobs: dict[str, AnalysisResult] = {}
 
 
 async def run_analysis(
     entries: list[FeedbackEntry],
-    job_id: Optional[str] = None,
+    job_id: str | None = None,
     detect_anomalies: bool = True,
-    min_cluster_size: Optional[int] = None,
-    min_samples: Optional[int] = None,
+    min_cluster_size: int | None = None,
+    min_samples: int | None = None,
 ) -> AnalysisResult:
     """Run the full analysis pipeline."""
     job_id = job_id or uuid.uuid4().hex[:12]

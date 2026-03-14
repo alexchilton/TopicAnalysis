@@ -5,7 +5,6 @@ from __future__ import annotations
 import asyncio
 import time
 from concurrent.futures import ThreadPoolExecutor
-from typing import List, Optional
 
 from app.core.config import settings
 from app.core.logging import get_logger
@@ -91,7 +90,7 @@ def _predict_batch_sync(texts: list[str]) -> list[SentimentResult]:
 
         scores = outputs.logits.detach().numpy()
 
-        for j, score_row in enumerate(scores):
+        for _j, score_row in enumerate(scores):
             probs = softmax(score_row)
             label_idx = int(probs.argmax())
             # Use model's own id2label mapping (0=negative, 1=neutral, 2=positive)
@@ -145,7 +144,7 @@ def analyze_sentiment_sync(texts: list[str]) -> list[SentimentResult]:
     return _predict_batch_sync(texts)
 
 
-_models_available: Optional[bool] = None
+_models_available: bool | None = None
 
 
 def is_model_available() -> bool:

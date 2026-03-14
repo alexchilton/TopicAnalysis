@@ -4,13 +4,12 @@ from __future__ import annotations
 
 import asyncio
 from concurrent.futures import ThreadPoolExecutor
-from typing import List, Optional, Tuple
 
 import numpy as np
 
 from app.core.config import settings
 from app.core.logging import get_logger
-from app.models.schemas import TopicCluster, TopicGraph, TopicInfo, TopicLink
+from app.models.schemas import TopicCluster, TopicGraph, TopicLink
 
 logger = get_logger(__name__)
 
@@ -64,10 +63,10 @@ def _adaptive_params(n_docs: int) -> dict:
 
 def _cluster_topics_sync(
     texts: list[str],
-    embeddings: Optional[np.ndarray] = None,
-    min_cluster_size: Optional[int] = None,
-    min_samples: Optional[int] = None,
-) -> Tuple[list[int], list[TopicCluster], Optional[np.ndarray]]:
+    embeddings: np.ndarray | None = None,
+    min_cluster_size: int | None = None,
+    min_samples: int | None = None,
+) -> tuple[list[int], list[TopicCluster], np.ndarray | None]:
     from bertopic import BERTopic
     from hdbscan import HDBSCAN
     from sklearn.feature_extraction.text import CountVectorizer
@@ -187,10 +186,10 @@ def build_topic_graph(clusters: list[TopicCluster], embeddings: np.ndarray, topi
 
 async def cluster_topics(
     texts: list[str],
-    embeddings: Optional[np.ndarray] = None,
-    min_cluster_size: Optional[int] = None,
-    min_samples: Optional[int] = None,
-) -> Tuple[list[int], list[TopicCluster], Optional[np.ndarray]]:
+    embeddings: np.ndarray | None = None,
+    min_cluster_size: int | None = None,
+    min_samples: int | None = None,
+) -> tuple[list[int], list[TopicCluster], np.ndarray | None]:
     loop = asyncio.get_event_loop()
     return await loop.run_in_executor(
         _executor, _cluster_topics_sync, texts, embeddings, min_cluster_size, min_samples
@@ -202,7 +201,7 @@ async def compute_embeddings(texts: list[str]) -> np.ndarray:
     return await loop.run_in_executor(_executor, _compute_embeddings, texts)
 
 
-_embedding_available: Optional[bool] = None
+_embedding_available: bool | None = None
 
 
 def is_embedding_model_available() -> bool:

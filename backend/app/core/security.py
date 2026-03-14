@@ -5,7 +5,6 @@ from __future__ import annotations
 import hashlib
 import hmac
 import time
-from typing import Optional
 
 from fastapi import HTTPException, Request, Security
 from fastapi.security import APIKeyHeader
@@ -17,7 +16,7 @@ from app.core.config import settings
 api_key_header = APIKeyHeader(name=settings.api_key_header, auto_error=False)
 
 
-def get_api_key(api_key: Optional[str] = Security(api_key_header)) -> str:
+def get_api_key(api_key: str | None = Security(api_key_header)) -> str:
     if not api_key or api_key not in settings.allowed_api_keys:
         raise HTTPException(status_code=403, detail="Invalid or missing API key")
     return api_key

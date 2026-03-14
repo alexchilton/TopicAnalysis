@@ -3,12 +3,10 @@
 from __future__ import annotations
 
 import json
-from unittest.mock import patch
 
-import numpy as np
 import pytest
 
-from app.models.schemas import FeedbackEntry, SentimentLabel, SentimentResult
+from app.models.schemas import SentimentLabel, SentimentResult
 
 
 class TestLanguageDetection:

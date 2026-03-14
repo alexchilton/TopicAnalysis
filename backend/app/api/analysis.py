@@ -3,7 +3,6 @@
 from __future__ import annotations
 
 import uuid
-from typing import Optional
 
 from fastapi import APIRouter, BackgroundTasks, Depends, File, HTTPException, Query, UploadFile
 
@@ -35,7 +34,7 @@ router = APIRouter(prefix="/api/v1", tags=["analysis"])
 async def upload_file(
     background_tasks: BackgroundTasks,
     file: UploadFile = File(...),
-    source: Optional[str] = Query(None, description="Data source label"),
+    source: str | None = Query(None, description="Data source label"),
     api_key: str = Depends(get_api_key),
 ):
     """Upload a file for analysis. Supports CSV, JSON, Excel, ZIP."""
@@ -81,12 +80,11 @@ async def upload_chunked(
     file: UploadFile = File(...),
     chunk_index: int = Query(0, ge=0),
     total_chunks: int = Query(1, ge=1),
-    upload_id: Optional[str] = Query(None),
-    source: Optional[str] = Query(None),
+    upload_id: str | None = Query(None),
+    source: str | None = Query(None),
     api_key: str = Depends(get_api_key),
 ):
     """Chunked upload for files >10MB."""
-    from pathlib import Path
 
     upload_id = upload_id or uuid.uuid4().hex[:12]
     chunk_dir = settings.upload_path / f"chunks_{upload_id}"

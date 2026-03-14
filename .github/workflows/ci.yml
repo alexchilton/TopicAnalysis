@@ -47,6 +47,8 @@ jobs:
           python-version: ${{ env.PYTHON_VERSION }}
           cache: pip
           cache-dependency-path: backend/requirements.txt
+      - name: Install system dependencies
+        run: sudo apt-get install -y libprotobuf-dev protobuf-compiler
       - name: Install dependencies
         run: |
           cd backend
@@ -95,7 +97,7 @@ jobs:
       - name: Install dependencies
         run: cd frontend && npm ci
       - name: Run tests
-        run: cd frontend && npm test -- --watchAll=false --coverage
+        run: cd frontend && npm test -- --run --coverage
       - name: Upload coverage
         uses: actions/upload-artifact@v4
         if: always()

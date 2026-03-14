@@ -4,7 +4,6 @@ from __future__ import annotations
 
 import uuid
 from datetime import datetime
-from typing import List, Optional
 
 import numpy as np
 
@@ -17,8 +16,8 @@ logger = get_logger(__name__)
 
 def detect_sentiment_anomalies(
     sentiments: list[SentimentResult],
-    window: Optional[int] = None,
-    threshold: Optional[float] = None,
+    window: int | None = None,
+    threshold: float | None = None,
 ) -> list[AnomalyAlert]:
     """Detect when sentiment drops below rolling average - threshold * std."""
     window = window or settings.anomaly_rolling_window
@@ -63,8 +62,8 @@ def detect_sentiment_anomalies(
 
 def detect_topic_spikes(
     topic_assignments: list[int],
-    window: Optional[int] = None,
-    threshold: Optional[float] = None,
+    window: int | None = None,
+    threshold: float | None = None,
 ) -> list[AnomalyAlert]:
     """Detect unusual spikes in topic frequency."""
     window = window or settings.anomaly_rolling_window
@@ -120,7 +119,7 @@ def detect_topic_spikes(
 def run_anomaly_detection(
     sentiments: list[SentimentResult],
     topic_assignments: list[int],
-    thresholds: Optional[dict] = None,
+    thresholds: dict | None = None,
 ) -> list[AnomalyAlert]:
     """Run all anomaly detection checks."""
     window = thresholds.get("rolling_window") if thresholds else None

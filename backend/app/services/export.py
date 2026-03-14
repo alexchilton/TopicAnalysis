@@ -5,7 +5,6 @@ from __future__ import annotations
 import csv
 import io
 import json
-from typing import List
 
 from app.core.logging import get_logger
 from app.models.schemas import AnalyzedEntry, ExportFormat
@@ -57,9 +56,9 @@ def export_pdf(entries: list[AnalyzedEntry], summary: dict | None = None) -> byt
     """Generate a PDF report using reportlab."""
     try:
         from reportlab.lib import colors
-        from reportlab.lib.pagesizes import A4, letter
+        from reportlab.lib.pagesizes import A4
         from reportlab.lib.styles import ParagraphStyle, getSampleStyleSheet
-        from reportlab.lib.units import inch
+        from reportlab.lib.units import inch  # noqa: F401
         from reportlab.platypus import (
             Paragraph,
             SimpleDocTemplate,
