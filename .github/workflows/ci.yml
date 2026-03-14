@@ -47,8 +47,6 @@ jobs:
           python-version: ${{ env.PYTHON_VERSION }}
           cache: pip
           cache-dependency-path: backend/requirements.txt
-      - name: Install system dependencies
-        run: sudo apt-get install -y libprotobuf-dev protobuf-compiler
       - name: Install dependencies
         run: |
           cd backend
