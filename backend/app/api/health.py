@@ -39,6 +39,7 @@ async def readiness():
     redis_ok = await check_redis_health()
     if not redis_ok:
         from fastapi import HTTPException
+
         raise HTTPException(status_code=503, detail="Redis not available")
     return {"status": "ready"}
 
@@ -56,6 +57,7 @@ async def model_diagnostics():
     # Check torch
     try:
         import torch
+
         diag["checks"]["torch"] = {"ok": True, "version": torch.__version__}
     except Exception as e:
         diag["checks"]["torch"] = {"ok": False, "error": str(e)}
@@ -63,6 +65,7 @@ async def model_diagnostics():
     # Check transformers
     try:
         import transformers
+
         diag["checks"]["transformers"] = {"ok": True, "version": transformers.__version__}
     except Exception as e:
         diag["checks"]["transformers"] = {"ok": False, "error": str(e)}
@@ -70,6 +73,7 @@ async def model_diagnostics():
     # Check scipy
     try:
         import scipy
+
         diag["checks"]["scipy"] = {"ok": True, "version": scipy.__version__}
     except Exception as e:
         diag["checks"]["scipy"] = {"ok": False, "error": str(e)}
@@ -77,9 +81,14 @@ async def model_diagnostics():
     # Try loading model
     try:
         from transformers import AutoModelForSequenceClassification, AutoTokenizer
+
         t0 = time.time()
-        tok = AutoTokenizer.from_pretrained(settings.sentiment_model, cache_dir=settings.model_cache_dir, use_fast=False)
-        model = AutoModelForSequenceClassification.from_pretrained(settings.sentiment_model, cache_dir=settings.model_cache_dir)
+        tok = AutoTokenizer.from_pretrained(
+            settings.sentiment_model, cache_dir=settings.model_cache_dir, use_fast=False
+        )
+        model = AutoModelForSequenceClassification.from_pretrained(
+            settings.sentiment_model, cache_dir=settings.model_cache_dir
+        )
         model.eval()
         elapsed = round(time.time() - t0, 2)
         diag["checks"]["model_load"] = {
@@ -92,6 +101,7 @@ async def model_diagnostics():
         # Try an actual prediction
         import torch
         from scipy.special import softmax
+
         inputs = tok("I love this product, it's amazing!", return_tensors="pt", truncation=True, max_length=512)
         with torch.no_grad():
             outputs = model(**inputs)
@@ -111,6 +121,7 @@ async def model_diagnostics():
 
     # Check is_model_available state
     from app.services.sentiment import _model, _models_available, _tokenizer
+
     diag["state"] = {
         "is_model_available": is_model_available(),
         "_model_loaded": _model is not None,

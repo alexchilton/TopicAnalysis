@@ -191,9 +191,7 @@ async def cluster_topics(
     min_samples: int | None = None,
 ) -> tuple[list[int], list[TopicCluster], np.ndarray | None]:
     loop = asyncio.get_event_loop()
-    return await loop.run_in_executor(
-        _executor, _cluster_topics_sync, texts, embeddings, min_cluster_size, min_samples
-    )
+    return await loop.run_in_executor(_executor, _cluster_topics_sync, texts, embeddings, min_cluster_size, min_samples)
 
 
 async def compute_embeddings(texts: list[str]) -> np.ndarray:

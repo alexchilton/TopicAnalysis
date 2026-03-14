@@ -91,10 +91,12 @@ class TestJobEndpoints:
 
 class TestWebhookEndpoints:
     def test_webhook_invalid_signature(self, client):
-        payload = json.dumps({
-            "event_type": "feedback",
-            "data": [{"text": "test feedback"}],
-        })
+        payload = json.dumps(
+            {
+                "event_type": "feedback",
+                "data": [{"text": "test feedback"}],
+            }
+        )
         resp = client.post(
             "/api/v1/webhooks/ingest",
             content=payload,

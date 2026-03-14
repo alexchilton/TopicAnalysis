@@ -18,17 +18,46 @@ logger = get_logger(__name__)
 
 SUPPORTED_EXTENSIONS = {".csv", ".json", ".xlsx", ".xls", ".zip"}
 TEXT_COLUMN_CANDIDATES = [
-    "text", "content", "message", "body", "feedback", "review",
-    "comment", "description", "note", "summary", "title",
-    "Text", "Content", "Message", "Body", "Feedback", "Review",
+    "text",
+    "content",
+    "message",
+    "body",
+    "feedback",
+    "review",
+    "comment",
+    "description",
+    "note",
+    "summary",
+    "title",
+    "Text",
+    "Content",
+    "Message",
+    "Body",
+    "Feedback",
+    "Review",
 ]
 TIMESTAMP_COLUMN_CANDIDATES = [
-    "timestamp", "date", "created_at", "created", "time", "datetime",
-    "Timestamp", "Date", "Created", "CreatedAt",
+    "timestamp",
+    "date",
+    "created_at",
+    "created",
+    "time",
+    "datetime",
+    "Timestamp",
+    "Date",
+    "Created",
+    "CreatedAt",
 ]
 SOURCE_COLUMN_CANDIDATES = [
-    "source", "channel", "platform", "origin", "category", "type",
-    "Source", "Channel", "Platform",
+    "source",
+    "channel",
+    "platform",
+    "origin",
+    "category",
+    "type",
+    "Source",
+    "Channel",
+    "Platform",
 ]
 
 
@@ -50,8 +79,7 @@ def _df_to_entries(df: pd.DataFrame, source: str | None = None) -> list[Feedback
             text_col = df.columns[0]
         else:
             raise ValueError(
-                f"No text column found. Expected one of: {TEXT_COLUMN_CANDIDATES}. "
-                f"Found columns: {list(df.columns)}"
+                f"No text column found. Expected one of: {TEXT_COLUMN_CANDIDATES}. Found columns: {list(df.columns)}"
             )
 
     ts_col = _find_column(df, TIMESTAMP_COLUMN_CANDIDATES)
@@ -110,11 +138,7 @@ def parse_json(content: bytes, source: str | None = None) -> list[FeedbackEntry]
 
     if isinstance(data, list):
         if all(isinstance(item, str) for item in data):
-            return [
-                FeedbackEntry(id=uuid.uuid4().hex[:12], text=item, source=source)
-                for item in data
-                if item.strip()
-            ]
+            return [FeedbackEntry(id=uuid.uuid4().hex[:12], text=item, source=source) for item in data if item.strip()]
         df = pd.DataFrame(data)
         return _df_to_entries(df, source)
     elif isinstance(data, dict):

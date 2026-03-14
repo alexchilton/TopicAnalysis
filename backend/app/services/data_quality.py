@@ -29,10 +29,7 @@ def analyze_data_quality(entries: list[AnalyzedEntry]) -> DataQualityReport:
     # Mixed language: entries where detected language differs from majority
     lang_counts = Counter(e.language.language for e in entries)
     majority_lang = lang_counts.most_common(1)[0][0] if lang_counts else "unknown"
-    mixed_lang = [
-        e for e in entries
-        if e.language.language != majority_lang and e.language.language != "unknown"
-    ]
+    mixed_lang = [e for e in entries if e.language.language != majority_lang and e.language.language != "unknown"]
     mixed_lang_ids = [e.id for e in mixed_lang[:50]]
 
     # Duplicate detection via text similarity (exact and near-duplicates)

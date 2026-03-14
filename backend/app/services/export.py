@@ -15,16 +15,35 @@ logger = get_logger(__name__)
 def export_csv(entries: list[AnalyzedEntry]) -> bytes:
     output = io.StringIO()
     writer = csv.writer(output)
-    writer.writerow([
-        "id", "text", "source", "timestamp", "sentiment_label",
-        "sentiment_score", "confidence", "language", "topic_id", "topic_label",
-    ])
+    writer.writerow(
+        [
+            "id",
+            "text",
+            "source",
+            "timestamp",
+            "sentiment_label",
+            "sentiment_score",
+            "confidence",
+            "language",
+            "topic_id",
+            "topic_label",
+        ]
+    )
     for e in entries:
-        writer.writerow([
-            e.id, e.text, e.source or "", e.timestamp or "",
-            e.sentiment.label.value, e.sentiment.score, e.sentiment.confidence,
-            e.language.language, e.topic_id, e.topic_label,
-        ])
+        writer.writerow(
+            [
+                e.id,
+                e.text,
+                e.source or "",
+                e.timestamp or "",
+                e.sentiment.label.value,
+                e.sentiment.score,
+                e.sentiment.confidence,
+                e.language.language,
+                e.topic_id,
+                e.topic_label,
+            ]
+        )
     return output.getvalue().encode("utf-8")
 
 
@@ -68,9 +87,7 @@ def export_pdf(entries: list[AnalyzedEntry], summary: dict | None = None) -> byt
         )
     except ImportError:
         logger.error("reportlab_not_installed")
-        raise ImportError(
-            "PDF export requires reportlab. Install it with: pip install reportlab"
-        )
+        raise ImportError("PDF export requires reportlab. Install it with: pip install reportlab")
 
     buffer = io.BytesIO()
     doc = SimpleDocTemplate(buffer, pagesize=A4)
@@ -94,25 +111,31 @@ def export_pdf(entries: list[AnalyzedEntry], summary: dict | None = None) -> byt
     table_data = [["ID", "Sentiment", "Score", "Language", "Topic"]]
 
     for e in entries[:500]:  # Limit for PDF
-        table_data.append([
-            e.id[:8],
-            e.sentiment.label.value,
-            f"{e.sentiment.score:.2f}",
-            e.language.language,
-            e.topic_label[:30],
-        ])
+        table_data.append(
+            [
+                e.id[:8],
+                e.sentiment.label.value,
+                f"{e.sentiment.score:.2f}",
+                e.language.language,
+                e.topic_label[:30],
+            ]
+        )
 
     table = Table(table_data, colWidths=[60, 70, 50, 60, 180])
-    table.setStyle(TableStyle([
-        ("BACKGROUND", (0, 0), (-1, 0), colors.HexColor("#1a1a2e")),
-        ("TEXTCOLOR", (0, 0), (-1, 0), colors.white),
-        ("ALIGN", (0, 0), (-1, -1), "LEFT"),
-        ("FONTSIZE", (0, 0), (-1, 0), 10),
-        ("FONTSIZE", (0, 1), (-1, -1), 8),
-        ("BOTTOMPADDING", (0, 0), (-1, 0), 8),
-        ("GRID", (0, 0), (-1, -1), 0.5, colors.grey),
-        ("ROWBACKGROUNDS", (0, 1), (-1, -1), [colors.white, colors.HexColor("#f5f5f5")]),
-    ]))
+    table.setStyle(
+        TableStyle(
+            [
+                ("BACKGROUND", (0, 0), (-1, 0), colors.HexColor("#1a1a2e")),
+                ("TEXTCOLOR", (0, 0), (-1, 0), colors.white),
+                ("ALIGN", (0, 0), (-1, -1), "LEFT"),
+                ("FONTSIZE", (0, 0), (-1, 0), 10),
+                ("FONTSIZE", (0, 1), (-1, -1), 8),
+                ("BOTTOMPADDING", (0, 0), (-1, 0), 8),
+                ("GRID", (0, 0), (-1, -1), 0.5, colors.grey),
+                ("ROWBACKGROUNDS", (0, 1), (-1, -1), [colors.white, colors.HexColor("#f5f5f5")]),
+            ]
+        )
+    )
 
     elements.append(table)
     doc.build(elements)

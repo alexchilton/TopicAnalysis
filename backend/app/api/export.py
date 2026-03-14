@@ -69,7 +69,5 @@ async def export_results(
     return Response(
         content=content,
         media_type=CONTENT_TYPES[fmt],
-        headers={
-            "Content-Disposition": f"attachment; filename=analysis_{job_id}.{FILE_EXTENSIONS[fmt]}"
-        },
+        headers={"Content-Disposition": f"attachment; filename=analysis_{job_id}.{FILE_EXTENSIONS[fmt]}"},
     )

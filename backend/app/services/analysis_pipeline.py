@@ -67,8 +67,9 @@ async def run_analysis(
         import time as _time
 
         texts = [e.text for e in entries]
-        logger.info("pipeline_started", job_id=job_id, entry_count=len(texts),
-                     sample_text=texts[0][:100] if texts else "")
+        logger.info(
+            "pipeline_started", job_id=job_id, entry_count=len(texts), sample_text=texts[0][:100] if texts else ""
+        )
 
         # Step 1: Language detection
         t0 = _time.time()
@@ -77,20 +78,22 @@ async def run_analysis(
         lang_counts = {}
         for l in languages:
             lang_counts[l.language] = lang_counts.get(l.language, 0) + 1
-        logger.info("language_detection_complete", elapsed=round(_time.time() - t0, 2),
-                     language_distribution=str(lang_counts))
+        logger.info(
+            "language_detection_complete", elapsed=round(_time.time() - t0, 2), language_distribution=str(lang_counts)
+        )
         await publish_event("analysis_updates", {"job_id": job_id, "status": "processing", "progress": 0.2})
 
         # Step 2: Sentiment analysis
         t0 = _time.time()
         model_available = is_model_available()
-        logger.info("pipeline_step", step="sentiment_analysis", count=len(texts),
-                     model_available=model_available)
+        logger.info("pipeline_step", step="sentiment_analysis", count=len(texts), model_available=model_available)
         if model_available:
             sentiments = await analyze_sentiment(texts)
         else:
-            logger.warning("sentiment_model_unavailable_using_fallback",
-                           reason="ML model could not be loaded — using keyword fallback")
+            logger.warning(
+                "sentiment_model_unavailable_using_fallback",
+                reason="ML model could not be loaded — using keyword fallback",
+            )
             sentiments = [get_fallback_sentiment(t) for t in texts]
 
         # Log sentiment distribution
@@ -98,14 +101,16 @@ async def run_analysis(
         scores = [s.score for s in sentiments]
         for s in sentiments:
             sent_dist[s.label.value] = sent_dist.get(s.label.value, 0) + 1
-        logger.info("sentiment_analysis_complete",
-                     elapsed=round(_time.time() - t0, 2),
-                     distribution=str(sent_dist),
-                     avg_score=round(sum(scores) / len(scores), 4) if scores else 0,
-                     min_score=round(min(scores), 4) if scores else 0,
-                     max_score=round(max(scores), 4) if scores else 0,
-                     sample_label=sentiments[0].label.value if sentiments else "none",
-                     sample_score=sentiments[0].score if sentiments else 0)
+        logger.info(
+            "sentiment_analysis_complete",
+            elapsed=round(_time.time() - t0, 2),
+            distribution=str(sent_dist),
+            avg_score=round(sum(scores) / len(scores), 4) if scores else 0,
+            min_score=round(min(scores), 4) if scores else 0,
+            max_score=round(max(scores), 4) if scores else 0,
+            sample_label=sentiments[0].label.value if sentiments else "none",
+            sample_score=sentiments[0].score if sentiments else 0,
+        )
         await publish_event("analysis_updates", {"job_id": job_id, "status": "processing", "progress": 0.4})
 
         # Step 3: Embeddings + Topic Clustering
@@ -127,15 +132,9 @@ async def run_analysis(
                 indices = [i for i, t in enumerate(topic_assignments) if t == cluster.topic_id]
                 if indices:
                     cluster_sentiments = [sentiments[i] for i in indices]
-                    cluster.avg_sentiment = round(
-                        np.mean([s.score for s in cluster_sentiments]), 4
-                    )
-                    cluster.sentiment_distribution = dict(
-                        Counter(s.label.value for s in cluster_sentiments)
-                    )
-                    cluster.languages = dict(
-                        Counter(languages[i].language for i in indices)
-                    )
+                    cluster.avg_sentiment = round(np.mean([s.score for s in cluster_sentiments]), 4)
+                    cluster.sentiment_distribution = dict(Counter(s.label.value for s in cluster_sentiments))
+                    cluster.languages = dict(Counter(languages[i].language for i in indices))
 
             topic_graph = build_topic_graph(clusters, embeddings, topic_assignments)
         else:
@@ -218,12 +217,15 @@ async def run_analysis(
         result.summary = summary
         _jobs[job_id] = result
 
-        await publish_event("analysis_updates", {
-            "job_id": job_id,
-            "status": "completed",
-            "progress": 1.0,
-            "total_entries": len(entries),
-        })
+        await publish_event(
+            "analysis_updates",
+            {
+                "job_id": job_id,
+                "status": "completed",
+                "progress": 1.0,
+                "total_entries": len(entries),
+            },
+        )
 
         logger.info("analysis_completed", job_id=job_id, entries=len(entries), topics=len(clusters))
         return result

@@ -53,6 +53,7 @@ def mock_embeddings():
 @pytest.fixture
 def client(mock_redis, mock_sentiment, mock_embeddings):
     from app.main import app
+
     with TestClient(app) as c:
         yield c
 
@@ -65,6 +66,7 @@ def sample_csv_content():
 @pytest.fixture
 def sample_json_content():
     import json
+
     data = [
         {"text": "Love this product!", "source": "app", "timestamp": "2024-01-01"},
         {"text": "Not happy with the service", "source": "email", "timestamp": "2024-01-02"},

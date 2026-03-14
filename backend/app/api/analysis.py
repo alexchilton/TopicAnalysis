@@ -59,7 +59,9 @@ async def upload_file(
         raise HTTPException(status_code=400, detail="No valid entries found in the uploaded file")
 
     job_id = uuid.uuid4().hex[:12]
-    logger.info("upload_received", job_id=job_id, filename=file.filename, entries=len(entries), size_mb=round(size_mb, 2))
+    logger.info(
+        "upload_received", job_id=job_id, filename=file.filename, entries=len(entries), size_mb=round(size_mb, 2)
+    )
 
     background_tasks.add_task(run_analysis, entries, job_id)
 
@@ -236,32 +238,30 @@ async def compare_segments(
 
     from app.models.schemas import AnalysisSummary, SentimentLabel
 
-    seg_a_entries = filter_entries(
-        job.entries, **comparison.segment_a.model_dump(exclude={"page", "page_size"})
-    )
-    seg_b_entries = filter_entries(
-        job.entries, **comparison.segment_b.model_dump(exclude={"page", "page_size"})
-    )
+    seg_a_entries = filter_entries(job.entries, **comparison.segment_a.model_dump(exclude={"page", "page_size"}))
+    seg_b_entries = filter_entries(job.entries, **comparison.segment_b.model_dump(exclude={"page", "page_size"}))
 
     def make_summary(entries):
         if not entries:
             return AnalysisSummary(
-                total_entries=0, avg_sentiment=0.5,
+                total_entries=0,
+                avg_sentiment=0.5,
                 dominant_sentiment=SentimentLabel.NEUTRAL,
-                num_topics=0, top_topics=[], languages_detected=[],
+                num_topics=0,
+                top_topics=[],
+                languages_detected=[],
             )
         sentiments = [e.sentiment for e in entries]
         topic_counts = Counter(e.topic_id for e in entries)
         return AnalysisSummary(
             total_entries=len(entries),
             avg_sentiment=round(float(np.mean([s.score for s in sentiments])), 4),
-            dominant_sentiment=SentimentLabel(
-                Counter(s.label.value for s in sentiments).most_common(1)[0][0]
-            ),
+            dominant_sentiment=SentimentLabel(Counter(s.label.value for s in sentiments).most_common(1)[0][0]),
             num_topics=len(set(e.topic_id for e in entries) - {-1}),
             top_topics=[
                 TopicInfo(topic_id=tid, label=f"Topic {tid}", keywords=[], size=cnt)
-                for tid, cnt in topic_counts.most_common(5) if tid != -1
+                for tid, cnt in topic_counts.most_common(5)
+                if tid != -1
             ],
             languages_detected=list(set(e.language.language for e in entries)),
         )
@@ -277,12 +277,8 @@ async def compare_segments(
         segment_b=sum_b,
         sentiment_delta=round(sum_b.avg_sentiment - sum_a.avg_sentiment, 4),
         topic_changes=[],
-        new_topics=[
-            TopicInfo(topic_id=t, label=f"Topic {t}", keywords=[], size=0)
-            for t in topics_b - topics_a
-        ],
+        new_topics=[TopicInfo(topic_id=t, label=f"Topic {t}", keywords=[], size=0) for t in topics_b - topics_a],
         disappeared_topics=[
-            TopicInfo(topic_id=t, label=f"Topic {t}", keywords=[], size=0)
-            for t in topics_a - topics_b
+            TopicInfo(topic_id=t, label=f"Topic {t}", keywords=[], size=0) for t in topics_a - topics_b
         ],
     )
